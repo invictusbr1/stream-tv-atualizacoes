@@ -1,8 +1,8 @@
 {
-  "versionCode": 182,
-  "versionName": "1.8.2",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.8.2/Stream-TV-Android-1.8.2-teste.apk",
-  "sha256": "9fe0cb156af068106c6b58572fbb576c03ecca3d22e98f3e637dad55c00a6645",
-  "bytes": 324615,
-  "notes": "Atualizador automático com notificação, botão Atualizar agora e validação de assinatura."
+  "versionCode": 183,
+  "versionName": "1.8.3",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.8.3/Stream-TV-Android-1.8.3-teste.apk",
+  "sha256": "ae1b8a5e4d94dcdfbe642f3900be54e0d9386d25ef8aa61b69bfc5a90b0c3af8",
+  "bytes": 301409,
+  "notes": "Jarvis de IA funcionando no celular e no computador, com escolha automática de modelo."
 }
