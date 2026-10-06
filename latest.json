@@ -1,8 +1,8 @@
 {
-  "versionCode": 183,
-  "versionName": "1.8.3",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.8.3/Stream-TV-Android-1.8.3-teste.apk",
-  "sha256": "ae1b8a5e4d94dcdfbe642f3900be54e0d9386d25ef8aa61b69bfc5a90b0c3af8",
-  "bytes": 301409,
-  "notes": "Jarvis de IA funcionando no celular e no computador, com escolha automática de modelo."
+  "versionCode": 184,
+  "versionName": "1.8.4",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.8.4/Stream-TV-Android-1.8.4-teste.apk",
+  "sha256": "c8864ee6770aaa06b46fe72016da4372c9bcfd7b4666c214b73cba96ec63fbb4",
+  "bytes": 302477,
+  "notes": "Reprodução: velocidade, faixa de áudio e qualidade em tempo real, atalho para fonte Full HD e novos rótulos de qualidade em cada fonte."
 }
