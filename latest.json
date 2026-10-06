@@ -1,8 +1,8 @@
 {
-  "versionCode": 181,
-  "versionName": "1.8.1",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.8.1/Stream-TV-Android-1.8.1-teste.apk",
-  "sha256": "dace040510bcc703e3bf4b5ca67ad09805640aebd4de9ff28e49868ea92b0db2",
-  "bytes": 306975,
-  "notes": "Atualizações pelo próprio aplicativo. Confirme a instalação na tela do Android."
+  "versionCode": 182,
+  "versionName": "1.8.2",
+  "apkUrl": "https://raw.githubusercontent.com/invictusbr1/stream-tv-atualizacoes/main/Stream-TV-Android-1.8.2-teste.apk",
+  "sha256": "9fe0cb156af068106c6b58572fbb576c03ecca3d22e98f3e637dad55c00a6645",
+  "bytes": 324615,
+  "notes": "Atualizador automático com notificação, botão Atualizar agora e validação de assinatura."
 }
