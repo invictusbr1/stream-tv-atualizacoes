@@ -1,8 +1,8 @@
 {
-  "versionCode": 189,
-  "versionName": "1.8.9",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.8.9/Conecta-TV-Android-1.8.9-teste.apk",
-  "sha256": "e154df013f67f77167288010386416c7b2c0d1d858f80a0257a71f65d6432304",
-  "bytes": 309500,
-  "notes": "Player limpo: sem botao Opcoes, controles por icones, troca de fonte automatica e memoria de qual fonte funciona. Jarvis agora aprende o gosto pelo historico de quem assiste."
+  "versionCode": 190,
+  "versionName": "1.9.0",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.0/Conecta-TV-Android-1.9.0-teste.apk",
+  "sha256": "c5184711451558c28052f8bc518aef3050471933d0da8e8ff6ac0d0c0f651736",
+  "bytes": 313082,
+  "notes": "Painel de dispositivos conectados: mostra cada aparelho ligado na conta, o que esta assistindo e permite encerrar a sessao a distancia."
 }
