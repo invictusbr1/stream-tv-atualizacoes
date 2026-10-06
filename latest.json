@@ -1,8 +1,8 @@
 {
-  "versionCode": 194,
-  "versionName": "1.9.4",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.4/Conecta-TV-Android-1.9.4-teste.apk",
-  "sha256": "341ecd543b7f3cba0f50e1d28b97fd09d6f3d6366c23221eecf940393071b8b1",
-  "bytes": 318623,
-  "notes": "Correcao das series: a pagina do modo com anuncios agora usa o catalogo do proprio aparelho, entao os episodios abrem de verdade (VidLink e VidSrc)."
+  "versionCode": 195,
+  "versionName": "1.9.5",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.5/Conecta-TV-Android-1.9.5-teste.apk",
+  "sha256": "234f9214742a51be094051634b87c2cac63421290a95b1b1e30490a6ea906325",
+  "bytes": 320536,
+  "notes": "Series automaticas: o usuario clica no episodio e o player abre sozinho na melhor fonte. O aplicativo verifica se a fonte tem o episodio e troca sozinho quando nao tem."
 }
