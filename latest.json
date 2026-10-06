@@ -1,8 +1,8 @@
 {
-  "versionCode": 192,
-  "versionName": "1.9.2",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.2/Conecta-TV-Android-1.9.2-teste.apk",
-  "sha256": "e2598dba50703a1c7f1efedf2b4cc2d9bfab0fbf9bc03baf7462f6a5b7bf9b37",
-  "bytes": 317899,
-  "notes": "Entrada com nome obrigatorio, registro de aparelho e IP com central de acessos, e legendas proprias do aplicativo (arquivos .srt na pasta Legendas)."
+  "versionCode": 193,
+  "versionName": "1.9.3",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.3/Conecta-TV-Android-1.9.3-teste.apk",
+  "sha256": "a4c85132a0858a325db3f6cd37170f3d889798198b26ecb9cb2a3294120a2162",
+  "bytes": 318351,
+  "notes": "Cada icone do player abre apenas o seu proprio menu: CC mostra so as legendas, 1x so a velocidade, qualidade so a qualidade. O painel (tres tracos) ficou apenas com as fontes."
 }
