@@ -1,8 +1,8 @@
 {
-  "versionCode": 193,
-  "versionName": "1.9.3",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.3/Conecta-TV-Android-1.9.3-teste.apk",
-  "sha256": "a4c85132a0858a325db3f6cd37170f3d889798198b26ecb9cb2a3294120a2162",
-  "bytes": 318351,
-  "notes": "Cada icone do player abre apenas o seu proprio menu: CC mostra so as legendas, 1x so a velocidade, qualidade so a qualidade. O painel (tres tracos) ficou apenas com as fontes."
+  "versionCode": 194,
+  "versionName": "1.9.4",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.4/Conecta-TV-Android-1.9.4-teste.apk",
+  "sha256": "341ecd543b7f3cba0f50e1d28b97fd09d6f3d6366c23221eecf940393071b8b1",
+  "bytes": 318623,
+  "notes": "Correcao das series: a pagina do modo com anuncios agora usa o catalogo do proprio aparelho, entao os episodios abrem de verdade (VidLink e VidSrc)."
 }
