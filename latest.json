@@ -1,8 +1,8 @@
 {
-  "versionCode": 190,
-  "versionName": "1.9.0",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.0/Conecta-TV-Android-1.9.0-teste.apk",
-  "sha256": "c5184711451558c28052f8bc518aef3050471933d0da8e8ff6ac0d0c0f651736",
-  "bytes": 313082,
-  "notes": "Painel de dispositivos conectados: mostra cada aparelho ligado na conta, o que esta assistindo e permite encerrar a sessao a distancia."
+  "versionCode": 191,
+  "versionName": "1.9.1",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.1/Conecta-TV-Android-1.9.1-teste.apk",
+  "sha256": "e5f5ca2bfd5f44e88797710e64836c7d8057f76bae2a3f030f1d7875c15e220e",
+  "bytes": 314107,
+  "notes": "Player: barra de progresso arrastavel para ir a qualquer ponto do filme e controle de volume com memoria da ultima escolha."
 }
