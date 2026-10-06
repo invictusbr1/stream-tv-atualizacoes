@@ -1,8 +1,8 @@
 {
-  "versionCode": 185,
-  "versionName": "1.8.5",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.8.5/Stream-TV-Android-1.8.5-teste.apk",
-  "sha256": "9e59071be8f83837c4c5dd7583f693b875a26a25364c38e4ea3a02a061530435",
-  "bytes": 306084,
-  "notes": "Nova interface: cabecalho fixo com busca, Jarvis e conta em icones, capa em destaque com dois botoes, fileiras no estilo Netflix com numeracao, cartoes com hover e selo vermelho de atualizacao disponivel."
+  "versionCode": 186,
+  "versionName": "1.8.6",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.8.6/Stream-TV-Android-1.8.6-teste.apk",
+  "sha256": "59fa8c753da0a043cfe2edb6f200267cbfc40a921760aba9cb6cb44b6947e880",
+  "bytes": 306472,
+  "notes": "Compatibilidade com iPhone e Safari: area segura do notch, instalacao na Tela de Inicio, busca por icone e rolagem lateral suave. Ajustes de acabamento no cabecalho e nos numeros do Top 10."
 }
