@@ -2,7 +2,7 @@
     "versionCode":  208,
     "versionName":  "2.0.8",
     "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.8/Conecta-TV-Android-2.0.8.apk",
-    "sha256":  "58897e53e6075381226b55a978f6ed4b8e6e0c352c9a78f96a1f2e795d4ea55a",
-    "bytes":  325685,
-    "notes":  "Filmes: nova opcao Full HD sem anuncio, pelo proprio aplicativo. A reproducao dublada automatica continua igual. Series sem mudanca."
+    "sha256":  "97b5466b7ef6f2112751a4c2c5220ee6b0f526f92745fd2c8b1a98ca2402da5d",
+    "bytes":  347357,
+    "notes":  "Filmes: opcao Full HD sem anuncio pelo proprio aplicativo e dublado automatico mantido. Series sem mudanca."
 }
