@@ -1,8 +1,8 @@
 {
-    "versionCode":  253,
-    "versionName":  "2.5.3",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.3/Conecta-TV-Android-2.5.3.apk",
-    "sha256":  "58962224395ab9b6518ad8e552f0eb107dab5d61e746f7bf6415766e076422e1",
-    "bytes":  337583,
-    "notes":  "Correcao: a barra de navegacao de baixo nao aparece mais por cima do player e o aviso Um Oferecimento da fonte dublada (streambetter.shop) fica coberto pela mascara do player."
+    "versionCode":  254,
+    "versionName":  "2.5.4",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.4/Conecta-TV-Android-2.5.4.apk",
+    "sha256":  "afa9783a2409b2138dc9ee14e7762faf69fdfa425f304d276e589c3e4625239f",
+    "bytes":  338020,
+    "notes":  "Correcao do ranking: o Top 10 de filmes e series nao esta mais caindo. Agora cada titulo faz uma consulta so ao TMDB (antes eram duas e estourava o limite), uma lista que falha nao apaga a outra e o app tenta de novo sozinho ate tres vezes."
 }
