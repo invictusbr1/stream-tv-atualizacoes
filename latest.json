@@ -1,8 +1,8 @@
 {
-    "versionCode":  240,
-    "versionName":  "2.4.0",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.4.0/Conecta-TV-Android-2.4.0.apk",
-    "sha256":  "1118056616946ce4554516f0d4bb82143a9e944f7439d5025d27ef73f346f97b",
-    "bytes":  332631,
-    "notes":  "Menu de tres pontinhos no celular com as categorias (Filmes e series juntos, Doramas, Mininovelas, Animes, Favoritos) e Top 10 em alta do dia para filmes e para series, com o nome do streaming de cada titulo."
+    "versionCode":  241,
+    "versionName":  "2.4.1",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.4.1/Conecta-TV-Android-2.4.1.apk",
+    "sha256":  "341d7115741f84f45e27aafb7b1b136f932fb7911b76317a691aca76ebba9e12",
+    "bytes":  332828,
+    "notes":  "Correcao no celular: o menu de tres pontinhos abria fora da tela e deixava uma faixa escura cobrindo a lista Continuar assistindo. Agora ele abre inteiro na tela e o toque fora apenas fecha o menu."
 }
