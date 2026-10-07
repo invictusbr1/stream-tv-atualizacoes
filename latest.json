@@ -1,8 +1,8 @@
 {
-    "versionCode":  241,
-    "versionName":  "2.4.1",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.4.1/Conecta-TV-Android-2.4.1.apk",
-    "sha256":  "341d7115741f84f45e27aafb7b1b136f932fb7911b76317a691aca76ebba9e12",
-    "bytes":  332828,
-    "notes":  "Correcao no celular: o menu de tres pontinhos abria fora da tela e deixava uma faixa escura cobrindo a lista Continuar assistindo. Agora ele abre inteiro na tela e o toque fora apenas fecha o menu."
+    "versionCode":  250,
+    "versionName":  "2.5.0",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.0/Conecta-TV-Android-2.5.0.apk",
+    "sha256":  "1ba15695029c1bc8a486f6c9b9f2bf400f2167afee081dc91f988fc1d73ca58c",
+    "bytes":  336318,
+    "notes":  "Nova cara no celular inspirada nos streamings: destaque grande com a arte do titulo, Assistir agora, +, bolinhas que trocam sozinhas, gaveta de categorias e generos no icone de menu e barra de navegacao embaixo (Inicio, Favoritos, Continuar, Buscar)."
 }
