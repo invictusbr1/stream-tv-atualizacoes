@@ -1,8 +1,8 @@
 {
-  "versionCode": 198,
-  "versionName": "1.9.8",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.8/Conecta-TV-Android-1.9.8-teste.apk",
-  "sha256": "074d9fa24e690e82a7b538a7af456f363756b36f6715b18d8f748bde53c92af4",
-  "bytes": 321132,
-  "notes": "Volta a fonte de serie que funcionava nas versoes 1.5 a 1.8.6 (StreamBetter, com confirmacao humana) e mantem a VidSrc. Anuncio continua so se voce escolher."
+  "versionCode": 199,
+  "versionName": "1.9.9",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.9/Conecta-TV-Android-1.9.9-teste.apk",
+  "sha256": "88196a8d79b76c74ad9d0a94b15f51ba6bedadfe232c8033544745909993c586",
+  "bytes": 321128,
+  "notes": "Verificacao minuciosa das fontes de serie: VidLink e VidSrc comprovadas em testes reais (VidLink abriu Game of Thrones e The Last of Us em 1080p). Lista de serie agora tem 6 fontes, sem nenhuma abrir sozinha."
 }
