@@ -1,8 +1,8 @@
 {
-  "versionCode": 204,
-  "versionName": "2.0.4",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.4/Conecta-TV-Android-2.0.4-teste.apk",
-  "sha256": "cf627da8bc11e9728a6004d063b22de16d9be8fb6526d3f5f49f650c3dcec5fd",
-  "bytes": 321461,
-  "notes": "Tela de reproducao limpa: fora os textos explicativos e a barra cheia de informacoes; ficou so voltar, nome da fonte e trocar de fonte."
+  "versionCode": 205,
+  "versionName": "2.0.5",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.5/Conecta-TV-Android-2.0.5-teste.apk",
+  "sha256": "4991835d41e24e8e7c30a4513b992d8578ee8b037071198957d703b92d9948af",
+  "bytes": 323249,
+  "notes": "O aplicativo passa a usar a verificacao medida das fontes: fonte marcada como indisponivel no relatorio perde a vez, e a lista mostra a data da ultima verificacao."
 }
