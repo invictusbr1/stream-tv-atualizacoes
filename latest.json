@@ -1,8 +1,8 @@
 {
-    "versionCode":  220,
-    "versionName":  "2.2.0",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.2.0/Conecta-TV-Android-2.2.0.apk",
-    "sha256":  "2f3b4d486b0dd83b5c1338a59637d669abf1855a21621ac965bc963c402cd106",
-    "bytes":  327585,
-    "notes":  "Series refeitas: lista de fontes limpa (so o que foi medido), player limpo abrindo sozinho dentro do aplicativo e botao Dublado no proprio player."
+    "versionCode":  230,
+    "versionName":  "2.3.0",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.3.0/Conecta-TV-Android-2.3.0.apk",
+    "sha256":  "ea5857e4690252fa77b2c556917374e61190d94123f9ef3007dfda3d692156d9",
+    "bytes":  330431,
+    "notes":  "Novidades: aba Favoritos com estrela para guardar filmes e series, e contador de episodios no dialogo da serie marcando o que ja foi assistido."
 }
