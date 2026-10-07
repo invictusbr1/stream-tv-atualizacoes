@@ -1,8 +1,8 @@
 {
-  "versionCode": 206,
-  "versionName": "2.0.6",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.6/Conecta-TV-Android-2.0.6-teste.apk",
-  "sha256": "1f857f33ececda5fe16bc8fd1fb93825d59914307ad5b0c73c97a5160bc801fc",
-  "bytes": 323830,
-  "notes": "Serie abre em tela cheia automaticamente e o toque na tela deixa de pausar: bloqueio automatico apos 25s, com botao para liberar quando precisar."
+  "versionCode": 207,
+  "versionName": "2.0.7",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.7/Conecta-TV-Android-2.0.7-teste.apk",
+  "sha256": "c7ebbac26174542c8d5258a68e9fb87cb1d6e1cb9dc3f47a2cc26192d7ffdbc9",
+  "bytes": 324950,
+  "notes": "Botao de proximo episodio na tela de reproducao e o voltar agora retorna para a serie (com a temporada aberta), nao mais para o inicio do aplicativo."
 }
