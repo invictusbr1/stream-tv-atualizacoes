@@ -1,8 +1,8 @@
 {
-    "versionCode":  252,
-    "versionName":  "2.5.2",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.2/Conecta-TV-Android-2.5.2.apk",
-    "sha256":  "6d3113e86a1fa19ed8804f4cff05c20906397d75c2b603894be372f87f0c5dc4",
-    "bytes":  337312,
-    "notes":  "Ajustes de acabamento: saiu a linha Atualizacoes/Atualizar do topo do catalogo e todos os cartoes de filmes e series ficaram com o mesmo padrao de alinhamento (capa, titulo e rodape sempre na mesma linha)."
+    "versionCode":  253,
+    "versionName":  "2.5.3",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.3/Conecta-TV-Android-2.5.3.apk",
+    "sha256":  "58962224395ab9b6518ad8e552f0eb107dab5d61e746f7bf6415766e076422e1",
+    "bytes":  337583,
+    "notes":  "Correcao: a barra de navegacao de baixo nao aparece mais por cima do player e o aviso Um Oferecimento da fonte dublada (streambetter.shop) fica coberto pela mascara do player."
 }
