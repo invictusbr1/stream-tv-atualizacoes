@@ -1,8 +1,8 @@
 {
-    "versionCode":  261,
-    "versionName":  "2.6.1",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.6.1/Conecta-TV-Android-2.6.1.apk",
-    "sha256":  "784989034607c26f6e50494f6b621c9c85b887e1d2de690d3da75b11c01a3ac4",
-    "bytes":  341687,
-    "notes":  "Filmes novos sem dublado agora abrem em Full HD limpo: o aplicativo resolve a fonte VidSrc no proprio aparelho (token gerado na hora), com imagem 1080p e sem anuncio. Ex.: Coracao Partido."
+    "versionCode":  262,
+    "versionName":  "2.6.2",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.6.2/Conecta-TV-Android-2.6.2.apk",
+    "sha256":  "383458136a34de749495006d2e8360c85b1c02a6b307e6f7cef7feaf03e0cf51",
+    "bytes":  341956,
+    "notes":  "Ao clicar no filme o aplicativo agora vai direto para o player: se nenhuma fonte limpa tiver o titulo, ele confere qual fonte com verificacao realmente tem o filme e abre ela sozinho (o painel de opcoes nao aparece mais na frente)."
 }
