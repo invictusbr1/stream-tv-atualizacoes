@@ -1,8 +1,8 @@
 {
-    "versionCode":  230,
-    "versionName":  "2.3.0",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.3.0/Conecta-TV-Android-2.3.0.apk",
-    "sha256":  "ea5857e4690252fa77b2c556917374e61190d94123f9ef3007dfda3d692156d9",
-    "bytes":  330431,
-    "notes":  "Novidades: aba Favoritos com estrela para guardar filmes e series, e contador de episodios no dialogo da serie marcando o que ja foi assistido."
+    "versionCode":  240,
+    "versionName":  "2.4.0",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.4.0/Conecta-TV-Android-2.4.0.apk",
+    "sha256":  "1118056616946ce4554516f0d4bb82143a9e944f7439d5025d27ef73f346f97b",
+    "bytes":  332631,
+    "notes":  "Menu de tres pontinhos no celular com as categorias (Filmes e series juntos, Doramas, Mininovelas, Animes, Favoritos) e Top 10 em alta do dia para filmes e para series, com o nome do streaming de cada titulo."
 }
