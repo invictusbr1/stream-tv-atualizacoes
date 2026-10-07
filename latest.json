@@ -1,8 +1,8 @@
 {
-  "versionCode": 281,
-  "versionName": "2.8.1",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.8.1/Conecta-TV-Android-2.8.1.apk",
-  "sha256": "1f447d4c2de19e4b695a91690832f71b7100a5c01fa34ae31c12bae84cfa2fb5",
-  "bytes": 342854,
-  "notes": "2.8.1: no celular, filme que a fonte principal nao tem tambem abre dublado agora (segunda fonte dublada em arquivo 720p com audio portugues), igual as series. Nenhuma opcao com anuncio."
+  "versionCode": 290,
+  "versionName": "2.9.0",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.9.0/Conecta-TV-Android-2.9.0.apk",
+  "sha256": "05831ab68f9e3c33b223c87e277a0871f210e6a48143d472d2811484bca55c26",
+  "bytes": 343273,
+  "notes": "2.9.0: seguranca e central de status. O aplicativo agora tem portao por codigo de acesso (para hospedar), cabecalhos de seguranca, limite de uso e trava contra acesso a rede interna. E cada sessao passa a ser contada na Central do Conecta TV (quem entrou, o que assistiu, por qual fonte e se deu certo)."
 }
