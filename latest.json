@@ -1,8 +1,8 @@
 {
-  "versionCode": 201,
-  "versionName": "2.0.1",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.1/Conecta-TV-Android-2.0.1-teste.apk",
-  "sha256": "88bce7aa0d3fb55138fdc21f0b060634d4dc84269f893bab0037f68e8c015d88",
-  "bytes": 321242,
-  "notes": "Pesquisa profunda de fontes brasileiras: adicionado Dattebayo BR (catalogo de animes dublados) para series/animes. Regra mantida: fonte com anuncio so abre se voce escolher."
+  "versionCode": 202,
+  "versionName": "2.0.2",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.2/Conecta-TV-Android-2.0.2-teste.apk",
+  "sha256": "823ecc7dd2169ffc073757f4c830b6f879fb8bd685b4b2f867664922b14d1909",
+  "bytes": 321352,
+  "notes": "Analise do plenoflu: adicionado como fonte que abre em outra aba (tem CSI dublado). A fonte revelada por tras dele bloqueia reproducao fora do site deles."
 }
