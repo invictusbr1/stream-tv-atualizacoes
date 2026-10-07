@@ -1,8 +1,8 @@
 {
-  "versionCode": 202,
-  "versionName": "2.0.2",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.2/Conecta-TV-Android-2.0.2-teste.apk",
-  "sha256": "823ecc7dd2169ffc073757f4c830b6f879fb8bd685b4b2f867664922b14d1909",
-  "bytes": 321352,
-  "notes": "Analise do plenoflu: adicionado como fonte que abre em outra aba (tem CSI dublado). A fonte revelada por tras dele bloqueia reproducao fora do site deles."
+  "versionCode": 203,
+  "versionName": "2.0.3",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.3/Conecta-TV-Android-2.0.3-teste.apk",
+  "sha256": "193b1cf94c39bc3da37cad4f8f0e58380db21f310694f09843a35cbde67d9947",
+  "bytes": 321375,
+  "notes": "StreamBetter passa a ser a fonte principal nas series: e a primeira da lista e a que o robo abre sozinho."
 }
