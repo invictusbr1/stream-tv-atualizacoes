@@ -1,8 +1,8 @@
 {
-    "versionCode":  251,
-    "versionName":  "2.5.1",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.1/Conecta-TV-Android-2.5.1.apk",
-    "sha256":  "f81deec13b7ea835238d56972816444290f97ad27ef0829ac6ea52485c5948f9",
-    "bytes":  337134,
-    "notes":  "Tela inicial mais limpa: os icones (busca, Jarvis, atualizacoes, dispositivos e conta) sairam da barra de cima no celular e foram para a gaveta em Conta e ajustes. O Continuar assistindo saiu da abertura do app e agora abre pela barra de baixo."
+    "versionCode":  252,
+    "versionName":  "2.5.2",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.2/Conecta-TV-Android-2.5.2.apk",
+    "sha256":  "6d3113e86a1fa19ed8804f4cff05c20906397d75c2b603894be372f87f0c5dc4",
+    "bytes":  337312,
+    "notes":  "Ajustes de acabamento: saiu a linha Atualizacoes/Atualizar do topo do catalogo e todos os cartoes de filmes e series ficaram com o mesmo padrao de alinhamento (capa, titulo e rodape sempre na mesma linha)."
 }
