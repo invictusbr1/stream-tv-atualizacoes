@@ -1,8 +1,8 @@
 {
-    "versionCode":  210,
-    "versionName":  "2.1.0",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.1.0/Conecta-TV-Android-2.1.0.apk",
-    "sha256":  "fea1c21c5a123e604a36d7fdbf1353d6008d580f640bd7ca126bee457b23b2dc",
-    "bytes":  326806,
-    "notes":  "Series: abre sozinho dentro do aplicativo, sem sair da tela. Quando nao existe dublado limpo, entra a melhor qualidade com legenda em portugues ligada automaticamente, e o botao Dublado leva a fonte dublada dentro do proprio player."
+    "versionCode":  220,
+    "versionName":  "2.2.0",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.2.0/Conecta-TV-Android-2.2.0.apk",
+    "sha256":  "2f3b4d486b0dd83b5c1338a59637d669abf1855a21621ac965bc963c402cd106",
+    "bytes":  327585,
+    "notes":  "Series refeitas: lista de fontes limpa (so o que foi medido), player limpo abrindo sozinho dentro do aplicativo e botao Dublado no proprio player."
 }
