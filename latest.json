@@ -1,8 +1,8 @@
 {
-  "versionCode": 290,
-  "versionName": "2.9.0",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.9.0/Conecta-TV-Android-2.9.0.apk",
-  "sha256": "05831ab68f9e3c33b223c87e277a0871f210e6a48143d472d2811484bca55c26",
-  "bytes": 343273,
-  "notes": "2.9.0: seguranca e central de status. O aplicativo agora tem portao por codigo de acesso (para hospedar), cabecalhos de seguranca, limite de uso e trava contra acesso a rede interna. E cada sessao passa a ser contada na Central do Conecta TV (quem entrou, o que assistiu, por qual fonte e se deu certo)."
+  "versionCode": 291,
+  "versionName": "2.9.1",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.9.1/Conecta-TV-Android-2.9.1.apk",
+  "sha256": "71b3412f7a3fc8a1629bf62f0a65592b03ad9259bb7df177fc8784dcccedc6ea",
+  "bytes": 343433,
+  "notes": "2.9.1: integracao com a Central do PC. O aplicativo passa a reportar a versao real instalada e o relato nao se perde mais quando o endereco da central usa localhost. A Central agora roda como programa no proprio computador, com atalho na Area de Trabalho."
 }
