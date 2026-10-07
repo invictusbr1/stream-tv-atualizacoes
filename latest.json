@@ -1,8 +1,8 @@
 {
-  "versionCode": 197,
-  "versionName": "1.9.7",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.7/Conecta-TV-Android-1.9.7-teste.apk",
-  "sha256": "d634a295fc1a7a7f637f1d938f4ee29ea3d68e8381b152634e105ee8bf94a7f5",
-  "bytes": 321041,
-  "notes": "Regra dos anuncios restaurada: nenhuma fonte com anuncio abre sozinha, nem em serie. Serie agora tenta primeiro a fonte limpa e so oferece a lista quando voce escolher."
+  "versionCode": 198,
+  "versionName": "1.9.8",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.8/Conecta-TV-Android-1.9.8-teste.apk",
+  "sha256": "074d9fa24e690e82a7b538a7af456f363756b36f6715b18d8f748bde53c92af4",
+  "bytes": 321132,
+  "notes": "Volta a fonte de serie que funcionava nas versoes 1.5 a 1.8.6 (StreamBetter, com confirmacao humana) e mantem a VidSrc. Anuncio continua so se voce escolher."
 }
