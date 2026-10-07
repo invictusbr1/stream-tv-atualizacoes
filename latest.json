@@ -1,8 +1,8 @@
 {
-    "versionCode":  264,
-    "versionName":  "2.6.4",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.6.4/Conecta-TV-Android-2.6.4.apk",
-    "sha256":  "4a4ea847baf8423b2ed16c3cebad2153dd82c8da1faa5fd622b9e66f01f66616",
-    "bytes":  342379,
-    "notes":  "Correcao importante: o player estava recusando o endereco da fonte nova (Full HD), o que fazia o filme cair na pagina com verificacao. Agora ele aceita e roda direto, no computador e no celular. Coracao Partido (2026) abre em 1080p."
+  "versionCode": 270,
+  "versionName": "2.7.0",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.7.0/Conecta-TV-Android-2.7.0.apk",
+  "sha256": "cd8bcbaabe8f3b80f09b6fec6cfe47bb1ec832c1f46c23ddcefb9ddfbd2c395c",
+  "bytes": 342781,
+  "notes": "2.7.0: motor de fontes inteligente - o aplicativo limpa a lista de players, escolhe a fonte sozinho (dublado limpo primeiro), lembra o que deu certo para cada titulo, nao repete a fonte que nao tem o titulo e rebaixa so a fonte que falha duas vezes seguidas. Episodio dublado limpo agora e automatico tambem no celular."
 }
