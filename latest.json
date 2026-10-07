@@ -1,8 +1,8 @@
 {
-  "versionCode": 271,
-  "versionName": "2.7.1",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.7.1/Conecta-TV-Android-2.7.1.apk",
-  "sha256": "0144ebbbead32be0a735c34505a36f8a4dbde27a8d0904cc3ca7d0f3493348fe",
-  "bytes": 342812,
-  "notes": "2.7.1: motor de fontes inteligente (dublado limpo primeiro, memoria por titulo, saude por fonte) e, no celular, a alta definicao limpa agora e resolvida pelo proprio aparelho quando nao existe servidor - nenhuma pagina de terceiros e aberta."
+  "versionCode": 280,
+  "versionName": "2.8.0",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.8.0/Conecta-TV-Android-2.8.0.apk",
+  "sha256": "38b5aabe501acb66d356b67ed5e8c76c2a2f671d5e56f21af8564f02c8a5f007",
+  "bytes": 342293,
+  "notes": "2.8.0: regras do aplicativo aplicadas de verdade - nenhuma opcao com anuncio existe mais (saíram StreamBetter, SuperFlix, YouCine, Doramogo e VidLink). Series agora abrem DUBLADAS em 720p sem anuncio: fonte principal /tvshow e, quando ela nao tem o episodio, a segunda fonte dublada em arquivo com audio portugues. Alta definicao com legenda entra so quando nao existe dublagem."
 }
