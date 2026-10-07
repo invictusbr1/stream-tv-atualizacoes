@@ -1,8 +1,8 @@
 {
-  "versionCode": 203,
-  "versionName": "2.0.3",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.3/Conecta-TV-Android-2.0.3-teste.apk",
-  "sha256": "193b1cf94c39bc3da37cad4f8f0e58380db21f310694f09843a35cbde67d9947",
-  "bytes": 321375,
-  "notes": "StreamBetter passa a ser a fonte principal nas series: e a primeira da lista e a que o robo abre sozinho."
+  "versionCode": 204,
+  "versionName": "2.0.4",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.4/Conecta-TV-Android-2.0.4-teste.apk",
+  "sha256": "cf627da8bc11e9728a6004d063b22de16d9be8fb6526d3f5f49f650c3dcec5fd",
+  "bytes": 321461,
+  "notes": "Tela de reproducao limpa: fora os textos explicativos e a barra cheia de informacoes; ficou so voltar, nome da fonte e trocar de fonte."
 }
