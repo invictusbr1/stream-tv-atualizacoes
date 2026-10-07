@@ -1,8 +1,8 @@
 {
-  "versionCode": 199,
-  "versionName": "1.9.9",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.9/Conecta-TV-Android-1.9.9-teste.apk",
-  "sha256": "88196a8d79b76c74ad9d0a94b15f51ba6bedadfe232c8033544745909993c586",
-  "bytes": 321128,
-  "notes": "Verificacao minuciosa das fontes de serie: VidLink e VidSrc comprovadas em testes reais (VidLink abriu Game of Thrones e The Last of Us em 1080p). Lista de serie agora tem 6 fontes, sem nenhuma abrir sozinha."
+  "versionCode": 200,
+  "versionName": "2.0.0",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.0/Conecta-TV-Android-2.0.0-teste.apk",
+  "sha256": "59004842c95b0874a099f5eea71b846d155946685b9ee141db09f3171dc5d72b",
+  "bytes": 321138,
+  "notes": "Serie 100% automatica: clicou no episodio, o app escolhe a melhor fonte e abre o player sozinho (VidLink em 1080p quando existe), com troca automatica se a fonte nao tiver o episodio."
 }
