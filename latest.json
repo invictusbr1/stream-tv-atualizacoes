@@ -1,8 +1,8 @@
 {
-    "versionCode":  263,
-    "versionName":  "2.6.3",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.6.3/Conecta-TV-Android-2.6.3.apk",
-    "sha256":  "2f4580e42850465fb4dadcc4b10973cfdaf1189c41428e62efc3c9d5d352b060",
-    "bytes":  342158,
-    "notes":  "Aviso claro quando o filme cai numa fonte que pede verificacao propria, para nao parecer travado. Diagnostico do Coracao Partido (2026) feito: abre em 1080p pela fonte nova."
+    "versionCode":  264,
+    "versionName":  "2.6.4",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.6.4/Conecta-TV-Android-2.6.4.apk",
+    "sha256":  "4a4ea847baf8423b2ed16c3cebad2153dd82c8da1faa5fd622b9e66f01f66616",
+    "bytes":  342379,
+    "notes":  "Correcao importante: o player estava recusando o endereco da fonte nova (Full HD), o que fazia o filme cair na pagina com verificacao. Agora ele aceita e roda direto, no computador e no celular. Coracao Partido (2026) abre em 1080p."
 }
