@@ -1,8 +1,8 @@
 {
-    "versionCode":  250,
-    "versionName":  "2.5.0",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.0/Conecta-TV-Android-2.5.0.apk",
-    "sha256":  "1ba15695029c1bc8a486f6c9b9f2bf400f2167afee081dc91f988fc1d73ca58c",
-    "bytes":  336318,
-    "notes":  "Nova cara no celular inspirada nos streamings: destaque grande com a arte do titulo, Assistir agora, +, bolinhas que trocam sozinhas, gaveta de categorias e generos no icone de menu e barra de navegacao embaixo (Inicio, Favoritos, Continuar, Buscar)."
+    "versionCode":  251,
+    "versionName":  "2.5.1",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.1/Conecta-TV-Android-2.5.1.apk",
+    "sha256":  "f81deec13b7ea835238d56972816444290f97ad27ef0829ac6ea52485c5948f9",
+    "bytes":  337134,
+    "notes":  "Tela inicial mais limpa: os icones (busca, Jarvis, atualizacoes, dispositivos e conta) sairam da barra de cima no celular e foram para a gaveta em Conta e ajustes. O Continuar assistindo saiu da abertura do app e agora abre pela barra de baixo."
 }
