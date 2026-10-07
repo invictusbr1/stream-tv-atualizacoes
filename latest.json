@@ -1,8 +1,8 @@
 {
-    "versionCode":  254,
-    "versionName":  "2.5.4",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.4/Conecta-TV-Android-2.5.4.apk",
-    "sha256":  "afa9783a2409b2138dc9ee14e7762faf69fdfa425f304d276e589c3e4625239f",
-    "bytes":  338020,
-    "notes":  "Correcao do ranking: o Top 10 de filmes e series nao esta mais caindo. Agora cada titulo faz uma consulta so ao TMDB (antes eram duas e estourava o limite), uma lista que falha nao apaga a outra e o app tenta de novo sozinho ate tres vezes."
+    "versionCode":  255,
+    "versionName":  "2.5.5",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.5/Conecta-TV-Android-2.5.5.apk",
+    "sha256":  "1f78e35663ccdc1eae53e3de3da6e8c9d5efa16e8b058a5971bf39e93a83cf76",
+    "bytes":  338439,
+    "notes":  "Correcoes: fim da faixa preta no player (agora o rodape do provedor fica recortado fora da tela, sem tarja), texto do player em uma linha so e o Top 10 do dia com lista de reserva do catalogo quando o ranking falha."
 }
