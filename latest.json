@@ -1,8 +1,8 @@
 {
-  "versionCode": 270,
-  "versionName": "2.7.0",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.7.0/Conecta-TV-Android-2.7.0.apk",
-  "sha256": "cd8bcbaabe8f3b80f09b6fec6cfe47bb1ec832c1f46c23ddcefb9ddfbd2c395c",
-  "bytes": 342781,
-  "notes": "2.7.0: motor de fontes inteligente - o aplicativo limpa a lista de players, escolhe a fonte sozinho (dublado limpo primeiro), lembra o que deu certo para cada titulo, nao repete a fonte que nao tem o titulo e rebaixa so a fonte que falha duas vezes seguidas. Episodio dublado limpo agora e automatico tambem no celular."
+  "versionCode": 271,
+  "versionName": "2.7.1",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.7.1/Conecta-TV-Android-2.7.1.apk",
+  "sha256": "0144ebbbead32be0a735c34505a36f8a4dbde27a8d0904cc3ca7d0f3493348fe",
+  "bytes": 342812,
+  "notes": "2.7.1: motor de fontes inteligente (dublado limpo primeiro, memoria por titulo, saude por fonte) e, no celular, a alta definicao limpa agora e resolvida pelo proprio aparelho quando nao existe servidor - nenhuma pagina de terceiros e aberta."
 }
