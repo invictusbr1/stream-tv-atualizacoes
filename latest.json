@@ -1,8 +1,8 @@
 {
-  "versionCode": 200,
-  "versionName": "2.0.0",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.0/Conecta-TV-Android-2.0.0-teste.apk",
-  "sha256": "59004842c95b0874a099f5eea71b846d155946685b9ee141db09f3171dc5d72b",
-  "bytes": 321138,
-  "notes": "Serie 100% automatica: clicou no episodio, o app escolhe a melhor fonte e abre o player sozinho (VidLink em 1080p quando existe), com troca automatica se a fonte nao tiver o episodio."
+  "versionCode": 201,
+  "versionName": "2.0.1",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.0.1/Conecta-TV-Android-2.0.1-teste.apk",
+  "sha256": "88bce7aa0d3fb55138fdc21f0b060634d4dc84269f893bab0037f68e8c015d88",
+  "bytes": 321242,
+  "notes": "Pesquisa profunda de fontes brasileiras: adicionado Dattebayo BR (catalogo de animes dublados) para series/animes. Regra mantida: fonte com anuncio so abre se voce escolher."
 }
