@@ -1,8 +1,8 @@
 {
-  "versionCode": 196,
-  "versionName": "1.9.6",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.6/Conecta-TV-Android-1.9.6-teste.apk",
-  "sha256": "6e113964bc2adbe4325e78c581be3c1c001053d75823278301318fd1daaa0e34",
-  "bytes": 320681,
-  "notes": "Series: episodio abre sozinho na melhor fonte e o robo troca de fonte quando uma nao tem o episodio, lembrando as que falharam."
+  "versionCode": 197,
+  "versionName": "1.9.7",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v1.9.7/Conecta-TV-Android-1.9.7-teste.apk",
+  "sha256": "d634a295fc1a7a7f637f1d938f4ee29ea3d68e8381b152634e105ee8bf94a7f5",
+  "bytes": 321041,
+  "notes": "Regra dos anuncios restaurada: nenhuma fonte com anuncio abre sozinha, nem em serie. Serie agora tenta primeiro a fonte limpa e so oferece a lista quando voce escolher."
 }
