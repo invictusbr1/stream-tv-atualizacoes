@@ -1,8 +1,8 @@
 {
-    "versionCode":  255,
-    "versionName":  "2.5.5",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.5.5/Conecta-TV-Android-2.5.5.apk",
-    "sha256":  "1f78e35663ccdc1eae53e3de3da6e8c9d5efa16e8b058a5971bf39e93a83cf76",
-    "bytes":  338439,
-    "notes":  "Correcoes: fim da faixa preta no player (agora o rodape do provedor fica recortado fora da tela, sem tarja), texto do player em uma linha so e o Top 10 do dia com lista de reserva do catalogo quando o ranking falha."
+    "versionCode":  260,
+    "versionName":  "2.6.0",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.6.0/Conecta-TV-Android-2.6.0.apk",
+    "sha256":  "83e90c531cdb239cb95afcfce7f143141199e033fd0f37e13a5d782a00587d78",
+    "bytes":  338840,
+    "notes":  "Fornecedor novo de filmes dublados: o aplicativo passou a usar tambem o arquivo limpo da PipocaCine (720p, audio portugues padrao, sem abrir a pagina com anuncios). Agora a ordem e: dublado limpo 1, dublado limpo 2, Full HD limpo com legenda e, so por escolha, fontes com anuncio."
 }
