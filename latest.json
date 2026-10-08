@@ -1,8 +1,8 @@
 {
-  "versionCode": 301,
-  "versionName": "2.10.1",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.10.1/Conecta-TV-Android-2.10.1.apk",
-  "sha256": "1cc366ed13a2d0d2d01aed5d20a4ff574fab2ac189021ee4c9fa89dd9e0cf6cf",
-  "bytes": 344196,
-  "notes": "2.10.1: o aplicativo agora confirma o que realmente aconteceu - manda 'play' ao abrir e 'tocou de verdade' depois de 20 segundos rodando; se a reproducao falha, avisa na hora. A central passou a mostrar 'nao abriu' para qualquer falha, 'sem confirmacao' quando nao ha fonte e o id do titulo em cada linha."
+  "versionCode": 310,
+  "versionName": "2.11.0",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.11.0/Conecta-TV-Android-2.11.0.apk",
+  "sha256": "f0ec0c4f4c90fac71185a4c23180cb4fa3e7d634384c706fad403b285ae19710",
+  "bytes": 345627,
+  "notes": "2.11.0: aba TV ao vivo no aplicativo (canais abertos do projeto iptv-org, sem anuncio, com busca e listas do Brasil, portugues, esportes, noticias e America Latina) e identificacao do celular na central pelo endereco de descoberta - o aparelho passa a aparecer mesmo fora de casa."
 }
