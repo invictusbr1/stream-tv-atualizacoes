@@ -1,8 +1,8 @@
 {
-  "versionCode": 100,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/central-v1.0.0/Central-Conecta-TV-Android-1.0.0.apk",
-  "sha256": "3fa2c0e4baec9f459cb6b2e6c82edec3031a43cdccb854beff4813e9857d5b16",
-  "bytes": 16505,
-  "notes": "1.0.0: primeira versao do aplicativo da Central do Conecta TV. Abre o painel em tela cheia, guarda o endereco da central e a chave no aparelho e avisa quando o servidor nao responde."
+  "versionCode": 110,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/central-v1.1.0/Central-Conecta-TV-Android-1.1.0.apk",
+  "sha256": "c9e27194fedcd75a45d22c295082ffe248be58cd73547cf90d43f5acc182d3f1",
+  "bytes": 16504,
+  "notes": "1.1.0: painel com identificacao dos aparelhos (tipo e rede), agente de investigacao de falhas e cacador de fornecedores com nota de 0 a 10."
 }
