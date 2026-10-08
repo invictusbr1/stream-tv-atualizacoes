@@ -1,8 +1,8 @@
 {
-    "versionCode":  336,
-    "versionName":  "2.13.6",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.6/Conecta-TV-Android-2.13.6.apk",
-    "sha256":  "14007241f295e39e44e0543c40d9765f05009ecfa861e361e79b4a72ee8fe237",
-    "bytes":  351744,
-    "notes":  "2.13.6: novo fornecedor dublado (FenixFlix/Hollymovies) em HLS 720p - audio em portugues conferido por transcricao; o aplicativo libera os servidores de video que a propria lista indica, corrigindo filmes que abriam sem tocar (caso A Queda 2)."
+    "versionCode":  337,
+    "versionName":  "2.13.7",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.7/Conecta-TV-Android-2.13.7.apk",
+    "sha256":  "ca9c593a02294fc11a46cd28092629139083166ab1d9fed3b7ed7844bd40b8aa",
+    "bytes":  352205,
+    "notes":  "2.13.7: conversao automatica de arquivos MKV (som que o navegador nao toca) para lista HLS com audio AAC em portugues - o video e copiado sem perda e a reproducao comeca em segundos; no celular, o dublado conferido (PipocaCine) passa a ser tentado antes da fonte principal."
 }
