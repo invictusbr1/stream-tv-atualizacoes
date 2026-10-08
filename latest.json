@@ -1,8 +1,8 @@
 {
-  "versionCode": 321,
-  "versionName": "2.12.1",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.12.1/Conecta-TV-Android-2.12.1.apk",
-  "sha256": "7dea4f0d1e67d272b0b87d058b220ef8930df78782b970c06067e753b30f30ad",
-  "bytes": 346505,
-  "notes": "2.12.1: correcao do bug grave - a TV ao vivo aparecia dentro do painel da serie ao abrir um anime; agora ela fica em area propria. Categorias da TV com nomes em portugues (Geral, Esportes, Filmes, Series, Infantil, Noticias...) e nova fonte dublada MGEB como segunda opcao."
+    "versionCode":  330,
+    "versionName":  "2.13.0",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.0/Conecta-TV-Android-2.13.0.apk",
+    "sha256":  "83653aaa9b39181efa80c87aa320ecd6920f7dfd051232245abcc9cc3d69abe5",
+    "bytes":  346519,
+    "notes":  "2.13.0: a fonte MGEB agora entrega tambem FILMES e SERIES em arquivo MP4 HD (720p) com audio em portugues, medida com ffprobe - entra como 2a opcao dublada quando a fonte principal nao tem o titulo. Player ganhou modo de desempenho (worker) liberado. CSI e titulos novos testados e tocando dublado sem anuncio."
 }
