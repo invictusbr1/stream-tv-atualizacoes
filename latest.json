@@ -1,8 +1,8 @@
 {
-    "versionCode":  331,
-    "versionName":  "2.13.1",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.1/Conecta-TV-Android-2.13.1.apk",
-    "sha256":  "0bdbd69afeeabde28a62c31c1a905dc71c9f6d015093bf4bc3ef1bf564b316b3",
-    "bytes":  350630,
-    "notes":  "2.13.1: legenda em portugues entra sozinha quando o filme toca com o audio original (busca automatica na internet, sem cadastro) e a TV ao vivo agora fica na area de categorias, em pastas (Esportes, Filmes, Series, Infantil, Noticias...), funcionando tambem no celular."
+    "versionCode":  332,
+    "versionName":  "2.13.2",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.2/Conecta-TV-Android-2.13.2.apk",
+    "sha256":  "d4900c587b7b87b3e738c4d223f430319357ec06f0e6f46635a5a9a344af80f2",
+    "bytes":  351484,
+    "notes":  "2.13.2: corrigido o audio original em filmes (a 2a fonte dublada estava desativada por um detalhe; agora, se uma fonte abre mas nao toca, o app tenta as proximas dubladas e lembra a boa). A TV ao vivo nao fecha mais ao abrir um canal (volta para a lista) e as capas dos canais ficaram novas."
 }
