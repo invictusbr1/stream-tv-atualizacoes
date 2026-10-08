@@ -1,8 +1,8 @@
 {
-  "versionCode": 310,
-  "versionName": "2.11.0",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.11.0/Conecta-TV-Android-2.11.0.apk",
-  "sha256": "f0ec0c4f4c90fac71185a4c23180cb4fa3e7d634384c706fad403b285ae19710",
-  "bytes": 345627,
-  "notes": "2.11.0: aba TV ao vivo no aplicativo (canais abertos do projeto iptv-org, sem anuncio, com busca e listas do Brasil, portugues, esportes, noticias e America Latina) e identificacao do celular na central pelo endereco de descoberta - o aparelho passa a aparecer mesmo fora de casa."
+  "versionCode": 311,
+  "versionName": "2.11.1",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.11.1/Conecta-TV-Android-2.11.1.apk",
+  "sha256": "367d14b3f8f39313504470dc359cd98b12d442113fec4c5534ab19acf5fce763",
+  "bytes": 346029,
+  "notes": "2.11.1: TV ao vivo por categorias (General, Filmes, Series, Infantil, Noticias, Esportes...) com busca, e lista de canais por grupo. Apenas listas com nota acima de 8 do cacador."
 }
