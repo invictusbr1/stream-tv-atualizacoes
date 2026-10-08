@@ -1,8 +1,8 @@
 {
-    "versionCode":  332,
-    "versionName":  "2.13.2",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.2/Conecta-TV-Android-2.13.2.apk",
-    "sha256":  "d4900c587b7b87b3e738c4d223f430319357ec06f0e6f46635a5a9a344af80f2",
-    "bytes":  351484,
-    "notes":  "2.13.2: corrigido o audio original em filmes (a 2a fonte dublada estava desativada por um detalhe; agora, se uma fonte abre mas nao toca, o app tenta as proximas dubladas e lembra a boa). A TV ao vivo nao fecha mais ao abrir um canal (volta para a lista) e as capas dos canais ficaram novas."
+    "versionCode":  333,
+    "versionName":  "2.13.3",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.3/Conecta-TV-Android-2.13.3.apk",
+    "sha256":  "2c0740d86eef0e90a5a7de16ea81dfd7323857b95c7d909d7cdf818572657bd5",
+    "bytes":  351488,
+    "notes":  "2.13.3: filme em audio original corrigido (a 2a fonte dublada estava desativada no codigo; agora o app tenta as proximas dubladas quando uma abre mas nao toca e lembra a que funcionou). TV ao vivo: nao fecha mais ao abrir canal, menu em linha unica e capas novas dos canais."
 }
