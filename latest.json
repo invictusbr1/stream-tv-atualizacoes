@@ -1,8 +1,8 @@
 {
-    "versionCode":  337,
-    "versionName":  "2.13.7",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.7/Conecta-TV-Android-2.13.7.apk",
-    "sha256":  "ca9c593a02294fc11a46cd28092629139083166ab1d9fed3b7ed7844bd40b8aa",
-    "bytes":  352205,
-    "notes":  "2.13.7: conversao automatica de arquivos MKV (som que o navegador nao toca) para lista HLS com audio AAC em portugues - o video e copiado sem perda e a reproducao comeca em segundos; no celular, o dublado conferido (PipocaCine) passa a ser tentado antes da fonte principal."
+    "versionCode":  338,
+    "versionName":  "2.13.8",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.8/Conecta-TV-Android-2.13.8.apk",
+    "sha256":  "7af339e11ba450abe675cadf431f3ec557be4004e7aed179786a50f30d18dfbe",
+    "bytes":  352262,
+    "notes":  "2.13.8: avaliador de qualidade em tempo real - antes de tocar, o app testa as melhores fontes do titulo em paralelo (idioma, altura, taxa e velocidade) e escolhe a melhor segundo as regras; a escolha e a qualidade real ficam registradas na central."
 }
