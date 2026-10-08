@@ -1,8 +1,8 @@
 {
-  "versionCode": 311,
-  "versionName": "2.11.1",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.11.1/Conecta-TV-Android-2.11.1.apk",
-  "sha256": "367d14b3f8f39313504470dc359cd98b12d442113fec4c5534ab19acf5fce763",
-  "bytes": 346029,
-  "notes": "2.11.1: TV ao vivo por categorias (General, Filmes, Series, Infantil, Noticias, Esportes...) com busca, e lista de canais por grupo. Apenas listas com nota acima de 8 do cacador."
+  "versionCode": 321,
+  "versionName": "2.12.1",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.12.1/Conecta-TV-Android-2.12.1.apk",
+  "sha256": "7dea4f0d1e67d272b0b87d058b220ef8930df78782b970c06067e753b30f30ad",
+  "bytes": 346505,
+  "notes": "2.12.1: correcao do bug grave - a TV ao vivo aparecia dentro do painel da serie ao abrir um anime; agora ela fica em area propria. Categorias da TV com nomes em portugues (Geral, Esportes, Filmes, Series, Infantil, Noticias...) e nova fonte dublada MGEB como segunda opcao."
 }
