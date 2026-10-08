@@ -1,8 +1,8 @@
 {
-    "versionCode":  339,
-    "versionName":  "2.13.9",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.9/Conecta-TV-Android-2.13.9.apk",
-    "sha256":  "60096ad4882bdc9a54082dfb34ab180bdd54cba5c4f5793f3f1b51547264a01d",
-    "bytes":  352356,
-    "notes":  "2.13.9: a central passa a guardar a qualidade MEDIDA por titulo (fonte escolhida, altura, taxa e audio) e o app informa a taxa real tambem em arquivos diretos; painel novo com a secao Qualidade por titulo e correcao de um erro de carregamento do painel."
+    "versionCode":  340,
+    "versionName":  "2.13.10",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.10/Conecta-TV-Android-2.13.10.apk",
+    "sha256":  "17cd8a4d12cf6ac714c8cb7a8d0e26f244359a3f17eb45fefc0db87267de0358",
+    "bytes":  353249,
+    "notes":  "2.13.10: no celular/TV a fonte MGEB entra como segunda opcao dublada (corrige filmes como A Queda 2, que nao abriam no aparelho); TV ao vivo com 18 listas organizadas por assunto (filmes, series, infantil, animacao, musica, documentarios, ciencia, cultura, comedia, familia, viagens, culinaria, clima...) no app e no aparelho; relatos do celular/TV passam pela central mesmo sem cracha e aparelhos podem ser bloqueados pelo dono."
 }
