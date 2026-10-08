@@ -1,8 +1,8 @@
 {
-    "versionCode":  334,
-    "versionName":  "2.13.4",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.4/Conecta-TV-Android-2.13.4.apk",
-    "sha256":  "f1fd95c5199f9ffb7950a1a7a4bd07432beafb21356ee616ee0d0e578c992341",
-    "bytes":  351738,
-    "notes":  "2.13.4: audio dublado em filmes. Medimos com transcricao real: a fonte principal entrega ingles em alguns titulos mesmo dizendo Dublado (caso de A Luta pela Esperanca); a fonte PipocaCine tem portugues de verdade e passa a ser a primeira opcao, so quando rotulada HD DUB. Novidade no player: botao Trocar dublado em filmes. Tambem corrigido o vencimento dos links."
+    "versionCode":  335,
+    "versionName":  "2.13.5",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.5/Conecta-TV-Android-2.13.5.apk",
+    "sha256":  "1443e88d5f23958c3dd9390e817dfd60345984416248205bf36c6a413dc42eab",
+    "bytes":  351739,
+    "notes":  "2.13.5: o aplicativo passa a usar a memoria de idiomas verificada pela Central: fonte com portugues confirmado vem primeiro; fonte que entregou outro idioma vai para o fim da fila."
 }
