@@ -1,8 +1,8 @@
 {
-    "versionCode":  340,
-    "versionName":  "2.13.10",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.10/Conecta-TV-Android-2.13.10.apk",
-    "sha256":  "17cd8a4d12cf6ac714c8cb7a8d0e26f244359a3f17eb45fefc0db87267de0358",
-    "bytes":  353249,
-    "notes":  "2.13.10: no celular/TV a fonte MGEB entra como segunda opcao dublada (corrige filmes como A Queda 2, que nao abriam no aparelho); TV ao vivo com 18 listas organizadas por assunto (filmes, series, infantil, animacao, musica, documentarios, ciencia, cultura, comedia, familia, viagens, culinaria, clima...) no app e no aparelho; relatos do celular/TV passam pela central mesmo sem cracha e aparelhos podem ser bloqueados pelo dono."
+    "versionCode":  341,
+    "versionName":  "2.13.11",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.11/Conecta-TV-Android-2.13.11.apk",
+    "sha256":  "57fba007387e5cb8d34370708558e598f3ad79066402f240107608d2721a09cf",
+    "bytes":  353244,
+    "notes":  "2.13.11: o aplicativo passa a ouvir o audio de cada fonte em ate tres trechos do filme (antes um trecho sem fala podia marcar a fonte como \u0027outro idioma\u0027 por engano) e o botao de escolha automatica de fonte passa a respeitar a ordem de confianca do motor (dublado conferido primeiro) no empate; teste de volume e qualidade."
 }
