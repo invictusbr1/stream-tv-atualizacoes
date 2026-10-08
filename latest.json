@@ -1,8 +1,8 @@
 {
-  "versionCode": 300,
-  "versionName": "2.10.0",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.10.0/Conecta-TV-Android-2.10.0.apk",
-  "sha256": "c78a2dfdd9973e42b30c127cddeddb80e65d8d4e9dc72bde9524e01031c6def1",
-  "bytes": 343760,
-  "notes": "2.10.0: o aplicativo agora se identifica na central (tipo de aparelho, sistema, versao) e avisa o id do titulo quando um player nao abre - e isso que deixa o agente da central investigar e achar a fonte que funciona. Aceita dois enderecos de central (rede de casa e rede privada)."
+  "versionCode": 301,
+  "versionName": "2.10.1",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.10.1/Conecta-TV-Android-2.10.1.apk",
+  "sha256": "1cc366ed13a2d0d2d01aed5d20a4ff574fab2ac189021ee4c9fa89dd9e0cf6cf",
+  "bytes": 344196,
+  "notes": "2.10.1: o aplicativo agora confirma o que realmente aconteceu - manda 'play' ao abrir e 'tocou de verdade' depois de 20 segundos rodando; se a reproducao falha, avisa na hora. A central passou a mostrar 'nao abriu' para qualquer falha, 'sem confirmacao' quando nao ha fonte e o id do titulo em cada linha."
 }
