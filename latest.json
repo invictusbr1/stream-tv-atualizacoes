@@ -1,8 +1,8 @@
 {
-    "versionCode":  338,
-    "versionName":  "2.13.8",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.8/Conecta-TV-Android-2.13.8.apk",
-    "sha256":  "7af339e11ba450abe675cadf431f3ec557be4004e7aed179786a50f30d18dfbe",
-    "bytes":  352262,
-    "notes":  "2.13.8: avaliador de qualidade em tempo real - antes de tocar, o app testa as melhores fontes do titulo em paralelo (idioma, altura, taxa e velocidade) e escolhe a melhor segundo as regras; a escolha e a qualidade real ficam registradas na central."
+    "versionCode":  339,
+    "versionName":  "2.13.9",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.9/Conecta-TV-Android-2.13.9.apk",
+    "sha256":  "60096ad4882bdc9a54082dfb34ab180bdd54cba5c4f5793f3f1b51547264a01d",
+    "bytes":  352356,
+    "notes":  "2.13.9: a central passa a guardar a qualidade MEDIDA por titulo (fonte escolhida, altura, taxa e audio) e o app informa a taxa real tambem em arquivos diretos; painel novo com a secao Qualidade por titulo e correcao de um erro de carregamento do painel."
 }
