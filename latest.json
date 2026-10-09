@@ -1,8 +1,8 @@
 {
-    "versionCode":  343,
-    "versionName":  "2.13.13",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.13/Conecta-TV-Android-2.13.13.apk",
-    "sha256":  "3bd8a5c61b0887c12da5e0af4f774c0cc244506d6e088ea83ec9dc3f7813f6ae",
-    "bytes":  353879,
-    "notes":  "2.13.13: diagnostico do aparelho (pagina /diagnostico que mede o que a TV consegue tocar) e reforco do player nas televisoes - quando o motor do navegador nao da imagem, o aplicativo tenta o formato nativo da TV."
+    "versionCode":  344,
+    "versionName":  "2.13.14",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.14/Conecta-TV-Android-2.13.14.apk",
+    "sha256":  "c684ac3db734c425973411f603b35d4288b4c481dd95b79c3dd52452e26f6a80",
+    "bytes":  353872,
+    "notes":  "2.13.14: correcao importante - o aplicativo passa a conferir se a fonte realmente entrega VIDEO antes de abrir o player (o PipocaCine mudou de servidor e devolvia pagina de erro, o que deixava varios filmes sem carregar); quando isso acontece, o filme abre direto na fonte seguinte."
 }
