@@ -1,8 +1,8 @@
 {
-    "versionCode":  345,
-    "versionName":  "2.13.15",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.15/Conecta-TV-Android-2.13.15.apk",
-    "sha256":  "02219e24f6c0443d96a956be0f0a8005f5200d4e2a111d3462e5513cd9a75717",
-    "bytes":  354353,
-    "notes":  "2.13.15: o aplicativo do celular/TV tambem passa a conferir se a fonte entrega video antes de abrir o player (antes ele tentava o PipocaCine, que esta devolvendo erro, e ficava parado esperando imagem)."
+    "versionCode":  346,
+    "versionName":  "2.13.16",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.16/Conecta-TV-Android-2.13.16.apk",
+    "sha256":  "d3d297066ab7bbc9bd5634b8e95970555611f1b3836ef63f840792c0e9ba5d36",
+    "bytes":  354343,
+    "notes":  "2.13.16: vigia das fontes - o servidor passa a testar filmes em rodizio 24h, mede as fontes sozinho e afasta automaticamente a fonte que nao entrega video (castigo de 20 min, e 4h quando insiste); pagina /api/vigia mostra o trabalho do robo."
 }
