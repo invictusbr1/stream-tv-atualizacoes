@@ -1,8 +1,8 @@
 {
-    "versionCode":  341,
-    "versionName":  "2.13.11",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.11/Conecta-TV-Android-2.13.11.apk",
-    "sha256":  "57fba007387e5cb8d34370708558e598f3ad79066402f240107608d2721a09cf",
-    "bytes":  353244,
-    "notes":  "2.13.11: o aplicativo passa a ouvir o audio de cada fonte em ate tres trechos do filme (antes um trecho sem fala podia marcar a fonte como \u0027outro idioma\u0027 por engano) e o botao de escolha automatica de fonte passa a respeitar a ordem de confianca do motor (dublado conferido primeiro) no empate; teste de volume e qualidade."
+    "versionCode":  342,
+    "versionName":  "2.13.12",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.12/Conecta-TV-Android-2.13.12.apk",
+    "sha256":  "deb17b0f625afd6b517e3372823b15a5496a0f2235a5fd0395cad26e71901160",
+    "bytes":  353486,
+    "notes":  "2.13.12: preparacao do aplicativo para a TV Samsung (Tizen) - a entrada pode ser feita pelo proprio endereco (codigo e nome), sem digitar nada no controle remoto; ajustes internos de estabilidade."
 }
