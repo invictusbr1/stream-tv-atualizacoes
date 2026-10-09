@@ -1,8 +1,8 @@
 {
-    "versionCode":  352,
-    "versionName":  "2.13.22",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.22/Conecta-TV-Android-2.13.22.apk",
-    "sha256":  "24892e45d5dac32f81ff929f09109e1dffe1e2573fd9aff146de094c5e382bc6",
-    "bytes":  356871,
-    "notes":  "2.13.22: correcao - a tela da serie volta a rolar no telefone (lista de episodios completa) e o modo TV ficou sem o zoom exagerado que encavalava os cartoes."
+    "versionCode":  353,
+    "versionName":  "2.13.23",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.23/Conecta-TV-Android-2.13.23.apk",
+    "sha256":  "65e5635ccdd1016dfb3d980188761dd2f07f2e567d94614d0f10dd8bc9a4dd24",
+    "bytes":  389708,
+    "notes":  "2.13.23: layout de TV - app usa a tela inteira com conteudo centralizado e grade maior."
 }
