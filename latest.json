@@ -1,8 +1,8 @@
 {
-    "versionCode":  355,
-    "versionName":  "2.13.25",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.25/Conecta-TV-Android-2.13.25.apk",
-    "sha256":  "3535362ca66c1914ade543f238bc2c01d2a6b59de1ea8a87eef31b1d45830a89",
-    "bytes":  357409,
-    "notes":  "2.13.25: modo TV automatico no aparelho sem toque (Xiaomi TV Box) - letras e capas maiores, grade fixa e menos efeitos para nao travar; telefone inalterado."
+    "versionCode":  356,
+    "versionName":  "2.13.26",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.26/Conecta-TV-Android-2.13.26.apk",
+    "sha256":  "2d778749ec5cd5a35d78dfcceffd1fc880a0f7e10f4642fdcb68d172642c8056",
+    "bytes":  357434,
+    "notes":  "2.13.26: os arquivos da interface agora levam selo de versao - o aparelho deixa de usar o cache antigo (era isso que fazia a correcao dos episodios nao aparecer) + modo TV no box."
 }
