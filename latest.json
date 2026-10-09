@@ -1,8 +1,8 @@
 {
-    "versionCode":  347,
-    "versionName":  "2.13.17",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.17/Conecta-TV-Android-2.13.17.apk",
-    "sha256":  "1c5aec056150ac82d01df36b07aaed01abe1fc31ba45ed08cd4316f30f2c1fc6",
-    "bytes":  354355,
-    "notes":  "2.13.17: vigia tambem cobre SERIES (testa T1E1 das series em alta 24h e guarda na lista de espera as que ainda nao tem fonte, testando de novo sempre); mensagem clara quando um episodio ainda nao existe em nenhuma fonte."
+    "versionCode":  348,
+    "versionName":  "2.13.18",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.18/Conecta-TV-Android-2.13.18.apk",
+    "sha256":  "755bc33632191f526c2948e766022e52686c2cc4fb55e5b8c47b470968c25349",
+    "bytes":  354350,
+    "notes":  "2.13.18: o vigia passa a acompanhar tambem os lancamentos de SERIES TURCAS (TMDB, origem TR) - quando a dublagem aparecer em alguma fonte, o episodio passa a abrir sozinho."
 }
