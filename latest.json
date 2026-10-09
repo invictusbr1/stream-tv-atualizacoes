@@ -1,8 +1,8 @@
 {
-    "versionCode":  354,
-    "versionName":  "2.13.24",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.24/Conecta-TV-Android-2.13.24.apk",
-    "sha256":  "e88703286a2be0444ac8bd53d61a4e77acf51475c43bcbbab8ac884cb4ffeff3",
-    "bytes":  357096,
-    "notes":  "2.13.24: correcao do encaixe do episodio no telefone - a sinopse volta para a coluna de texto (fim do vazio gigante) e a miniatura fica alinhada com o titulo."
+    "versionCode":  355,
+    "versionName":  "2.13.25",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.25/Conecta-TV-Android-2.13.25.apk",
+    "sha256":  "3535362ca66c1914ade543f238bc2c01d2a6b59de1ea8a87eef31b1d45830a89",
+    "bytes":  357409,
+    "notes":  "2.13.25: modo TV automatico no aparelho sem toque (Xiaomi TV Box) - letras e capas maiores, grade fixa e menos efeitos para nao travar; telefone inalterado."
 }
