@@ -1,8 +1,8 @@
 {
-    "versionCode":  350,
-    "versionName":  "2.13.20",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.20/Conecta-TV-Android-2.13.20.apk",
-    "sha256":  "0bfaafa523d52a64405ffd24e8f3fede2be0d2d4a02cd361503995d50f5c78cc",
-    "bytes":  355989,
-    "notes":  "2.13.20: tela da serie no estilo das grandes plataformas - capa grande, selos (Top 10/Dublado/HD/Sem anuncio), abas Episodios e Detalhes, lista de episodios com miniatura, data e sinopse, e botao Assistir."
+    "versionCode":  351,
+    "versionName":  "2.13.21",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.21/Conecta-TV-Android-2.13.21.apk",
+    "sha256":  "946ddb3e078939c3ba6600e6f24e29f72269585d3d136b9e7a5c2e5c1d422e8c",
+    "bytes":  356924,
+    "notes":  "2.13.21: episodios no estilo das plataformas (miniatura com play, data, selos Dublado/HD/CC, botao de baixar e sinopse embaixo) e modo TV (visual maior e foco para o controle remoto) sem mudar nada no telefone."
 }
