@@ -1,8 +1,8 @@
 {
-    "versionCode":  349,
-    "versionName":  "2.13.19",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.19/Conecta-TV-Android-2.13.19.apk",
-    "sha256":  "3d3340a953c00110729591a54781c53f0d72cbbef2dd976a9fbe8c6716ed8670",
-    "bytes":  354349,
-    "notes":  "2.13.19: ajuste no ritmo do robo (testa 2 titulos a cada 12 min em vez de 3 a cada 8) e castigo diferenciado: falha de rede nao derruba mais uma fonte boa por horas (so defeito real, como pagina de erro, faz isso)."
+    "versionCode":  350,
+    "versionName":  "2.13.20",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.20/Conecta-TV-Android-2.13.20.apk",
+    "sha256":  "0bfaafa523d52a64405ffd24e8f3fede2be0d2d4a02cd361503995d50f5c78cc",
+    "bytes":  355989,
+    "notes":  "2.13.20: tela da serie no estilo das grandes plataformas - capa grande, selos (Top 10/Dublado/HD/Sem anuncio), abas Episodios e Detalhes, lista de episodios com miniatura, data e sinopse, e botao Assistir."
 }
