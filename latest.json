@@ -1,8 +1,8 @@
 {
-    "versionCode":  357,
-    "versionName":  "2.13.27",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.27/Conecta-TV-Android-2.13.27.apk",
-    "sha256":  "f230506974ddcd42a6de45fe3b30bab4e67249d1e317308924d558c8049963eb",
-    "bytes":  357834,
-    "notes":  "2.13.27: episodios definitivos - capa + titulo/data/selos na mesma linha e a sinopse embaixo com largura cheia (sem coluna espremida). Modo TV no box mantido."
+    "versionCode":  358,
+    "versionName":  "2.13.28",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.28/Conecta-TV-Android-2.13.28.apk",
+    "sha256":  "165c1599ab8872a63858aa809ba486795648c88b2423b847c8c3ef723bcdd581",
+    "bytes":  358264,
+    "notes":  "2.13.28: sinopse ocupando a largura inteira da linha do episodio + marcar como visto automatico (92% ou fim do episodio)."
 }
