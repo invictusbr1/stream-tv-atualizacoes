@@ -1,8 +1,8 @@
 {
-    "versionCode":  346,
-    "versionName":  "2.13.16",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.16/Conecta-TV-Android-2.13.16.apk",
-    "sha256":  "d3d297066ab7bbc9bd5634b8e95970555611f1b3836ef63f840792c0e9ba5d36",
-    "bytes":  354343,
-    "notes":  "2.13.16: vigia das fontes - o servidor passa a testar filmes em rodizio 24h, mede as fontes sozinho e afasta automaticamente a fonte que nao entrega video (castigo de 20 min, e 4h quando insiste); pagina /api/vigia mostra o trabalho do robo."
+    "versionCode":  347,
+    "versionName":  "2.13.17",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.17/Conecta-TV-Android-2.13.17.apk",
+    "sha256":  "1c5aec056150ac82d01df36b07aaed01abe1fc31ba45ed08cd4316f30f2c1fc6",
+    "bytes":  354355,
+    "notes":  "2.13.17: vigia tambem cobre SERIES (testa T1E1 das series em alta 24h e guarda na lista de espera as que ainda nao tem fonte, testando de novo sempre); mensagem clara quando um episodio ainda nao existe em nenhuma fonte."
 }
