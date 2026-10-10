@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-10T20:34:22.646Z",
+ "atualizadoEm": "2026-10-10T22:01:53.220Z",
  "perfis": [],
  "listasTv": [
   {
@@ -38,9 +38,9 @@
   {
    "id": "fenix",
    "nome": "FenixFlix · dublado",
-   "ajuste": 0.71,
+   "ajuste": 0.73,
    "taxaFalha": 14,
-   "aberturas": 18,
+   "aberturas": 19,
    "falhas": 3
   },
   {
