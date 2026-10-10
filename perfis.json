@@ -1,7 +1,15 @@
 {
- "atualizadoEm": "2026-10-10T20:01:27.545Z",
+ "atualizadoEm": "2026-10-10T20:34:22.646Z",
  "perfis": [],
- "listasTv": [],
+ "listasTv": [
+  {
+   "id": "iptv-org-mundo-todas-as-listas-",
+   "nome": "IPTV-org · mundo (todas as listas)",
+   "url": "https://iptv-org.github.io/iptv/index.m3u",
+   "nota": 8.4,
+   "medidoEm": "2026-10-10T20:34:22.627Z"
+  }
+ ],
  "placar": [
   {
    "id": "watchplay",
