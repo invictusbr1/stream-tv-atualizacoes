@@ -1,8 +1,8 @@
 {
-    "versionCode":  366,
-    "versionName":  "2.13.36",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.36/Conecta-TV-Android-2.13.36.apk",
-    "sha256":  "951c86477a9c856c3c7a8cdf99c66e3c3e4ab8a66ec994e15de27d055409775f",
-    "bytes":  359099,
-    "notes":  "2.13.36: capas dos filmes/series inteiras (sem corte)."
+    "versionCode": 366,
+    "versionName": "2.13.36",
+    "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.36/Conecta-TV-Android-2.13.36.apk",
+    "sha256": "951c86477a9c856c3c7a8cdf99c66e3c3e4ab8a66ec994e15de27d055409775f",
+    "bytes": 359099,
+    "notes": "2.13.36: capas inteiras (sem corte)."
 }
