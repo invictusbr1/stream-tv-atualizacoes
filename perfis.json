@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-10T11:43:54.417Z",
+ "atualizadoEm": "2026-10-10T11:56:02.073Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -14,7 +14,7 @@
    "origem": "addon do Stremio",
    "stremio": true,
    "ativo": true,
-   "medidoEm": "2026-10-10T11:31:56.119Z",
+   "medidoEm": "2026-10-10T11:55:55.811Z",
    "passos": [
     {
      "tipo": "json",
@@ -24,18 +24,18 @@
    "urlMovie": "https://fenixflix.fenixhub.online/stream/movie/{imdb}.json",
    "provas": [
     {
-     "amostra": "título tt0111161 (o addon tem)",
-     "ok": false,
-     "url": "https://solitary-river-9135.yrlz80gqxtou.workers.dev/t/1791612444.3022957d3104b66a29b093617c639309eb18d67ba7bbfd2d27985ae136603ed7/u/FonteMteus-AcessoFULL.VOD/e1.S3_raByPIbz9bk5JfvRjQRZm_FfEx4ruyLl1XVPCjMYYVIWwPWIdXBgP1KRYF24i",
-     "altura": 0,
+     "amostra": "título tt31192372 (o addon tem)",
+     "ok": true,
+     "url": "https://embedplayer2.xyz/cdn/hls/e71435da56e7b0f7a43050f68aea0d21/master.m3u8?md5=iD3dEhkAb7lP-QGckLgJAA&expires=1791640206",
+     "altura": 360,
      "dublado": null,
      "evidencia": "",
-     "motivo": "o endereço não devolveu vídeo"
+     "motivo": ""
     },
     {
-     "amostra": "título tt1375666 (o addon tem)",
+     "amostra": "título tt0111161 (o addon tem)",
      "ok": false,
-     "url": "https://little-canyon-10f8.yrlz80gqxtou.workers.dev/t/1791599811.5cba940bba80ceb69fb32bb3713b09f670a853720cedbc9d4cdc0d0c323e55fe/u/FonteMteus-AcessoFULL.VOD/e1.Qe6asdYg1Qj6LZAOwqOMlD2OtemkjG4n04rAZ6OV5mF7uEdcqcqfGgEIC6Qb-TII7A8e-fp5gc4HoUr9038ltA",
+     "url": "https://embedplayer2.xyz/cdn/hls/d608c2021937b53ff539ab8e0e5c5987/master.m3u8?md5=AeGNaEA8nR3rNJJ1AcMIRQ&expires=1791640226",
      "altura": 0,
      "dublado": null,
      "evidencia": "",
@@ -44,18 +44,17 @@
     {
      "amostra": "título tt0468569 (o addon tem)",
      "ok": false,
-     "url": "https://solitary-river-9135.yrlz80gqxtou.workers.dev/t/1791615310.590a7f0f477ba7eebfe25ba43a8e4262076aecc62ea04ba4bafbc2b19ccb1306/u/FonteMteus-AcessoFULL.VOD/e1.aBAzL7K6ogF-0OzI2bOTp4lMPHqao31SqWEm2cHfGvGSRaFWOqM-5rek0KFqIXxAkdD_DmyNejXXmTqnWanqFg",
+     "url": "https://embedplayer2.xyz/cdn/hls/0d4db268af252d9fb19834bc70a6564f/master.m3u8?md5=5YUtzZ0Z-WLXRFG6UsV_PQ&expires=1791640229",
      "altura": 0,
      "dublado": null,
      "evidencia": "",
      "motivo": "o endereço não devolveu vídeo"
     }
    ],
-   "descobertoEm": "2026-10-10T11:31:57.721Z",
+   "descobertoEm": "2026-10-10T11:56:02.051Z",
    "canal": "filme",
-   "urlTv": "",
-   "falhasDeValidacao": 0,
-   "motivo": "aprovada em 10/10/2026 (dois títulos do addon abriram); revalidando a cada rodada"
+   "falhasDeValidacao": 1,
+   "urlTv": ""
   }
  ],
  "listasTv": [],
