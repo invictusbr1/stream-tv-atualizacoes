@@ -1,62 +1,6 @@
 {
- "atualizadoEm": "2026-10-10T13:41:41.167Z",
- "perfis": [
-  {
-   "id": "fenixflix-fenixhub",
-   "nome": "FenixFlix (FenixHub)",
-   "nota": 7.2,
-   "dublado": true,
-   "qualidade": "1080p",
-   "tipos": [
-    "movie"
-   ],
-   "referer": "https://fenixflix.fenixhub.online/",
-   "origem": "addon do Stremio",
-   "stremio": true,
-   "ativo": true,
-   "medidoEm": "2026-10-10T12:23:21.035Z",
-   "passos": [
-    {
-     "tipo": "json",
-     "caminho": "streams[0].url"
-    }
-   ],
-   "urlMovie": "https://fenixflix.fenixhub.online/stream/movie/{imdb}.json",
-   "provas": [
-    {
-     "amostra": "título tt31192372 (o addon tem)",
-     "ok": true,
-     "url": "https://embedplayer2.xyz/cdn/hls/e71435da56e7b0f7a43050f68aea0d21/master.m3u8?md5=ompfSNR30lBVz66zML3Mrw&expires=1791641742",
-     "altura": 360,
-     "dublado": null,
-     "evidencia": "",
-     "motivo": ""
-    },
-    {
-     "amostra": "título tt0111161 (o addon tem)",
-     "ok": false,
-     "url": "https://embedplayer2.xyz/cdn/hls/d608c2021937b53ff539ab8e0e5c5987/master.m3u8?md5=wk26eKddfIE0x8c5v1wnzA&expires=1791641743",
-     "altura": 0,
-     "dublado": null,
-     "evidencia": "",
-     "motivo": "o endereço não devolveu vídeo"
-    },
-    {
-     "amostra": "título tt0468569 (o addon tem)",
-     "ok": false,
-     "url": "https://embedplayer2.xyz/cdn/hls/0d4db268af252d9fb19834bc70a6564f/master.m3u8?md5=1LerpYVjRb6f4VFkJLCEEg&expires=1791641745",
-     "altura": 0,
-     "dublado": null,
-     "evidencia": "",
-     "motivo": "o endereço não devolveu vídeo"
-    }
-   ],
-   "descobertoEm": "2026-10-10T12:23:27.241Z",
-   "canal": "filme",
-   "falhasDeValidacao": 2,
-   "urlTv": ""
-  }
- ],
+ "atualizadoEm": "2026-10-10T17:55:23.281Z",
+ "perfis": [],
  "listasTv": [],
  "placar": [
   {
