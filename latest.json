@@ -1,14 +1,14 @@
 {
-    "versionCode":  378,
-    "versionName":  "2.13.48",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.48/Conecta-TV-Android-2.13.48.apk",
-    "sha256":  "b1d8d8c4573b5dc10e790d841c0dd5e41deae7926d21fe435554c535f472e3d8",
-    "bytes":  372735,
-    "notes":  "2.13.48: botao discreto Pedir este titulo quando nenhuma fonte aparece - o pedido entra na frente da fila do cacador na proxima rodada.",
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.48/Conecta-TV-TV-2.13.48.apk",
-    "apkTvSha256":  "cd7d8f961d9060a4c5218750d215354d40e4abdf68341065130d5249298fee6c",
-    "apkTvBytes":  372842,
-    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.48/Conecta-TV-2.13.48.exe",
-    "exeSha256":  "c2a03c9261368da015128391d5b00263f92b67186e3c06645fd9e57a0a0b697e",
-    "exeBytes":  119423519
+    "versionCode":  379,
+    "versionName":  "2.13.49",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.49/Conecta-TV-Android-2.13.49.apk",
+    "sha256":  "98be27ef584e5018a5eacde0036429a4deab598d1903b9a825dbc19b93ae32e9",
+    "bytes":  372765,
+    "notes":  "2.13.49: o aparelho manda o referencia certo para os CDs do MGEB (One Piece e outros animes voltam a abrir no celular e na TV) e One Piece entrou na fila de pedidos.",
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.49/Conecta-TV-TV-2.13.49.apk",
+    "apkTvSha256":  "2bd95a693d27ac0160cbf5dc4debd5fad081d07fd1e60a4cb197744d3f248e54",
+    "apkTvBytes":  372878,
+    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.49/Conecta-TV-2.13.49.exe",
+    "exeSha256":  "40b2b71f606c72adab4108b0e5eddee8d86bbf31b04cb1b60445239f55313472",
+    "exeBytes":  119423481
 }
