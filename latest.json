@@ -1,14 +1,14 @@
 {
-    "versionCode":  377,
-    "versionName":  "2.13.47",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.47/Conecta-TV-Android-2.13.47.apk",
-    "sha256":  "b0ea287351f602f0e6f740012bc0505e4de97115dadc8d9e6bc99c7641e1abbc",
-    "bytes":  372294,
-    "notes":  "2.13.47: o aparelho ganha a segunda opcao da regra (alta definicao com legenda em portugues) quando nenhuma fonte dublada tem o titulo - antes ficava sem nada no celular e na TV.",
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.47/Conecta-TV-TV-2.13.47.apk",
-    "apkTvSha256":  "84381d749d39bb8f72e9a5155f5e71658e2825ff8680ff59de3ecb59e510fe66",
-    "apkTvBytes":  372395,
-    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.47/Conecta-TV-2.13.47.exe",
-    "exeSha256":  "7e1d40f9fd62025eef736ebe86759b72acc6769d91853265cd69f7de9d0acab5",
-    "exeBytes":  119420891
+    "versionCode":  378,
+    "versionName":  "2.13.48",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.48/Conecta-TV-Android-2.13.48.apk",
+    "sha256":  "b1d8d8c4573b5dc10e790d841c0dd5e41deae7926d21fe435554c535f472e3d8",
+    "bytes":  372735,
+    "notes":  "2.13.48: botao discreto Pedir este titulo quando nenhuma fonte aparece - o pedido entra na frente da fila do cacador na proxima rodada.",
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.48/Conecta-TV-TV-2.13.48.apk",
+    "apkTvSha256":  "cd7d8f961d9060a4c5218750d215354d40e4abdf68341065130d5249298fee6c",
+    "apkTvBytes":  372842,
+    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.48/Conecta-TV-2.13.48.exe",
+    "exeSha256":  "c2a03c9261368da015128391d5b00263f92b67186e3c06645fd9e57a0a0b697e",
+    "exeBytes":  119423519
 }
