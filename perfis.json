@@ -1,6 +1,63 @@
 {
- "atualizadoEm": "2026-10-10T11:26:41.093Z",
- "perfis": [],
+ "atualizadoEm": "2026-10-10T11:41:57.906Z",
+ "perfis": [
+  {
+   "id": "fenixflix-fenixhub",
+   "nome": "FenixFlix (FenixHub)",
+   "nota": 7.2,
+   "dublado": true,
+   "qualidade": "1080p",
+   "tipos": [
+    "movie"
+   ],
+   "referer": "https://fenixflix.fenixhub.online/",
+   "origem": "addon do Stremio",
+   "stremio": true,
+   "ativo": true,
+   "medidoEm": "2026-10-10T11:31:56.119Z",
+   "passos": [
+    {
+     "tipo": "json",
+     "caminho": "streams[0].url"
+    }
+   ],
+   "urlMovie": "https://fenixflix.fenixhub.online/stream/movie/{imdb}.json",
+   "provas": [
+    {
+     "amostra": "título tt0111161 (o addon tem)",
+     "ok": false,
+     "url": "https://solitary-river-9135.yrlz80gqxtou.workers.dev/t/1791612444.3022957d3104b66a29b093617c639309eb18d67ba7bbfd2d27985ae136603ed7/u/FonteMteus-AcessoFULL.VOD/e1.S3_raByPIbz9bk5JfvRjQRZm_FfEx4ruyLl1XVPCjMYYVIWwPWIdXBgP1KRYF24i",
+     "altura": 0,
+     "dublado": null,
+     "evidencia": "",
+     "motivo": "o endereço não devolveu vídeo"
+    },
+    {
+     "amostra": "título tt1375666 (o addon tem)",
+     "ok": false,
+     "url": "https://little-canyon-10f8.yrlz80gqxtou.workers.dev/t/1791599811.5cba940bba80ceb69fb32bb3713b09f670a853720cedbc9d4cdc0d0c323e55fe/u/FonteMteus-AcessoFULL.VOD/e1.Qe6asdYg1Qj6LZAOwqOMlD2OtemkjG4n04rAZ6OV5mF7uEdcqcqfGgEIC6Qb-TII7A8e-fp5gc4HoUr9038ltA",
+     "altura": 0,
+     "dublado": null,
+     "evidencia": "",
+     "motivo": "o endereço não devolveu vídeo"
+    },
+    {
+     "amostra": "título tt0468569 (o addon tem)",
+     "ok": false,
+     "url": "https://solitary-river-9135.yrlz80gqxtou.workers.dev/t/1791615310.590a7f0f477ba7eebfe25ba43a8e4262076aecc62ea04ba4bafbc2b19ccb1306/u/FonteMteus-AcessoFULL.VOD/e1.aBAzL7K6ogF-0OzI2bOTp4lMPHqao31SqWEm2cHfGvGSRaFWOqM-5rek0KFqIXxAkdD_DmyNejXXmTqnWanqFg",
+     "altura": 0,
+     "dublado": null,
+     "evidencia": "",
+     "motivo": "o endereço não devolveu vídeo"
+    }
+   ],
+   "descobertoEm": "2026-10-10T11:31:57.721Z",
+   "canal": "filme",
+   "urlTv": "",
+   "falhasDeValidacao": 0,
+   "motivo": "aprovada em 10/10/2026 (dois títulos do addon abriram); revalidando a cada rodada"
+  }
+ ],
  "listasTv": [],
  "placar": [
   {
