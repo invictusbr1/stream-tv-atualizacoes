@@ -1,8 +1,8 @@
 {
-    "versionCode":  363,
-    "versionName":  "2.13.33",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.33/Conecta-TV-Android-2.13.33.apk",
-    "sha256":  "6f6e13dc7cc895bbb34bbf6480c90519e5876266769b877465ee4b34cb36196e",
-    "bytes":  358828,
-    "notes":  "2.13.33: ajuste de medidas do painel da serie (cabe na tela, sem cortar nas laterais) e botao de assistido dentro da margem."
+    "versionCode": 363,
+    "versionName": "2.13.33",
+    "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.33/Conecta-TV-Android-2.13.33.apk",
+    "sha256": "6f6e13dc7cc895bbb34bbf6480c90519e5876266769b877465ee4b34cb36196e",
+    "bytes": 358828,
+    "notes": "2.13.33: medidas do painel da serie ajustadas."
 }
