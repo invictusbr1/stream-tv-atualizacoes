@@ -1,8 +1,8 @@
 {
-    "versionCode":  365,
-    "versionName":  "2.13.35",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.35/Conecta-TV-Android-2.13.35.apk",
-    "sha256":  "61a246f0ca50fe3e413f5f3b7ce0ac97f3862869e88cb4ae0498dfc6a97bee5c",
-    "bytes":  358994,
-    "notes":  "2.13.35: corrige endereco de video da fonte MGEB no aplicativo (caminho com .. quebrava a reproduzir) - minisseries e filmes que dependiam dela voltam a rodar no celular."
+    "versionCode": 365,
+    "versionName": "2.13.35",
+    "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.35/Conecta-TV-Android-2.13.35.apk",
+    "sha256": "61a246f0ca50fe3e413f5f3b7ce0ac97f3862869e88cb4ae0498dfc6a97bee5c",
+    "bytes": 358994,
+    "notes": "2.13.35: corrige o endereco de video da fonte MGEB no aplicativo (minisseries e filmes que dependiam dela voltam a rodar)."
 }
