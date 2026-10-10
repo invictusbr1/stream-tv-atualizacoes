@@ -1,14 +1,14 @@
 {
-    "versionCode":  372,
-    "versionName":  "2.13.42",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.42/Conecta-TV-Android-2.13.42.apk",
-    "sha256":  "711d88fa152d588ed8a6a3cd097e190c1b3f8e4b5b28748b07c9fafd7cc037ea",
-    "bytes":  370446,
-    "notes":  "2.13.42: motor de fichas de fonte, placar real das fontes, cacada profunda e listas de canais aprovadas automaticamente.",
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.42/Conecta-TV-TV-2.13.42.apk",
-    "apkTvSha256":  "065b2f336472e911bef24d8c41dca51ed6b6594823d0c882896e57e55ff5da86",
-    "apkTvBytes":  370576,
-    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.42/Conecta-TV-2.13.42.exe",
-    "exeSha256":  "9663792c3fb5f4cd70f8660f75071202d970e43e8736139346ed6ba789159fe8",
-    "exeBytes":  119335021
+    "versionCode":  373,
+    "versionName":  "2.13.43",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.43/Conecta-TV-Android-2.13.43.apk",
+    "sha256":  "038a6e8180f033307cc9ebb6f8b0021bc14b67424ef6185e00f5545005c71146",
+    "bytes":  370443,
+    "notes":  "2.13.43: ficha de fonte de addon do Stremio (FenixFlix, dublado 1080p) validada e ativa no computador e no celular; endereco http promovido para https; idioma sem marcacao nao conta mais como outro idioma.",
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.43/Conecta-TV-TV-2.13.43.apk",
+    "apkTvSha256":  "17bcddca9cd7be5f89855c62bce28edb02406c79f25d048a1f8b7beea8772467",
+    "apkTvBytes":  370581,
+    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.43/Conecta-TV-2.13.43.exe",
+    "exeSha256":  "66d8d75cf28ba431ceb670cf3993e24a99787326e99932238e120b9dad960316",
+    "exeBytes":  119344410
 }
