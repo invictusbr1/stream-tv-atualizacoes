@@ -1,6 +1,55 @@
 {
- "atualizadoEm": "2026-10-10T03:37:02.074Z",
+ "atualizadoEm": "2026-10-10T03:38:37.447Z",
  "perfis": [],
  "listasTv": [],
- "placar": []
+ "placar": [
+  {
+   "id": "watchplay",
+   "nome": "WatchPlay",
+   "ajuste": 0.39,
+   "taxaFalha": 30,
+   "aberturas": 23,
+   "falhas": 10
+  },
+  {
+   "id": "pipoca",
+   "nome": "PipocaCine",
+   "ajuste": -0.67,
+   "taxaFalha": 78,
+   "aberturas": 5,
+   "falhas": 18
+  },
+  {
+   "id": "mgeb",
+   "nome": "MGEB · dublado",
+   "ajuste": -0.38,
+   "taxaFalha": 67,
+   "aberturas": 7,
+   "falhas": 14
+  },
+  {
+   "id": "fenix",
+   "nome": "FenixFlix · dublado",
+   "ajuste": 0.79,
+   "taxaFalha": 11,
+   "aberturas": 17,
+   "falhas": 2
+  },
+  {
+   "id": "full-hd",
+   "nome": "Full HD",
+   "ajuste": 0.04,
+   "taxaFalha": 43,
+   "aberturas": 8,
+   "falhas": 6
+  },
+  {
+   "id": "vixsrc",
+   "nome": "Vixsrc",
+   "ajuste": -0.2,
+   "taxaFalha": 50,
+   "aberturas": 2,
+   "falhas": 2
+  }
+ ]
 }
