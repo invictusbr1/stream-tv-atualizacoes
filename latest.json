@@ -1,14 +1,14 @@
 {
-    "versionCode":  370,
-    "versionName":  "2.13.40",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.40/Conecta-TV-Android-2.13.40.apk",
-    "sha256":  "cbc763f5e79da6883fb56a7d1d247bddb8b9a5cb783f708f6f771b417dc0e7cd",
-    "bytes":  363875,
-    "notes":  "2.13.40: o botao de download do episodio agora aparece e baixa o episodio de verdade no computador (Downloads\\Conecta TV, MP4 dublado); APK da TV mantido em br.streamtv.app.tv.",
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.40/Conecta-TV-TV-2.13.40.apk",
-    "apkTvSha256":  "4885a79d4642b357f9a23c782162f1e03913cdad30819bafcf34c124d39afd5d",
-    "apkTvBytes":  364030,
-    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.40/Conecta-TV-2.13.40.exe",
-    "exeSha256":  "4e2c58341f8d6aa9a8e2f8e320f391fbbe8ebaeb0be2a59011d0791618e4f429",
-    "exeBytes":  118987746
+    "versionCode":  371,
+    "versionName":  "2.13.41",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.41/Conecta-TV-Android-2.13.41.apk",
+    "sha256":  "0d8d3f74b6a5e98a6c5f193b365156ba7ae8ab5e704debb314342ecfe6cc1466",
+    "bytes":  363959,
+    "notes":  "2.13.41: a conferencia de atualizacao agora conta na central o que o aparelho mediu (instalada x publicada x resultado) — e o download do episodio segue no computador.",
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.41/Conecta-TV-TV-2.13.41.apk",
+    "apkTvSha256":  "6e37dc5fcb934deec7a37ee957369a1b16088c0dc0268112fe12a6347aca1878",
+    "apkTvBytes":  364128,
+    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.41/Conecta-TV-2.13.41.exe",
+    "exeSha256":  "498a0cb1bc3c116c2394521698353337079253eda64ba40d7482d7a82715c662",
+    "exeBytes":  118988048
 }
