@@ -1,14 +1,14 @@
 {
-    "versionCode":  373,
-    "versionName":  "2.13.43",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.43/Conecta-TV-Android-2.13.43.apk",
-    "sha256":  "038a6e8180f033307cc9ebb6f8b0021bc14b67424ef6185e00f5545005c71146",
-    "bytes":  370443,
-    "notes":  "2.13.43: ficha de fonte de addon do Stremio (FenixFlix, dublado 1080p) validada e ativa no computador e no celular; endereco http promovido para https; idioma sem marcacao nao conta mais como outro idioma.",
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.43/Conecta-TV-TV-2.13.43.apk",
-    "apkTvSha256":  "17bcddca9cd7be5f89855c62bce28edb02406c79f25d048a1f8b7beea8772467",
-    "apkTvBytes":  370581,
-    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.43/Conecta-TV-2.13.43.exe",
-    "exeSha256":  "66d8d75cf28ba431ceb670cf3993e24a99787326e99932238e120b9dad960316",
-    "exeBytes":  119344410
+    "versionCode":  374,
+    "versionName":  "2.13.44",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.44/Conecta-TV-Android-2.13.44.apk",
+    "sha256":  "8575113d97a3bbe15cf84dc8db7430b2235a3a1eaf9096c313c78d06037d582c",
+    "bytes":  370449,
+    "notes":  "2.13.44: o aplicativo instalado passa a ler as fichas publicadas pelo cacador (antes so lia a copia que veio dentro do programa) e usa o placar real das fontes.",
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.44/Conecta-TV-TV-2.13.44.apk",
+    "apkTvSha256":  "f02cf763d1b55a8a281419de5b33e115d8203544605a5c3bddd6f830422884f7",
+    "apkTvBytes":  370575,
+    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.44/Conecta-TV-2.13.44.exe",
+    "exeSha256":  "5a7bfb1c3a15cde9382fedea52ba40e95f0eb4eca1a80ac5a171d08b4066960d",
+    "exeBytes":  119349001
 }
