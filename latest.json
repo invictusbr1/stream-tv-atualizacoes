@@ -1,8 +1,8 @@
 {
-    "versionCode":  360,
-    "versionName":  "2.13.30",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.30/Conecta-TV-Android-2.13.30.apk",
-    "sha256":  "b972ac8afb2ac15cb37e8774f3eaf1ca6e8f7b52595e5a5640bf175bdbf1f069",
-    "bytes":  358459,
-    "notes":  "2.13.30: ajuste da tela de episodios DENTRO do aplicativo - capa em cima e titulo, data, selos e sinopse embaixo dela, alinhados pela esquerda; o botao Continuar saiu do meio da lista."
+    "versionCode":  361,
+    "versionName":  "2.13.31",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.31/Conecta-TV-Android-2.13.31.apk",
+    "sha256":  "e46598b07a8c758d0d61ba71148fa7245c48cb8ca3825e79b594d3bbad7d505d",
+    "bytes":  358296,
+    "notes":  "2.13.31: volta a tela de episodios que voce aprovou (2.13.28) - o ajuste novo teste quebrou o arranjo e foi descartado."
 }
