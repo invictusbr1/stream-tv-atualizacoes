@@ -1,8 +1,8 @@
 {
-    "versionCode":  364,
-    "versionName":  "2.13.34",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.34/Conecta-TV-Android-2.13.34.apk",
-    "sha256":  "b8dc8565501be5fd0fd124dbb14a5630ddb1f465d18542b861a4a65d6601b16e",
-    "bytes":  358955,
-    "notes":  "2.13.34: sinopse quebrando dentro do painel (sem estourar a direita) e sem o rotulo Continuar sobre a lista."
+    "versionCode": 364,
+    "versionName": "2.13.34",
+    "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.34/Conecta-TV-Android-2.13.34.apk",
+    "sha256": "b8dc8565501be5fd0fd124dbb14a5630ddb1f465d18542b861a4a65d6601b16e",
+    "bytes": 358955,
+    "notes": "2.13.34: sinopse dentro do painel e sem rotulo Continuar sobre a lista."
 }
