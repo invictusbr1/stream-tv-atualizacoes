@@ -1,14 +1,14 @@
 {
-    "versionCode":  375,
-    "versionName":  "2.13.45",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.45/Conecta-TV-Android-2.13.45.apk",
-    "sha256":  "fe93eaae9cbd8c209bebbd7cc31623ab740ea3c56ae824cf4f8f3f30754f78e9",
-    "bytes":  370998,
-    "notes":  "2.13.45: ficha de addon funcionando de ponta a ponta - o aplicativo busca o codigo IMDb do titulo e usa a fonte nova como opcao dublada quando as fixas nao respondem.",
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.45/Conecta-TV-TV-2.13.45.apk",
-    "apkTvSha256":  "4ba334f0d531cdf396f4f64cc61e97b3a36fb2ec75bedc0b6a8b23dc1cfb0c74",
-    "apkTvBytes":  371128,
-    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.45/Conecta-TV-2.13.45.exe",
-    "exeSha256":  "a919f0ef9572a567140ef8158b8339de303c99bfd416909927345e8fe2acbef1",
-    "exeBytes":  119353353
+    "versionCode":  376,
+    "versionName":  "2.13.46",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.46/Conecta-TV-Android-2.13.46.apk",
+    "sha256":  "9ec7b43bb78be1852abf2b54b07fbbc7ee313828f71a1fce44fd7cdd9d97dc13",
+    "bytes":  371166,
+    "notes":  "2.13.46: ficha com passo de endereco (o cacador usa o caminho que o site pede por dentro) - abre no computador e no celular.",
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.46/Conecta-TV-TV-2.13.46.apk",
+    "apkTvSha256":  "df83fe8408747ef92ac3c8289129c1e76476742d8409003c108043e9ec42abfe",
+    "apkTvBytes":  371254,
+    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.46/Conecta-TV-2.13.46.exe",
+    "exeSha256":  "9b88c91460db8bce7b1db47b3dca6074ade7755ba4887489eeb29a22c66c2352",
+    "exeBytes":  119418631
 }
