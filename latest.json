@@ -1,14 +1,14 @@
 {
-  "versionCode": 389,
-  "versionName": "2.13.59",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.59/Conecta-TV-Android-2.13.59.apk",
-  "sha256": "78cfb86db3f96620929613fd29b6bed484234624850676a2ddbf59b55c4dd4ef",
-  "bytes": 434031,
-  "notes": "Pagina exclusiva Futebol com jogos ao vivo, placares, consulta por data e programacao. Corrige transmissao LA18HD no Android: aceita porta HTTPS 443. 198 testes e regressao Java aprovados. Validacao em celular fisico ainda pendente.",
-  "apkTvUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.59/Conecta-TV-TV-2.13.59.apk",
-  "apkTvSha256": "e6c0328c2139c6e880702ad20e14c3fe65f872ec363705f2a43657f533de81a6",
-  "apkTvBytes": 434096,
-  "exeUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.59/Conecta-TV-2.13.59.exe",
-  "exeSha256": "8a2544fcf9b52be6f5e9b78b860c8617ace46fef724d7cc6bf820258a5671142",
-  "exeBytes": 119474963
+  "versionCode": 390,
+  "versionName": "2.13.60",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.60/Conecta-TV-Android-2.13.60.apk",
+  "sha256": "25719cab7dfe100a6823f07dfa49debbe19c6da35e1daa3829c6e7317a7c6255",
+  "bytes": 426330,
+  "notes": "Futebol separado da TV, com banner para assistir e somente jogos ao vivo, sem placares. TV ao vivo simplificada: lista unica e busca por canal. Corrige busca no computador. 199 testes aprovados.",
+  "apkTvUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.60/Conecta-TV-TV-2.13.60.apk",
+  "apkTvSha256": "4d2afc39a033a9abb370dcbf00c2edb2315418c69c84e4a2097f5f44f2e9a093",
+  "apkTvBytes": 426379,
+  "exeUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.60/Conecta-TV-2.13.60.exe",
+  "exeSha256": "352001bdc0a23fc715529cd309772749c66a2591c50b0acf649d5103ea3cbcf9",
+  "exeBytes": 119476220
 }
