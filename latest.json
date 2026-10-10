@@ -1,14 +1,14 @@
 {
-    "versionCode":  380,
-    "versionName":  "2.13.50",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.50/Conecta-TV-Android-2.13.50.apk",
-    "sha256":  "e64867b0a669d952a0ccf626afb0f071d1fced3a27fe7c124c7dc723614f0715",
-    "bytes":  374639,
-    "notes":  "2.13.50: encaminhador de video dentro do aparelho - a lista de reproducao passa pelo proprio aplicativo e o CDN para de recusar (animes do MGEB, One Piece e Bleach voltam a abrir).",
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.50/Conecta-TV-TV-2.13.50.apk",
-    "apkTvSha256":  "1a0087f88f334f5e3128da7feba9632efce49fb746737d49dc64c71479aa75a2",
-    "apkTvBytes":  374774,
-    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.50/Conecta-TV-2.13.50.exe",
-    "exeSha256":  "983b2e6a74cd6b15a3904e6cc69f99903524b7971064152876362e96b1623365",
-    "exeBytes":  119423515
+    "versionCode":  381,
+    "versionName":  "2.13.51",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.51/Conecta-TV-Android-2.13.51.apk",
+    "sha256":  "e7fabb81c8b577c9d21e92d1d5c3236c93777e0ce2c4f1a309060e54020820ca",
+    "bytes":  374877,
+    "notes":  "2.13.51: o aparelho manda o codigo do publico junto dos relatos e o servidor autoriza na hora - a central volta a ver o celular de qualquer rede (o relato nao se perde quando o endereco muda).",
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.51/Conecta-TV-TV-2.13.51.apk",
+    "apkTvSha256":  "537acc1662b799a90a7fd47184a78bcff1a0e6384efed0229327f12497381cef",
+    "apkTvBytes":  375014,
+    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.51/Conecta-TV-2.13.51.exe",
+    "exeSha256":  "bf71a28d7c5960ce155822a14abee011c0ab56d8e760d80983e775129655510b",
+    "exeBytes":  119425257
 }
