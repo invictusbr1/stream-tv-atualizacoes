@@ -1,14 +1,14 @@
 {
-    "versionCode":  374,
-    "versionName":  "2.13.44",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.44/Conecta-TV-Android-2.13.44.apk",
-    "sha256":  "8575113d97a3bbe15cf84dc8db7430b2235a3a1eaf9096c313c78d06037d582c",
-    "bytes":  370449,
-    "notes":  "2.13.44: o aplicativo instalado passa a ler as fichas publicadas pelo cacador (antes so lia a copia que veio dentro do programa) e usa o placar real das fontes.",
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.44/Conecta-TV-TV-2.13.44.apk",
-    "apkTvSha256":  "f02cf763d1b55a8a281419de5b33e115d8203544605a5c3bddd6f830422884f7",
-    "apkTvBytes":  370575,
-    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.44/Conecta-TV-2.13.44.exe",
-    "exeSha256":  "5a7bfb1c3a15cde9382fedea52ba40e95f0eb4eca1a80ac5a171d08b4066960d",
-    "exeBytes":  119349001
+    "versionCode":  375,
+    "versionName":  "2.13.45",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.45/Conecta-TV-Android-2.13.45.apk",
+    "sha256":  "fe93eaae9cbd8c209bebbd7cc31623ab740ea3c56ae824cf4f8f3f30754f78e9",
+    "bytes":  370998,
+    "notes":  "2.13.45: ficha de addon funcionando de ponta a ponta - o aplicativo busca o codigo IMDb do titulo e usa a fonte nova como opcao dublada quando as fixas nao respondem.",
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.45/Conecta-TV-TV-2.13.45.apk",
+    "apkTvSha256":  "4ba334f0d531cdf396f4f64cc61e97b3a36fb2ec75bedc0b6a8b23dc1cfb0c74",
+    "apkTvBytes":  371128,
+    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.45/Conecta-TV-2.13.45.exe",
+    "exeSha256":  "a919f0ef9572a567140ef8158b8339de303c99bfd416909927345e8fe2acbef1",
+    "exeBytes":  119353353
 }
