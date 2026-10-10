@@ -1,14 +1,14 @@
 {
-    "versionCode":  376,
-    "versionName":  "2.13.46",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.46/Conecta-TV-Android-2.13.46.apk",
-    "sha256":  "9ec7b43bb78be1852abf2b54b07fbbc7ee313828f71a1fce44fd7cdd9d97dc13",
-    "bytes":  371166,
-    "notes":  "2.13.46: ficha com passo de endereco (o cacador usa o caminho que o site pede por dentro) - abre no computador e no celular.",
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.46/Conecta-TV-TV-2.13.46.apk",
-    "apkTvSha256":  "df83fe8408747ef92ac3c8289129c1e76476742d8409003c108043e9ec42abfe",
-    "apkTvBytes":  371254,
-    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.46/Conecta-TV-2.13.46.exe",
-    "exeSha256":  "9b88c91460db8bce7b1db47b3dca6074ade7755ba4887489eeb29a22c66c2352",
-    "exeBytes":  119418631
+    "versionCode":  377,
+    "versionName":  "2.13.47",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.47/Conecta-TV-Android-2.13.47.apk",
+    "sha256":  "b0ea287351f602f0e6f740012bc0505e4de97115dadc8d9e6bc99c7641e1abbc",
+    "bytes":  372294,
+    "notes":  "2.13.47: o aparelho ganha a segunda opcao da regra (alta definicao com legenda em portugues) quando nenhuma fonte dublada tem o titulo - antes ficava sem nada no celular e na TV.",
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.47/Conecta-TV-TV-2.13.47.apk",
+    "apkTvSha256":  "84381d749d39bb8f72e9a5155f5e71658e2825ff8680ff59de3ecb59e510fe66",
+    "apkTvBytes":  372395,
+    "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.47/Conecta-TV-2.13.47.exe",
+    "exeSha256":  "7e1d40f9fd62025eef736ebe86759b72acc6769d91853265cd69f7de9d0acab5",
+    "exeBytes":  119420891
 }
