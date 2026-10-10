@@ -1,8 +1,8 @@
 {
-    "versionCode":  367,
-    "versionName":  "2.13.37",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.37/Conecta-TV-Android-2.13.37.apk",
-    "sha256":  "e1a7bd8b9e5b0b286bf48e617a0f3b676c32e0787c3b188b39d680772eff6002",
-    "bytes":  359200,
-    "notes":  "2.13.37: capa inteira tambem nos resultados da busca (estava cortada)."
+    "versionCode": 367,
+    "versionName": "2.13.37",
+    "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.37/Conecta-TV-Android-2.13.37.apk",
+    "sha256": "e1a7bd8b9e5b0b286bf48e617a0f3b676c32e0787c3b188b39d680772eff6002",
+    "bytes": 359200,
+    "notes": "2.13.37: capa inteira nos resultados da busca."
 }
