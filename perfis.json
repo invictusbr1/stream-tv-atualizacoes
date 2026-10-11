@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-10T22:01:53.220Z",
+ "atualizadoEm": "2026-10-11T00:03:26.997Z",
  "perfis": [],
  "listasTv": [
   {
@@ -14,18 +14,18 @@
   {
    "id": "watchplay",
    "nome": "WatchPlay",
-   "ajuste": 0.44,
-   "taxaFalha": 28,
-   "aberturas": 31,
-   "falhas": 12
+   "ajuste": 0.39,
+   "taxaFalha": 30,
+   "aberturas": 32,
+   "falhas": 14
   },
   {
    "id": "mgeb",
    "nome": "MGEB · dublado",
-   "ajuste": -0.22,
-   "taxaFalha": 58,
-   "aberturas": 10,
-   "falhas": 14
+   "ajuste": -0.03,
+   "taxaFalha": 52,
+   "aberturas": 14,
+   "falhas": 15
   },
   {
    "id": "pipoca",
@@ -46,7 +46,7 @@
   {
    "id": "full-hd",
    "nome": "Full HD",
-   "ajuste": -0.03,
+   "ajuste": 0.02,
    "taxaFalha": 47,
    "aberturas": 8,
    "falhas": 7
