@@ -1,12 +1,12 @@
 {
- "atualizadoEm": "2026-10-11T20:47:09.945Z",
+ "atualizadoEm": "2026-10-11T21:00:25.864Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
    "nome": "FenixFlix (FenixHub)",
-   "nota": 6.6,
+   "nota": 8,
    "dublado": true,
-   "qualidade": "720p",
+   "qualidade": "1080p",
    "tipos": [
     "movie",
     "tv"
@@ -15,7 +15,7 @@
    "origem": "addon do Stremio",
    "stremio": true,
    "ativo": true,
-   "medidoEm": "2026-10-11T02:21:55.152Z",
+   "medidoEm": "2026-10-11T21:00:16.177Z",
    "passos": [
     {
      "tipo": "json",
@@ -23,13 +23,13 @@
     }
    ],
    "urlMovie": "https://fenixflix.fenixhub.online/stream/movie/{imdb}.json",
-   "evidencia": "título tt0352248 (o addon tem): faixa de áudio em português (padrão do arquivo) · 720p | título tt31192372 (o addon tem): áudio original · 360p",
+   "evidencia": "título tt0352248 (o addon tem): faixa de áudio em português (padrão do arquivo) · 1080p | título tt31192372 (o addon tem): áudio original · 360p | título tt0111161 (o addon tem): faixa de áudio em português (padrão do arquivo) · 720p",
    "provas": [
     {
      "amostra": "título tt0352248 (o addon tem)",
      "ok": true,
-     "url": "https://source.apperror404.com/movie/43018.mp4?token=NzQyZGI0Mg==",
-     "altura": 720,
+     "url": "https://fenixflix.fenixhub.online/r/9wWYz2B-HbDNZGh1xnFtMefzRMUpxx0ilWboNrXUhUkxAhxdAyuU27Vtr6ZwlzX8P6iCvEy5ijawsdvQQ4yvCPi9hjo8YVMqSmNFVS7Z9DQ/video.mp4",
+     "altura": 1080,
      "dublado": true,
      "evidencia": "faixa de áudio em português (padrão do arquivo)",
      "motivo": ""
@@ -37,7 +37,7 @@
     {
      "amostra": "título tt31192372 (o addon tem)",
      "ok": true,
-     "url": "https://embedplayer2.xyz/cdn/hls/fad86c1cbe3ea3f29dd33305d864103a/master.m3u8?md5=hpKkiWW1wwvWE731wu77cg&expires=1791685431",
+     "url": "https://embedplayer2.xyz/cdn/hls/fad86c1cbe3ea3f29dd33305d864103a/master.m3u8?md5=6eLVF2PXlQPPFQXcYVLD6Q&expires=1791755010",
      "altura": 360,
      "dublado": null,
      "evidencia": "",
@@ -45,15 +45,15 @@
     },
     {
      "amostra": "título tt0111161 (o addon tem)",
-     "ok": false,
-     "url": "https://embedplayer2.xyz/cdn/hls/d608c2021937b53ff539ab8e0e5c5987/master.m3u8?md5=zsmyZ5PW56EGxv6sOQXw1A&expires=1791692174",
-     "altura": 0,
-     "dublado": null,
-     "evidencia": "",
-     "motivo": "o endereço não devolveu vídeo"
+     "ok": true,
+     "url": "https://fenixflix.fenixhub.online/r/qXa9p5O5LWjKxj7fcGIzWJZoXKWatBQ1zH1XC24920FjQo_f6ROgBl1XFpLT_72lYlopXXc_Fr6pSaOTDwGAPU_ih2nl9_Ilu07FWW1ZvCs/video.mp4",
+     "altura": 720,
+     "dublado": true,
+     "evidencia": "faixa de áudio em português (padrão do arquivo)",
+     "motivo": ""
     }
    ],
-   "descobertoEm": "2026-10-11T02:22:02.329Z",
+   "descobertoEm": "2026-10-11T21:00:25.783Z",
    "canal": "filme",
    "falhasDeValidacao": 0,
    "urlTv": "https://fenixflix.fenixhub.online/stream/series/{imdb}:{temporada}:{episodio}.json"
