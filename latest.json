@@ -1,17 +1,14 @@
 {
-  "versionCode": 395,
-  "versionName": "2.13.65",
-  "notes": "Correcao do futebol: botao Ver canais de futebol em cada partida, canais separados e correspondencia exata com a programacao brasileira. Identifica Premiere 1 e evita confundir ESPN com ESPN 2. Canais extras do LA18HD ainda nao confirmados. 218 testes aprovados. Atualizacao Android celular e Android TV.",
-  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.65/Conecta-TV-Android-2.13.65.apk",
-  "sha256": "de9dbb6a56a150460994d62bf7d7b8932688fb07f1892eb3a4b38afc661e5bbb",
-  "bytes": 400270,
-  "apkTvUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.65/Conecta-TV-TV-2.13.65.apk",
-  "apkTvSha256": "f980a4d6a426598c8694c837894ab8b5232fdf3b724898c820dccd2f95b0bde4",
-  "apkTvBytes": 400325,
+  "versionCode": 396,
+  "versionName": "2.13.66",
+  "apkUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.66/Conecta-TV-Android-2.13.66.apk",
+  "sha256": "a158e07b0586b269cac1cd14668a381f6899e05cee7c70989632d68f7f1b1287",
+  "bytes": 454427,
+  "notes": "Nova interface no Android celular: páginas completas de filmes e séries, temporadas e episódios adaptados ao toque, player horizontal e novos controles de reprodução e de avançar/voltar 10 segundos. O aplicativo da TV mantém o visual atual.",
   "exeUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.64/Conecta-TV-2.13.64.exe",
   "exeSha256": "eb9db185c32692e3a6ff90fbe1e4eeffee2a35a2589a747ed82dcc1e5e4b667a",
   "exeBytes": 111071401,
-  "centralUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.64/Central-Conecta-TV-2.13.64.exe",
-  "centralSha256": "6ad76b83e3ac2ea0670d28c3117882a6765d0dc38d3d3a1761b4509ee2bee7d7",
-  "centralBytes": 111142536
+  "apkTvUrl": "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.66/Conecta-TV-TV-2.13.66.apk",
+  "apkTvSha256": "ae7b1d3fda8f89b78caf625f492f5dd63e5de3025a2d92d5a9d013c57600b57d",
+  "apkTvBytes": 406749
 }
