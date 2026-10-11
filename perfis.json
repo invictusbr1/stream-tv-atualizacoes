@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-11T02:22:02.342Z",
+ "atualizadoEm": "2026-10-11T04:08:15.241Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -72,9 +72,9 @@
   {
    "id": "watchplay",
    "nome": "WatchPlay",
-   "ajuste": 0.39,
+   "ajuste": 0.4,
    "taxaFalha": 30,
-   "aberturas": 32,
+   "aberturas": 33,
    "falhas": 14
   },
   {
@@ -123,6 +123,14 @@
    "ajuste": 0,
    "taxaFalha": 0,
    "aberturas": 1,
+   "falhas": 0
+  },
+  {
+   "id": "reelshort",
+   "nome": "ReelShort",
+   "ajuste": 0,
+   "taxaFalha": 0,
+   "aberturas": 0,
    "falhas": 0
   }
  ]
