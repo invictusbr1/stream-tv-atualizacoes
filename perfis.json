@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-11T00:03:26.997Z",
+ "atualizadoEm": "2026-10-11T02:08:05.089Z",
  "perfis": [],
  "listasTv": [
   {
@@ -22,9 +22,9 @@
   {
    "id": "mgeb",
    "nome": "MGEB · dublado",
-   "ajuste": -0.03,
-   "taxaFalha": 52,
-   "aberturas": 14,
+   "ajuste": 0.06,
+   "taxaFalha": 47,
+   "aberturas": 17,
    "falhas": 15
   },
   {
@@ -46,7 +46,7 @@
   {
    "id": "full-hd",
    "nome": "Full HD",
-   "ajuste": 0.02,
+   "ajuste": 0.07,
    "taxaFalha": 47,
    "aberturas": 8,
    "falhas": 7
