@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-11T22:48:00.286Z",
+ "atualizadoEm": "2026-10-12T00:50:57.425Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -72,9 +72,9 @@
   {
    "id": "watchplay",
    "nome": "WatchPlay",
-   "ajuste": 0.4,
-   "taxaFalha": 30,
-   "aberturas": 33,
+   "ajuste": 0.42,
+   "taxaFalha": 29,
+   "aberturas": 34,
    "falhas": 14
   },
   {
