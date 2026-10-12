@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-12T15:34:14.064Z",
+ "atualizadoEm": "2026-10-12T16:56:59.473Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -67,9 +67,9 @@
   {
    "id": "mgeb",
    "nome": "MGEB · dublado",
-   "ajuste": 0.06,
-   "taxaFalha": 47,
-   "aberturas": 17,
+   "ajuste": 0.09,
+   "taxaFalha": 45,
+   "aberturas": 18,
    "falhas": 15
   },
   {
@@ -83,9 +83,9 @@
   {
    "id": "fenix",
    "nome": "FenixFlix · dublado",
-   "ajuste": 0.73,
-   "taxaFalha": 14,
-   "aberturas": 19,
+   "ajuste": 0.74,
+   "taxaFalha": 13,
+   "aberturas": 20,
    "falhas": 3
   },
   {
