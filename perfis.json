@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-12T14:41:20.301Z",
+ "atualizadoEm": "2026-10-12T14:52:08.155Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -15,7 +15,7 @@
    "origem": "addon do Stremio",
    "stremio": true,
    "ativo": true,
-   "medidoEm": "2026-10-11T21:00:16.177Z",
+   "medidoEm": "2026-10-12T14:52:07.357Z",
    "passos": [
     {
      "tipo": "json",
@@ -23,39 +23,26 @@
     }
    ],
    "urlMovie": "https://fenixflix.fenixhub.online/stream/movie/{imdb}.json",
-   "evidencia": "título tt0352248 (o addon tem): faixa de áudio em português (padrão do arquivo) · 1080p | título tt31192372 (o addon tem): áudio original · 360p | título tt0111161 (o addon tem): faixa de áudio em português (padrão do arquivo) · 720p",
    "provas": [
     {
-     "amostra": "título tt0352248 (o addon tem)",
-     "ok": true,
-     "url": "https://fenixflix.fenixhub.online/r/9wWYz2B-HbDNZGh1xnFtMefzRMUpxx0ilWboNrXUhUkxAhxdAyuU27Vtr6ZwlzX8P6iCvEy5ijawsdvQQ4yvCPi9hjo8YVMqSmNFVS7Z9DQ/video.mp4",
-     "altura": 1080,
-     "dublado": true,
-     "evidencia": "faixa de áudio em português (padrão do arquivo)",
-     "motivo": ""
+     "amostra": "A Origem",
+     "ok": false,
+     "motivo": "não achei o vídeo"
     },
     {
-     "amostra": "título tt31192372 (o addon tem)",
-     "ok": true,
-     "url": "https://embedplayer2.xyz/cdn/hls/fad86c1cbe3ea3f29dd33305d864103a/master.m3u8?md5=6eLVF2PXlQPPFQXcYVLD6Q&expires=1791755010",
-     "altura": 360,
-     "dublado": null,
-     "evidencia": "",
-     "motivo": ""
+     "amostra": "A Luta pela Esperança",
+     "ok": false,
+     "motivo": "não achei o vídeo"
     },
     {
-     "amostra": "título tt0111161 (o addon tem)",
-     "ok": true,
-     "url": "https://fenixflix.fenixhub.online/r/qXa9p5O5LWjKxj7fcGIzWJZoXKWatBQ1zH1XC24920FjQo_f6ROgBl1XFpLT_72lYlopXXc_Fr6pSaOTDwGAPU_ih2nl9_Ilu07FWW1ZvCs/video.mp4",
-     "altura": 720,
-     "dublado": true,
-     "evidencia": "faixa de áudio em português (padrão do arquivo)",
-     "motivo": ""
+     "amostra": "Coração Partido",
+     "ok": false,
+     "motivo": "não achei o vídeo"
     }
    ],
-   "descobertoEm": "2026-10-11T21:00:25.783Z",
+   "descobertoEm": "2026-10-12T14:52:07.956Z",
    "canal": "filme",
-   "falhasDeValidacao": 0,
+   "falhasDeValidacao": 1,
    "urlTv": "https://fenixflix.fenixhub.online/stream/series/{imdb}:{temporada}:{episodio}.json"
   }
  ],
