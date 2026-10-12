@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-12T21:42:50.467Z",
+ "atualizadoEm": "2026-10-12T23:43:32.027Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -61,36 +61,36 @@
  ],
  "placar": [
   {
+   "id": "fenix",
+   "nome": "FenixFlix · dublado",
+   "ajuste": 0.73,
+   "taxaFalha": 14,
+   "aberturas": 51,
+   "falhas": 8
+  },
+  {
    "id": "watchplay",
    "nome": "WatchPlay",
-   "ajuste": 0.42,
-   "taxaFalha": 29,
-   "aberturas": 34,
+   "ajuste": 0.44,
+   "taxaFalha": 28,
+   "aberturas": 36,
    "falhas": 14
   },
   {
    "id": "mgeb",
    "nome": "MGEB · dublado",
-   "ajuste": 0.14,
-   "taxaFalha": 43,
-   "aberturas": 20,
+   "ajuste": 0.19,
+   "taxaFalha": 41,
+   "aberturas": 22,
    "falhas": 15
   },
   {
    "id": "pipoca",
    "nome": "PipocaCine",
-   "ajuste": -0.67,
-   "taxaFalha": 78,
+   "ajuste": -1.22,
+   "taxaFalha": 81,
    "aberturas": 5,
-   "falhas": 18
-  },
-  {
-   "id": "fenix",
-   "nome": "FenixFlix · dublado",
-   "ajuste": 0.74,
-   "taxaFalha": 13,
-   "aberturas": 20,
-   "falhas": 3
+   "falhas": 21
   },
   {
    "id": "full-hd",
@@ -103,14 +103,22 @@
   {
    "id": "vixsrc",
    "nome": "Vixsrc",
-   "ajuste": -0.2,
-   "taxaFalha": 50,
+   "ajuste": -0.9,
+   "taxaFalha": 60,
    "aberturas": 2,
-   "falhas": 2
+   "falhas": 3
   },
   {
    "id": "hd-com-legenda-em-português",
    "nome": "HD com legenda em português",
+   "ajuste": 0,
+   "taxaFalha": 0,
+   "aberturas": 1,
+   "falhas": 0
+  },
+  {
+   "id": "fenixflix-fenixhub",
+   "nome": "FenixFlix (FenixHub)",
    "ajuste": 0,
    "taxaFalha": 0,
    "aberturas": 1,
