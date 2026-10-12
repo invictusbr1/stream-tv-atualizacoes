@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-12T20:41:50.404Z",
+ "atualizadoEm": "2026-10-12T21:42:50.467Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -44,6 +44,10 @@
    "canal": "filme",
    "falhasDeValidacao": 1,
    "urlTv": "https://fenixflix.fenixhub.online/stream/series/{imdb}:{temporada}:{episodio}.json"
+  },
+  {
+   "id": "fenixflix-fenixhub-fenixflix-1080p",
+   "ativo": false
   }
  ],
  "listasTv": [
@@ -67,9 +71,9 @@
   {
    "id": "mgeb",
    "nome": "MGEB · dublado",
-   "ajuste": 0.09,
-   "taxaFalha": 45,
-   "aberturas": 18,
+   "ajuste": 0.14,
+   "taxaFalha": 43,
+   "aberturas": 20,
    "falhas": 15
   },
   {
