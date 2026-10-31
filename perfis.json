@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-15T22:38:41.860Z",
+ "atualizadoEm": "2026-10-31T15:52:25.859Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -48,6 +48,117 @@
   {
    "id": "fenixflix-fenixhub-fenixflix-1080p",
    "ativo": false
+  },
+  {
+   "id": "froststream",
+   "nome": "FrostStream",
+   "nota": 6.6,
+   "dublado": true,
+   "qualidade": "720p",
+   "tipos": [
+    "movie",
+    "tv"
+   ],
+   "urlMovie": "https://froststream.cloutteam.com/stream/movie/{imdb}.json",
+   "urlTv": "https://froststream.cloutteam.com/stream/series/{imdb}:{temporada}:{episodio}.json",
+   "referer": "https://froststream.cloutteam.com/",
+   "origem": "caçada por título (catálogo de addons)",
+   "stremio": true,
+   "ativo": true,
+   "medidoEm": "2026-10-31T15:48:24.895Z",
+   "passos": [
+    {
+     "tipo": "json",
+     "caminho": "streams[0].url"
+    }
+   ],
+   "evidencia": "Quem Ama Cuida · T1 E137: faixa de áudio em português (padrão do arquivo) · 720p | Três Graças 1x176: faixa de áudio em português (padrão do arquivo) · 1080p",
+   "provas": [
+    {
+     "amostra": "Quem Ama Cuida · T1 E137",
+     "ok": true,
+     "url": "https://froststream.cloutteam.com/series/v1.CiRDzfcVWGg5Ul5dBA2psJw-0GgKOpP1lQAd63GurA4aCODaud-nbIHjKy-DF4VsTHJwInZcJ1EXoEkt2z6X0Uyqp0LHfHEykCFzVd4s7tTpfyaXEX5OAfD7q_ZKwIXisaj6QmOdxmZ6NRVyGQMmGgegpX0ZUgMhRPebdxsPWSa1IV2a_L9rkh7k",
+     "altura": 720,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "faixa de áudio em português (padrão do arquivo)",
+     "motivo": ""
+    },
+    {
+     "amostra": "Três Graças 1x176",
+     "ok": true,
+     "url": "https://froststream.cloutteam.com/series/v1.XWwTkGpL5K6T-WXmpCDC6zKyHo-Yg_e6DQf6h_Rm3GFt5jZs6Y6tgZLpHK92g_HyODJcdplNXIC4jqdXVVgoxnEGNr1tr6I-jW0P6Dnscz8efkG9igtucjSiEJ78CQfHgOkGNTGj07SuB6M6zJBUGNSGHa81k4jGz_h76vbH9wrg8xNzRiCNndgSB3MnKaS7jVzTpgblXpJI",
+     "altura": 1080,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "faixa de áudio em português (padrão do arquivo)",
+     "motivo": ""
+    },
+    {
+     "amostra": "A Nobreza do Amor 1x184",
+     "ok": false,
+     "motivo": "não achei o vídeo"
+    }
+   ],
+   "cacadaPor": "Quem Ama Cuida · T1 E137"
+  },
+  {
+   "id": "bestcine",
+   "nome": "BestCine",
+   "nota": 8,
+   "dublado": true,
+   "qualidade": "1080p",
+   "tipos": [
+    "movie",
+    "tv"
+   ],
+   "urlMovie": "https://bestcine.dpdns.org/stream/movie/{imdb}.json",
+   "urlTv": "https://bestcine.dpdns.org/stream/series/{imdb}:{temporada}:{episodio}.json",
+   "referer": "https://bestcine.dpdns.org/",
+   "origem": "caçada por título (catálogo de addons)",
+   "stremio": true,
+   "ativo": true,
+   "medidoEm": "2026-10-31T15:50:56.487Z",
+   "passos": [
+    {
+     "tipo": "json",
+     "caminho": "streams[0].url"
+    }
+   ],
+   "evidencia": "Quem Ama Cuida 1x138: faixa de áudio em português (padrão do arquivo) · 1080p | Três Graças 1x176: faixa de áudio em português (padrão do arquivo) · 1080p | A Nobreza do Amor 1x184: faixa de áudio em português (padrão do arquivo) · 1080p",
+   "provas": [
+    {
+     "amostra": "Quem Ama Cuida 1x138",
+     "ok": true,
+     "url": "https://bestcine.dpdns.org/r/fa39fe798026cb6f9f00d4c00db70da178f2c0e4e324e812a28dce628cad8d74822a6777ffe69fd2c03a128d91463388585f3af8711aeba394d19c06769a12d6411e6573dc4fd3f4af2611e09408dfa89d3e36f9556723789fedb8cc9bc4d19092dd50b7a96611f2b6996c5331b4450cd73c5455331ae0bd29cf75e88b9a5d90/video.mp4",
+     "altura": 1080,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "faixa de áudio em português (padrão do arquivo)",
+     "motivo": ""
+    },
+    {
+     "amostra": "Três Graças 1x176",
+     "ok": true,
+     "url": "https://bestcine.dpdns.org/r/f0a5f6ec8eb317b5c920693d00f996e4d7f3be79be3b264475ec8fe391cb9e79ae654567c4f6d251af8584008d9084244bb5de42e04d81e5ef159e982a19f3961e944ae6ece0f2cf23c2dcb9126780845695d424e55717bf8cb77a5cf2c68be70f9434a69b65850cbb9531895bb0f7d5c6233865edd73b14cbed8e4b3fb2b7d5/video.mp4",
+     "altura": 1080,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "faixa de áudio em português (padrão do arquivo)",
+     "motivo": ""
+    },
+    {
+     "amostra": "A Nobreza do Amor 1x184",
+     "ok": true,
+     "url": "https://bestcine.dpdns.org/r/fa39fe798026cb6f9f00d4c00db70da178f2c0e4e324e812a28dce628cad8d74822a6777ffe69fd2c03a128d91463388585f3af8711aeba394d19c06769a12d6a1c13df0df7bd1d5931b89e66d0ed5e2a3939e7bd63f8ca8e00210a3f9dd50234251231ca605fd93acfec76082b317574c2052b023a7ca3cdc193e567a7f8f57/video.mp4",
+     "altura": 1080,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "faixa de áudio em português (padrão do arquivo)",
+     "motivo": ""
+    }
+   ],
+   "cacadaPor": "Quem Ama Cuida 1x138"
   }
  ],
  "listasTv": [
