@@ -1,16 +1,16 @@
 {
-    "versionCode":  462,
-    "versionName":  "2.13.133",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.133/Conecta-TV-Android-2.13.133.apk",
-    "sha256":  "b651eaa7bd2e4fc0e58d85c3bf24fb08a3f85bffdaacabfd42f8a53cfea0c8c3",
-    "bytes":  554339,
-    "notes":  "Se a primeira tentativa nao abrir, o app tenta de novo sozinho antes de mostrar erro. Enquanto procura a fonte, mostra a arte e a sinopse do titulo.",
+    "versionCode":  463,
+    "versionName":  "2.13.134",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.134/Conecta-TV-Android-2.13.134.apk",
+    "sha256":  "8c1fa2f65cac031dafaa152fd2a30ad111b26dbff6a427501da6a92a02a6360a",
+    "bytes":  555294,
+    "notes":  "Se o 4K cair duas vezes, o app passa sozinho para a melhor versao ate Full HD, que nao trava. Sala de espera com a imagem do titulo mais visivel.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.133/Conecta-TV-TV-2.13.133.apk",
-    "apkTvSha256":  "6571e02f6d6a585b7f05601797af402a0def539e84a2377c01c012c401ff7ccc",
-    "apkTvBytes":  554038,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.134/Conecta-TV-TV-2.13.134.apk",
+    "apkTvSha256":  "369dc41062127b789737ea1bf2acd655d694dde09ac4167c4110dafacec0b8dd",
+    "apkTvBytes":  554949,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
