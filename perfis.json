@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-02T17:31:31.586Z",
+ "atualizadoEm": "2026-11-02T20:28:28.751Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -162,62 +162,7 @@
   },
   {
    "id": "bscine",
-   "nome": "BsCine",
-   "nota": 7.4,
-   "dublado": true,
-   "qualidade": "720p",
-   "tipos": [
-    "movie",
-    "tv"
-   ],
-   "urlMovie": "https://bscine.alwaysdata.net/stream/movie/{imdb}.json",
-   "urlTv": "https://bscine.alwaysdata.net/stream/series/{imdb}:{temporada}:{episodio}.json",
-   "referer": "https://bscine.alwaysdata.net/",
-   "origem": "caçada por título (catálogo de addons)",
-   "stremio": true,
-   "ativo": true,
-   "medidoEm": "2026-11-02T17:31:25.277Z",
-   "passos": [
-    {
-     "tipo": "json",
-     "caminho": "streams[0].url"
-    }
-   ],
-   "evidencia": "A Origem: faixa de áudio em português (padrão do arquivo) · 800p | Batman: O Cavaleiro das Trevas: faixa de áudio em português (padrão do arquivo) · 800p | Um Sonho de Liberdade: faixa de áudio em português (padrão do arquivo) · 720p",
-   "provas": [
-    {
-     "amostra": "A Origem",
-     "ok": true,
-     "url": "https://rfc-infinite.top/movie/91098174/vGBc4fp/311110.mp4",
-     "altura": 800,
-     "dublado": true,
-     "atendePadrao": true,
-     "evidencia": "faixa de áudio em português (padrão do arquivo)",
-     "motivo": ""
-    },
-    {
-     "amostra": "Batman: O Cavaleiro das Trevas",
-     "ok": true,
-     "url": "https://rfc-infinite.top/movie/91098174/vGBc4fp/317885.mp4",
-     "altura": 800,
-     "dublado": true,
-     "atendePadrao": true,
-     "evidencia": "faixa de áudio em português (padrão do arquivo)",
-     "motivo": ""
-    },
-    {
-     "amostra": "Um Sonho de Liberdade",
-     "ok": true,
-     "url": "https://rfc-infinite.top/movie/91098174/vGBc4fp/406829.mp4",
-     "altura": 720,
-     "dublado": true,
-     "atendePadrao": true,
-     "evidencia": "faixa de áudio em português (padrão do arquivo)",
-     "motivo": ""
-    }
-   ],
-   "adicionadaPor": "link manual",
-   "adicionadaEm": "2026-11-02T17:31:30.978Z"
+   "ativo": false
   }
  ],
  "listasTv": [
