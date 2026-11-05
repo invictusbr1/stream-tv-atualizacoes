@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-05T19:57:01.760Z",
+ "atualizadoEm": "2026-11-05T20:52:45.736Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -51,114 +51,11 @@
   },
   {
    "id": "froststream",
-   "nome": "FrostStream",
-   "nota": 6.6,
-   "dublado": true,
-   "qualidade": "720p",
-   "tipos": [
-    "movie",
-    "tv"
-   ],
-   "urlMovie": "https://froststream.cloutteam.com/stream/movie/{imdb}.json",
-   "urlTv": "https://froststream.cloutteam.com/stream/series/{imdb}:{temporada}:{episodio}.json",
-   "referer": "https://froststream.cloutteam.com/",
-   "origem": "caçada por título (catálogo de addons)",
-   "stremio": true,
-   "ativo": true,
-   "medidoEm": "2026-10-31T15:48:24.895Z",
-   "passos": [
-    {
-     "tipo": "json",
-     "caminho": "streams[0].url"
-    }
-   ],
-   "evidencia": "Quem Ama Cuida · T1 E137: faixa de áudio em português (padrão do arquivo) · 720p | Três Graças 1x176: faixa de áudio em português (padrão do arquivo) · 1080p",
-   "provas": [
-    {
-     "amostra": "Quem Ama Cuida · T1 E137",
-     "ok": true,
-     "url": "https://froststream.cloutteam.com/series/v1.CiRDzfcVWGg5Ul5dBA2psJw-0GgKOpP1lQAd63GurA4aCODaud-nbIHjKy-DF4VsTHJwInZcJ1EXoEkt2z6X0Uyqp0LHfHEykCFzVd4s7tTpfyaXEX5OAfD7q_ZKwIXisaj6QmOdxmZ6NRVyGQMmGgegpX0ZUgMhRPebdxsPWSa1IV2a_L9rkh7k",
-     "altura": 720,
-     "dublado": true,
-     "atendePadrao": true,
-     "evidencia": "faixa de áudio em português (padrão do arquivo)",
-     "motivo": ""
-    },
-    {
-     "amostra": "Três Graças 1x176",
-     "ok": true,
-     "url": "https://froststream.cloutteam.com/series/v1.XWwTkGpL5K6T-WXmpCDC6zKyHo-Yg_e6DQf6h_Rm3GFt5jZs6Y6tgZLpHK92g_HyODJcdplNXIC4jqdXVVgoxnEGNr1tr6I-jW0P6Dnscz8efkG9igtucjSiEJ78CQfHgOkGNTGj07SuB6M6zJBUGNSGHa81k4jGz_h76vbH9wrg8xNzRiCNndgSB3MnKaS7jVzTpgblXpJI",
-     "altura": 1080,
-     "dublado": true,
-     "atendePadrao": true,
-     "evidencia": "faixa de áudio em português (padrão do arquivo)",
-     "motivo": ""
-    },
-    {
-     "amostra": "A Nobreza do Amor 1x184",
-     "ok": false,
-     "motivo": "não achei o vídeo"
-    }
-   ],
-   "cacadaPor": "Quem Ama Cuida · T1 E137"
+   "ativo": false
   },
   {
    "id": "bestcine",
-   "nome": "BestCine",
-   "nota": 8,
-   "dublado": true,
-   "qualidade": "1080p",
-   "tipos": [
-    "movie",
-    "tv"
-   ],
-   "urlMovie": "https://bestcine.dpdns.org/stream/movie/{imdb}.json",
-   "urlTv": "https://bestcine.dpdns.org/stream/series/{imdb}:{temporada}:{episodio}.json",
-   "referer": "https://bestcine.dpdns.org/",
-   "origem": "caçada por título (catálogo stremio-addons.net)",
-   "stremio": true,
-   "ativo": true,
-   "passos": [
-    {
-     "tipo": "json",
-     "caminho": "streams[0].url"
-    }
-   ],
-   "evidencia": "Super Mario Galaxy: O Filme: faixa de áudio em português (padrão do arquivo) · 1606p | O Afinador: faixa de áudio em português (padrão do arquivo) · 2074p | A Origem: faixa de áudio em português (padrão do arquivo) · 2080p",
-   "provas": [
-    {
-     "amostra": "Super Mario Galaxy: O Filme",
-     "ok": true,
-     "url": "https://bestcine.dpdns.org/r/f0a5f6ec8eb317b5c920693d00f996e470f102a160c4f55db099dcb17426b795893c5e34472c6afbf367d37a8fcef84bd3de0f4214868d5b79abc33d99c260a00aa5bb200f6ba750f09842ce2c19b6746c914a235d2d15d5059169091ab99055e6fab6a071cb8f7d28f4e11453e12db21199d9b5f137660f4805c5d4003b2a08/video.mp4",
-     "altura": 1606,
-     "dublado": true,
-     "atendePadrao": true,
-     "evidencia": "faixa de áudio em português (padrão do arquivo)",
-     "motivo": ""
-    },
-    {
-     "amostra": "O Afinador",
-     "ok": true,
-     "url": "https://bestcine.dpdns.org/r/f0a5f6ec8eb317b5c920693d00f996e470f102a160c4f55db099dcb17426b795893c5e34472c6afbf367d37a8fcef84bc57a75138fda3e770c79f752e1dac0cd948d9ebb31244c2610f74c7aecfa9f3e1a3ae8711c8b9051ffc4cf0c5d7043aa05edf59e5013f266db1d343c6211563122af5c3f22f91d70bd0c84afdafff2db/video.mp4",
-     "altura": 2074,
-     "dublado": true,
-     "atendePadrao": true,
-     "evidencia": "faixa de áudio em português (padrão do arquivo)",
-     "motivo": ""
-    },
-    {
-     "amostra": "A Origem",
-     "ok": true,
-     "url": "https://bestcine.dpdns.org/r/fa39fe798026cb6f9f00d4c00db70da178f2c0e4e324e812a28dce628cad8d74f181d1a9a024f3f8e46d73b9cd67e8e8fc936c4fddbf15478d0e5a93156c399115300a4801e2c253910b28493d32249b46c14ed46254b804b5f04e94ddaa4e3760c10c4ff93117a6e9d8b180979019e52297db00bbf7c835596d773d8468e78f/video.mp4",
-     "altura": 2080,
-     "dublado": true,
-     "atendePadrao": true,
-     "evidencia": "faixa de áudio em português (padrão do arquivo)",
-     "motivo": ""
-    }
-   ],
-   "incluidaEm": "2026-10-31T15:58:48.937Z",
-   "falhasDeValidacao": 0
+   "ativo": false
   },
   {
    "id": "bscine",
