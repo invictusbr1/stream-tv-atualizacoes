@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-02T20:28:28.751Z",
+ "atualizadoEm": "2026-11-05T19:57:01.760Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -163,6 +163,64 @@
   {
    "id": "bscine",
    "ativo": false
+  },
+  {
+   "id": "brazuca-play-nao-oficial",
+   "nome": "Brazuca Play (Não Oficial)",
+   "nota": 7.4,
+   "dublado": true,
+   "qualidade": "720p",
+   "tipos": [
+    "tv"
+   ],
+   "urlTv": "https://brazuca-play-stremio.onrender.com/stream/series/{imdb}:{temporada}:{episodio}.json",
+   "referer": "https://brazuca-play-stremio.onrender.com/",
+   "origem": "caçada por título (catálogo de addons)",
+   "stremio": true,
+   "ativo": true,
+   "medidoEm": "2026-11-05T19:52:36.216Z",
+   "passos": [
+    {
+     "tipo": "json",
+     "caminho": "streams[0].url"
+    }
+   ],
+   "soAnime": true,
+   "evidencia": "Naruto 1x1: a lista de reprodução declara faixa de áudio em português · 960p | One Piece 1x1: a lista de reprodução declara faixa de áudio em português · 720p | Demon Slayer 1x1: a lista de reprodução declara faixa de áudio em português · 7",
+   "provas": [
+    {
+     "amostra": "Naruto 1x1",
+     "ok": true,
+     "url": "https://brazuca-play-stremio.onrender.com/proxy/hls/ocWqJ5P2WL2hClZ2.m3u8?url=https%3A%2F%2Fandroid.watchug.watch%2Fproxy%2Fm3u8%2FocWqJ5P2WL2hClZ2.m3u8&wvmob=1&lang=pt",
+     "altura": 960,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "a lista de reprodução declara faixa de áudio em português",
+     "motivo": ""
+    },
+    {
+     "amostra": "One Piece 1x1",
+     "ok": true,
+     "url": "https://brazuca-play-stremio.onrender.com/proxy/hls/qy4hUGHAM0tQuvfG.m3u8?url=https%3A%2F%2Fandroid.watchug.watch%2Fproxy%2Fm3u8%2Fqy4hUGHAM0tQuvfG.m3u8&wvmob=1&lang=pt",
+     "altura": 720,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "a lista de reprodução declara faixa de áudio em português",
+     "motivo": ""
+    },
+    {
+     "amostra": "Demon Slayer 1x1",
+     "ok": true,
+     "url": "https://brazuca-play-stremio.onrender.com/proxy/hls/tBjUrMmEcSopMBTx.m3u8?url=https%3A%2F%2Fandroid.watchug.watch%2Fproxy%2Fm3u8%2FtBjUrMmEcSopMBTx.m3u8&wvmob=1&lang=pt",
+     "altura": 720,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "a lista de reprodução declara faixa de áudio em português",
+     "motivo": ""
+    }
+   ],
+   "adicionadaPor": "link manual",
+   "adicionadaEm": "2026-11-05T19:52:46.940Z"
   }
  ],
  "listasTv": [
