@@ -2,15 +2,15 @@
     "versionCode":  466,
     "versionName":  "2.13.137",
     "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.137/Conecta-TV-Android-2.13.137.apk",
-    "sha256":  "ec5f6668c46545f2ca6fed56acffa2e992c75ee981976d7b20d2a8aff1da11e2",
-    "bytes":  564588,
+    "sha256":  "f1fdf2c1132f5a23cce2a1a7629a4bd382afc98cea33ada03c9d1893c04e50bf",
+    "bytes":  627059,
     "notes":  "Filmes da MGEB com audio marcado como indeterminado voltam a abrir (antes eram recusados como se fossem em ingles). Fontes mortas (FrostStream, VeTela, BestCine) fora da fila.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
     "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.137/Conecta-TV-TV-2.13.137.apk",
-    "apkTvSha256":  "507a4a0cd63a823817a480208f148a76d09d1bdff7bae34de27f21846e24f101",
-    "apkTvBytes":  564242,
+    "apkTvSha256":  "55b491f53fb2ab32605bacfb153e2aaeff90a1f84b19407728f3bb0744ac5330",
+    "apkTvBytes":  626713,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
