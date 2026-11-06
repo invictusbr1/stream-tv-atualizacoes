@@ -1,16 +1,16 @@
 {
-    "versionCode":  467,
-    "versionName":  "2.13.138",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.138/Conecta-TV-Android-2.13.138.apk",
-    "sha256":  "694e0b47f3819e999a20ea2df6b6337c40fafa964f357604ea36975695e8cafe",
-    "bytes":  565167,
-    "notes":  "Filmes dublados da TorBox (arquivos MKV com som Dolby) agora tocam no celular: o servidor converte so o audio e a imagem continua original. Inclui a correcao do audio indeterminado da MGEB.",
+    "versionCode":  468,
+    "versionName":  "2.13.139",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.139/Conecta-TV-Android-2.13.139.apk",
+    "sha256":  "3d2a673ec6ff54b0e34055cb24dbf71c3fc2fcb1a091174ca8deb6cbb6c8375b",
+    "bytes":  565757,
+    "notes":  "Celular agora prefere o Full HD dublado da TorBox quando o aparelho so acha 720p, envia a lista de fontes que falharam ao servidor e evita encaminhar BsCine pela Oracle.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.138/Conecta-TV-TV-2.13.138.apk",
-    "apkTvSha256":  "c8ed516d8a8594a56207b5e8e7f5f1a091aa6e1f487b133775384c0284f39be3",
-    "apkTvBytes":  564916,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.139/Conecta-TV-TV-2.13.139.apk",
+    "apkTvSha256":  "dd8bfbf3ce5f70f4b998355cb0dcbdcaac98a227b1f5d5d70e6fdccd5e6c2bb0",
+    "apkTvBytes":  565436,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
