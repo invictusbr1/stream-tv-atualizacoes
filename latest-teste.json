@@ -1,16 +1,16 @@
 {
-    "versionCode":  472,
-    "versionName":  "2.13.143",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.143/Conecta-TV-Android-2.13.143.apk",
-    "sha256":  "82e874e04dc2776716038e4c4d57db3d1a74566d4430a79b21e0f9533683d370",
-    "bytes":  566637,
-    "notes":  "TorBox: volta do minuto onde voce parou (espera a conversao chegar nele) e o relogio mostra a duracao total do filme desde o inicio.",
+    "versionCode":  473,
+    "versionName":  "2.13.144",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.144/Conecta-TV-Android-2.13.144.apk",
+    "sha256":  "e3cee4546e283a953845aeec1242b96a6215751de9072c8df0d133bc4fd5e289",
+    "bytes":  567865,
+    "notes":  "TorBox: continuar de onde parou e pular para frente em segundos (a conversao comeca no ponto escolhido, sem converter o filme todo antes).",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.143/Conecta-TV-TV-2.13.143.apk",
-    "apkTvSha256":  "510ef61ce5232a0ffa9c795e22324bf6362f4e246e8107aa2117d8b96c448f06",
-    "apkTvBytes":  566324,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.144/Conecta-TV-TV-2.13.144.apk",
+    "apkTvSha256":  "f7f8567e800b7644b63874541a8c74716e73ab8a76f78b6032d68108e495decd",
+    "apkTvBytes":  567575,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
