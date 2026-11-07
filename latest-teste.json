@@ -1,16 +1,16 @@
 {
-    "versionCode":  477,
-    "versionName":  "2.13.148",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.148/Conecta-TV-Android-2.13.148.apk",
-    "sha256":  "0ebefa932a836352a7a7eaa65a570c0e67713010df660f96dedbd1e581cef665",
-    "bytes":  569055,
-    "notes":  "Abertura mais rapida pela TorBox (motor 1 para no primeiro arquivo bom e o filme comeca assim que o trecho fica pronto).",
+    "versionCode":  478,
+    "versionName":  "2.13.149",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.149/Conecta-TV-Android-2.13.149.apk",
+    "sha256":  "379cb9b8e187a32c58730162eba62377806bbd81fc8834a79bef94358fe0e81d",
+    "bytes":  570252,
+    "notes":  "Anime legendado pela TorBox (so anime) em Full HD com legenda em portugues; proximo episodio de series ja fica pronto; TorBox nao fica mais preso em Voltando de onde voce parou.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.148/Conecta-TV-TV-2.13.148.apk",
-    "apkTvSha256":  "3daaf85012d3ee88071f2b1c4bd42b878d91fc385663f92220a6313957cad208",
-    "apkTvBytes":  568779,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.149/Conecta-TV-TV-2.13.149.apk",
+    "apkTvSha256":  "3d084c75a75e2b4aa4d68adc804f3b3831b02ebcc0a374fd85029dc1a8183ac6",
+    "apkTvBytes":  569956,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
