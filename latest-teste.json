@@ -1,16 +1,16 @@
 {
-    "versionCode":  476,
-    "versionName":  "2.13.147",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.147/Conecta-TV-Android-2.13.147.apk",
-    "sha256":  "4710e89b33ca431d75ee981d1e80bc8936f806600373cb4c5eb44667538acfe9",
-    "bytes":  569009,
-    "notes":  "TorBox 4K para aparelhos que tocam H.265 (fora dos dados moveis); se o 4K nao mostrar imagem, troca sozinho para o Full HD.",
+    "versionCode":  477,
+    "versionName":  "2.13.148",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.148/Conecta-TV-Android-2.13.148.apk",
+    "sha256":  "0ebefa932a836352a7a7eaa65a570c0e67713010df660f96dedbd1e581cef665",
+    "bytes":  569055,
+    "notes":  "Abertura mais rapida pela TorBox (motor 1 para no primeiro arquivo bom e o filme comeca assim que o trecho fica pronto).",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.147/Conecta-TV-TV-2.13.147.apk",
-    "apkTvSha256":  "b4de5e7726b20991068688dde9950817d9caf8922bf058a38daa5d01460c6822",
-    "apkTvBytes":  568747,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.148/Conecta-TV-TV-2.13.148.apk",
+    "apkTvSha256":  "3daaf85012d3ee88071f2b1c4bd42b878d91fc385663f92220a6313957cad208",
+    "apkTvBytes":  568779,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
