@@ -2,15 +2,15 @@
     "versionCode":  483,
     "versionName":  "2.13.154",
     "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.154/Conecta-TV-Android-2.13.154.apk",
-    "sha256":  "d037f2cd2ba35b5fe5f5c8b1618b6f6c94083e3bc10b8b0625f1533df861cb57",
-    "bytes":  594005,
+    "sha256":  "50cd59b5a6bce05a7fb375985df5bfda42bbc2d25b4cd4a9370299937c177311",
+    "bytes":  671043,
     "notes":  "Novo: mandar o video para a TV pelo Wi-Fi sem app na TV (DLNA: Samsung, LG e outras), com controle de pausar e parar.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
     "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.154/Conecta-TV-TV-2.13.154.apk",
-    "apkTvSha256":  "ee32d749a98b9cd11066035bb575a4a5bde866aaf1f8c79da5796ac24d6349bb",
-    "apkTvBytes":  593694,
+    "apkTvSha256":  "f686679a82e17c0413457381461ba2a6eb8bfb0a67b80351327fe7b02e755d83",
+    "apkTvBytes":  670732,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
