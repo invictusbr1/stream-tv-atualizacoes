@@ -1,16 +1,16 @@
 {
-    "versionCode":  478,
-    "versionName":  "2.13.149",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.149/Conecta-TV-Android-2.13.149.apk",
-    "sha256":  "430b5d0a21de9067378806730076ff0f1141b50d969e67fa8981111b6b340374",
-    "bytes":  698022,
+    "versionCode":  479,
+    "versionName":  "2.13.150",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.150/Conecta-TV-Android-2.13.150.apk",
+    "sha256":  "81fee3add29b956deffa95c983be4750cbc6e6c8d8b84ad0b12456a748c03b33",
+    "bytes":  579683,
     "notes":  "Nova pagina de Animes (em alta, temporada, dublados, calendario, Me surpreenda); pagina do filme/serie sem sinopse repetida, com elenco, trailer, critica e comentarios da familia; anime legendado pela TorBox (so anime); proximo episodio de series ja fica pronto; TorBox nao fica mais preso em Voltando de onde voce parou.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.149/Conecta-TV-TV-2.13.149.apk",
-    "apkTvSha256":  "a1a2dfb5522f514c42ba2e417e3b5e27fc44d900f31c701f712e98037b672717",
-    "apkTvBytes":  697491,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.150/Conecta-TV-TV-2.13.150.apk",
+    "apkTvSha256":  "49baba6e97cff708ba87115b063bb83a8b262ef7f6c559b6d2f478d6fe7609f3",
+    "apkTvBytes":  579467,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
