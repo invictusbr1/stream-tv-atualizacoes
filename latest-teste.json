@@ -1,16 +1,16 @@
 {
-    "versionCode":  480,
-    "versionName":  "2.13.151",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.151/Conecta-TV-Android-2.13.151.apk",
-    "sha256":  "72b53dea1943e33d4d710df5ab2a54f9f79a475505accb0dbb0ee14a45cc24eb",
-    "bytes":  580218,
-    "notes":  "Anime legendado mais leve e rapido (arquivo de ate 2,5 GB por episodio); nova pagina de Animes (em alta, temporada, dublados, calendario, Me surpreenda); pagina do filme/serie sem sinopse repetida, com elenco, trailer, critica e comentarios da familia; anime legendado pela TorBox (so anime); proximo episodio de series ja fica pronto; TorBox nao fica mais preso em Voltando de onde voce parou.",
+    "versionCode":  481,
+    "versionName":  "2.13.152",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.152/Conecta-TV-Android-2.13.152.apk",
+    "sha256":  "06d93c42bf20d279061eb94991e1371bf9e8abc61ed7b1de7b98c8951951dd92",
+    "bytes":  581525,
+    "notes":  "Video no navegador sem picotadas (ajuste de bordas mais leve); anime legendado: nao troca mais sozinho para o dublado; legenda em portugues de fora quando o arquivo nao tem; arquivo mais leve; nova pagina de Animes (em alta, temporada, dublados, calendario, Me surpreenda); pagina do filme/serie sem sinopse repetida, com elenco, trailer, critica e comentarios da familia; anime legendado pela TorBox (so anime); proximo episodio de series ja fica pronto; TorBox nao fica mais preso em Voltando de onde voce parou.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.151/Conecta-TV-TV-2.13.151.apk",
-    "apkTvSha256":  "c9bdc7d95b1c8b4ec0e918f30d66dd45ce1493fdb7848a9f265625853d95704e",
-    "apkTvBytes":  579998,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.152/Conecta-TV-TV-2.13.152.apk",
+    "apkTvSha256":  "18c829a1b0f781dcce698c9077d5a88738726aa518276b85b137026c34361d67",
+    "apkTvBytes":  581308,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
