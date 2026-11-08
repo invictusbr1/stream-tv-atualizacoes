@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-05T20:52:45.736Z",
+ "atualizadoEm": "2026-11-08T00:09:40.862Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -68,37 +68,28 @@
    "dublado": true,
    "qualidade": "720p",
    "tipos": [
-    "tv"
+    "tv",
+    "movie"
    ],
-   "urlTv": "https://brazuca-play-stremio.onrender.com/stream/series/{imdb}:{temporada}:{episodio}.json",
-   "referer": "https://brazuca-play-stremio.onrender.com/",
+   "urlMovie": "https://brazuca-play.onrender.com/stream/movie/{imdb}.json",
+   "urlTv": "https://brazuca-play.onrender.com/stream/series/{imdb}:{temporada}:{episodio}.json",
+   "referer": "https://brazuca-play.onrender.com/",
    "origem": "caçada por título (catálogo de addons)",
    "stremio": true,
    "ativo": true,
-   "medidoEm": "2026-11-05T19:52:36.216Z",
+   "medidoEm": "2026-11-07T23:52:28.477Z",
    "passos": [
     {
      "tipo": "json",
      "caminho": "streams[0].url"
     }
    ],
-   "soAnime": true,
-   "evidencia": "Naruto 1x1: a lista de reprodução declara faixa de áudio em português · 960p | One Piece 1x1: a lista de reprodução declara faixa de áudio em português · 720p | Demon Slayer 1x1: a lista de reprodução declara faixa de áudio em português · 7",
+   "evidencia": "Reacher · T4 E2: a lista de reprodução declara faixa de áudio em português · 720p | Breaking Bad 1x2: a lista de reprodução declara faixa de áudio em português · 720p | Stranger Things 1x2: a lista de reprodução declara faixa de áudio em po",
    "provas": [
     {
-     "amostra": "Naruto 1x1",
+     "amostra": "Reacher · T4 E2",
      "ok": true,
-     "url": "https://brazuca-play-stremio.onrender.com/proxy/hls/ocWqJ5P2WL2hClZ2.m3u8?url=https%3A%2F%2Fandroid.watchug.watch%2Fproxy%2Fm3u8%2FocWqJ5P2WL2hClZ2.m3u8&wvmob=1&lang=pt",
-     "altura": 960,
-     "dublado": true,
-     "atendePadrao": true,
-     "evidencia": "a lista de reprodução declara faixa de áudio em português",
-     "motivo": ""
-    },
-    {
-     "amostra": "One Piece 1x1",
-     "ok": true,
-     "url": "https://brazuca-play-stremio.onrender.com/proxy/hls/qy4hUGHAM0tQuvfG.m3u8?url=https%3A%2F%2Fandroid.watchug.watch%2Fproxy%2Fm3u8%2Fqy4hUGHAM0tQuvfG.m3u8&wvmob=1&lang=pt",
+     "url": "https://brazuca-play.onrender.com/proxy/hls/8Hev5k4adMM2Bjo4.m3u8?url=https%3A%2F%2Fandroid.watchug.watch%2Fproxy%2Fm3u8v2%2F8Hev5k4adMM2Bjo4.m3u8&wvmob=1&lang=pt",
      "altura": 720,
      "dublado": true,
      "atendePadrao": true,
@@ -106,9 +97,19 @@
      "motivo": ""
     },
     {
-     "amostra": "Demon Slayer 1x1",
+     "amostra": "Breaking Bad 1x2",
      "ok": true,
-     "url": "https://brazuca-play-stremio.onrender.com/proxy/hls/tBjUrMmEcSopMBTx.m3u8?url=https%3A%2F%2Fandroid.watchug.watch%2Fproxy%2Fm3u8%2FtBjUrMmEcSopMBTx.m3u8&wvmob=1&lang=pt",
+     "url": "https://brazuca-play.onrender.com/proxy/hls/YUW3F9TMr8jvgnnF.m3u8?url=https%3A%2F%2Fandroid.watchug.watch%2Fproxy%2Fm3u8v2%2FYUW3F9TMr8jvgnnF.m3u8&wvmob=1&lang=pt",
+     "altura": 720,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "a lista de reprodução declara faixa de áudio em português",
+     "motivo": ""
+    },
+    {
+     "amostra": "Stranger Things 1x2",
+     "ok": true,
+     "url": "https://brazuca-play.onrender.com/proxy/hls/UUOyhOItVGSFcZB5.m3u8?url=https%3A%2F%2Fandroid.watchug.watch%2Fproxy%2Fm3u8v2%2FUUOyhOItVGSFcZB5.m3u8&wvmob=1&lang=pt",
      "altura": 720,
      "dublado": true,
      "atendePadrao": true,
@@ -116,8 +117,8 @@
      "motivo": ""
     }
    ],
-   "adicionadaPor": "link manual",
-   "adicionadaEm": "2026-11-05T19:52:46.940Z"
+   "cacadaPor": "Reacher · T4 E2",
+   "falhasDeValidacao": 0
   }
  ],
  "listasTv": [
@@ -201,6 +202,16 @@
    "taxaFalha": 0,
    "aberturas": 0,
    "falhas": 0
+  }
+ ],
+ "listasTorbox": [
+  {
+   "base": "https://meteorfortheweebs.midnightignite.me/stremio",
+   "nome": "Meteor",
+   "ativo": true,
+   "motivo": "dublado novo pronto na TorBox: A Origem +1, Moana 2 +2, Breaking Bad T1E1 +1",
+   "novos": 4,
+   "aprovadaEm": "2026-11-08T00:08:04.573Z"
   }
  ]
 }
