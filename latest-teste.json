@@ -1,16 +1,16 @@
 {
-    "versionCode":  485,
-    "versionName":  "2.13.156",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.156/Conecta-TV-Android-2.13.156.apk",
-    "sha256":  "83933869f9ba58f3654e07182244cc3c660e182fab783428d2a41bbe280f6201",
-    "bytes":  597085,
-    "notes":  "Tela de espera sem textos sobrepostos; quando um arquivo dublado trava, o app tenta outro dublado antes de cair no audio original.",
+    "versionCode":  486,
+    "versionName":  "2.13.157",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.157/Conecta-TV-Android-2.13.157.apk",
+    "sha256":  "a47b614ce7e890c869bf18342b2d2b77ed6787d31ca0fba0ae3c460f1d909f59",
+    "bytes":  597173,
+    "notes":  "Qualidade: o celular espera a TorBox (4K/Full HD) em vez de cair em 534p; arquivo que trava e trocado por outro da TorBox.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.156/Conecta-TV-TV-2.13.156.apk",
-    "apkTvSha256":  "c98358a08855fdd19383f34c828dabe65741727b101e41805de3376fffca8c9c",
-    "apkTvBytes":  596766,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.157/Conecta-TV-TV-2.13.157.apk",
+    "apkTvSha256":  "9d6c2dad8a7126529840e9ef698050afc7d0688c3fb3ee62ae4dadecc9516f73",
+    "apkTvBytes":  596858,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
