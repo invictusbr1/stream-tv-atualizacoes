@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-09T03:39:16.798Z",
+ "atualizadoEm": "2026-11-09T03:42:02.209Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -279,7 +279,7 @@
    "nota": 9.5,
    "medidoEm": "2026-11-09T03:03:05.698Z",
    "setor": "fornecedores",
-   "canais": 253,
+   "canais": 363,
    "qualidade": "HD",
    "reproducaoConfirmada": true
   }
