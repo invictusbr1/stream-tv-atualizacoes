@@ -1,22 +1,172 @@
 #EXTM3U
+#EXTINF:-1 group-title="Documentários",Animal Planet 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-animal-planet-4k.m3u8?s=3560
+#EXTINF:-1 group-title="Filmes e Séries",AXN 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-axn-4k.m3u8?s=3561
+#EXTINF:-1 group-title="TV Aberta",Band RS FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-band-rs-fhd.m3u8?s=3777
+#EXTINF:-1 group-title="TV Aberta",Band SP 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-band-sp-4k.m3u8?s=3562
+#EXTINF:-1 group-title="TV Aberta",Band SP FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-band-sp-fhd.m3u8?s=3781
+#EXTINF:-1 group-title="TV Aberta",Band SP UHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-band-sp-uhd.m3u8?s=3563
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/bandsports.png" group-title="Esportes",Band Sports FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-band-sports-fhd.m3u8?s=3656
+#EXTINF:-1 group-title="Esportes",Band Sports UHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-band-sports-uhd.m3u8?s=3564
 #EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" group-title="Notícias",Canal UOL (1080p)
 https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 group-title="Infantil",Cartoon Network 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-cartoon-network-4k.m3u8?s=3565
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" group-title="Notícias",CNN Brasil (1080p)
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Notícias",CNN Brasil 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-cnn-brasil-4k.m3u8?s=3566
+#EXTINF:-1 tvg-logo="https://logos.tonaonda.uk/logos/cnnbrasil.png" group-title="Notícias",CNN BRASIL FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-cnn-brasil-fhd.m3u8?s=3880
+#EXTINF:-1 group-title="Esportes",Combate 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-combate-4k.m3u8?s=3567
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/combate.png" group-title="Esportes",Combate FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-combate-fhd.m3u8?s=3712
+#EXTINF:-1 group-title="Documentários",Discovery Channel 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-discovery-channel-4k.m3u8?s=3568
+#EXTINF:-1 group-title="Documentários",Discovery H&H 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-discovery-h-h-4k.m3u8?s=3569
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/espn2.png" group-title="Esportes",ESPN 2 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-2-fhd.m3u8?s=3659
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/espn4.png" group-title="Esportes",ESPN 4 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-4-fhd.m3u8?s=3665
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/espn5.png" group-title="Esportes",ESPN 5 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-5-fhd.m3u8?s=3668
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/espn6.png" group-title="Esportes",ESPN 6 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-6-fhd.m3u8?s=3671
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/espn.png" group-title="Esportes",ESPN FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-fhd.m3u8?s=3674
+#EXTINF:-1 group-title="TV Aberta",Globo EPTV Campinas FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-eptv-campinas-fhd.m3u8?s=3542
+#EXTINF:-1 group-title="TV Aberta",Globo Inter TV Grande Minas FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-inter-tv-grande-minas-fhd.m3u8?s=3527
+#EXTINF:-1 group-title="TV Aberta",Globo Minas FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-minas-fhd.m3u8?s=3521
+#EXTINF:-1 group-title="TV Aberta",Globo Nacional FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-nacional-fhd.m3u8?s=3518
+#EXTINF:-1 group-title="TV Aberta",Globo Nordeste FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-nordeste-fhd.m3u8?s=3517
+#EXTINF:-1 group-title="TV Aberta",Globo NSC Florianopolis FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-nsc-florianopolis-fhd.m3u8?s=3512
+#EXTINF:-1 group-title="TV Aberta",GLOBO SP FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-sp-fhd.m3u8?s=3469
+#EXTINF:-1 group-title="TV Aberta",Globo TV Bahia FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-tv-bahia-fhd.m3u8?s=3458
+#EXTINF:-1 group-title="TV Aberta",Globo TV Brasilia FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-tv-brasilia-fhd.m3u8?s=3453
 #EXTINF:-1 group-title="TV Aberta",Globo TV Recife FHD
 https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-tv-recife-fhd.m3u8?s=3403
+#EXTINF:-1 group-title="TV Aberta",Globo TV Verdes Mares CE FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-tv-verdes-mares-ce-fhd.m3u8?s=3384
+#EXTINF:-1 group-title="Filmes e Séries",HBO 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-hbo-4k.m3u8?s=3579
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/500px-Jovem_Pan_logo.svg.png" group-title="Notícias",Jovem Pan News 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-jovem-pan-news-4k.m3u8?s=3580
+#EXTINF:-1 group-title="Filmes e Séries",Megapix 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-megapix-4k.m3u8?s=3581
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Música",MTV Biggest Pop BR (1080p)
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+#EXTINF:-1 group-title="Música",Multishow 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-multishow-4k.m3u8?s=3582
+#EXTINF:-1 group-title="Esportes",Premiere 2 UHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-premiere-2-uhd.m3u8?s=3583
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="Esportes",PREMIERE 3 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-3-fhd.m3u8?s=3792
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="Esportes",PREMIERE 4 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-4-fhd.m3u8?s=3795
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="Esportes",PREMIERE 5 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-5-fhd.m3u8?s=3798
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="Esportes",PREMIERE 6 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-6-fhd.m3u8?s=3801
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="Esportes",PREMIERE 7 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-7-fhd.m3u8?s=3804
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="Esportes",PREMIERE 8 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-8-fhd.m3u8?s=3807
+#EXTINF:-1 group-title="Esportes",Premiere Clubes 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-premiere-clubes-4k.m3u8?s=3584
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="Esportes",PREMIERE CLUBES FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-clubes-fhd.m3u8?s=3786
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/record.png" group-title="TV Aberta",RECORD RIO DE JANEIRO FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-record-rio-de-janeiro-fhd.m3u8?s=3717
+#EXTINF:-1 group-title="TV Aberta",RedeTV! 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-redetv-4k.m3u8?s=3586
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="TV Aberta",SBT Nacional (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 group-title="TV Aberta",SBT Nacional FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sbt-nacional-fhd.m3u8?s=3612
+#EXTINF:-1 group-title="TV Aberta",SBT RJ FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sbt-rj-fhd.m3u8?s=3620
+#EXTINF:-1 group-title="TV Aberta",SBT SP FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sbt-sp-fhd.m3u8?s=3626
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/sportv.png" group-title="Esportes",Sportv 1 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-sportv-1-fhd.m3u8?s=3701
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/sportv2.png" group-title="Esportes",Sportv 2 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-sportv-2-fhd.m3u8?s=3704
+#EXTINF:-1 group-title="Esportes",SporTV 2 UHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sportv-2-uhd.m3u8?s=3587
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/sportv3.png" group-title="Esportes",Sportv 3 FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-sportv-3-fhd.m3u8?s=3707
+#EXTINF:-1 group-title="Esportes",SporTV UHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sportv-uhd.m3u8?s=3588
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/tcaction.png" group-title="Filmes e Séries",Telecine Action FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-action-fhd.m3u8?s=3638
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/tccult.png" group-title="Filmes e Séries",Telecine Cult FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-cult-fhd.m3u8?s=3641
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/tcfun.png" group-title="Filmes e Séries",Telecine Fun FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-fun-fhd.m3u8?s=3644
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/tcpipoca.png" group-title="Filmes e Séries",Telecine Pipoca FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-pipoca-fhd.m3u8?s=3647
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/tcpremium.png" group-title="Filmes e Séries",Telecine Premium FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-premium-fhd.m3u8?s=3650
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/tctouch.png" group-title="Filmes e Séries",Telecine Touch FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-touch-fhd.m3u8?s=3653
+#EXTINF:-1 group-title="Filmes e Séries",TNT 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-tnt-4k.m3u8?s=3592
+#EXTINF:-1 group-title="TV Aberta",TV Gazeta Vitória ES FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-tv-gazeta-vitoria-es-fhd.m3u8?s=3378
+#EXTINF:-1 group-title="Filmes e Séries",Universal 4K
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-universal-4k.m3u8?s=3593
+#EXTINF:-1 group-title="TV Aberta",Band Bahia HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-band-bahia-hd.m3u8?s=3760
+#EXTINF:-1 group-title="TV Aberta",Band Minas MG HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-band-minas-mg-hd.m3u8?s=3768
+#EXTINF:-1 tvg-logo="https://logos.tonaonda.uk/logos/bandnews.png" group-title="Notícias",BAND NEWS HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-band-news-hd.m3u8?s=3874
 #EXTINF:-1 tvg-logo="https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png" group-title="TV Aberta",Cultura Fast (720p)
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 tvg-logo="https://logos.tonaonda.uk/logos/cultura.png" group-title="TV Aberta",CULTURA HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-cultura-hd.m3u8?s=3861
+#EXTINF:-1 tvg-logo="https://logos.tonaonda.uk/logos/cultura.png" group-title="TV Aberta",CULTURA SD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-cultura-sd.m3u8?s=3860
 #EXTINF:-1 group-title="TV Aberta",Globo Amazonica Manaus HD
 https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-amazonica-manaus-hd.m3u8?s=3558
+#EXTINF:-1 group-title="TV Aberta",Globo Amazônica Rio Branco HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-amazonica-rio-branco-hd.m3u8?s=3551
 #EXTINF:-1 group-title="TV Aberta",Globo Bahia Santa Cruz HD
 https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-bahia-santa-cruz-hd.m3u8?s=3550
+#EXTINF:-1 group-title="TV Aberta",Globo Bahia VDC HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-bahia-vdc-hd.m3u8?s=3549
+#EXTINF:-1 group-title="TV Aberta",Globo SJ do Rio Preto HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-sj-do-rio-preto-hd.m3u8?s=3471
+#EXTINF:-1 group-title="TV Aberta",Globo SP HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-sp-hd.m3u8?s=3468
 #EXTINF:-1 group-title="TV Aberta",Globo TV Belem HD
 https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-tv-belem-hd.m3u8?s=3454
+#EXTINF:-1 group-title="TV Aberta",Globo TV Diário HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-tv-diario-hd.m3u8?s=3446
+#EXTINF:-1 group-title="TV Aberta",Globo TV Diário Mogi HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-tv-diario-mogi-hd.m3u8?s=3445
+#EXTINF:-1 group-title="TV Aberta",Globo TV Rio Sul HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-tv-rio-sul-hd-1.m3u8?s=3401
+#EXTINF:-1 group-title="TV Aberta",Globo TV Rio Sul HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-tv-rio-sul-hd.m3u8?s=3400
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Infantil",Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png" group-title="Filmes e Séries",Jornada nas Estrelas: Deep Space Nine
@@ -59,30 +209,60 @@ https://ntcstudios.com.br/ntctv/play/live/ntctv-nickelodeon-webtv.m3u8?s=98
 https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Notícias",Pluto TV Record News (720p)
 https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
+#EXTINF:-1 tvg-logo="https://logos.tonaonda.uk/logos/record.png" group-title="TV Aberta",RECORD MINAS
+https://ntcstudios.com.br/ntctv/play/live/ntctv-record-minas.m3u8?s=3866
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" group-title="Notícias",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-logo="https://logos.tonaonda.uk/logos/record.png" group-title="TV Aberta",RECORD RIO
+https://ntcstudios.com.br/ntctv/play/live/ntctv-record-rio.m3u8?s=3867
+#EXTINF:-1 tvg-logo="https://logos.tonaonda.uk/logos/record.png" group-title="TV Aberta",RECORD SP HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-record-sp-hd.m3u8?s=3868
+#EXTINF:-1 tvg-logo="https://logos.tonaonda.uk/logos/redetv.png" group-title="TV Aberta",REDE TV HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-rede-tv-hd.m3u8?s=3869
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="TV Aberta",Rede TV! Mais (720p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D8R0Af4.png" group-title="TV Aberta",RedeTV! Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Infantil",Retro Cartoon (720p)
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
+#EXTINF:-1 group-title="TV Aberta",SBT Aratu BA HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sbt-aratu-ba-hd.m3u8?s=3597
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EZJWQ3i.png" group-title="TV Aberta",SBT Cuiaba (818p)
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="TV Aberta",SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 group-title="TV Aberta",SBT Internacional
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sbt-internacional.m3u8?s=3606
+#EXTINF:-1 group-title="TV Aberta",SBT Minas HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sbt-minas-hd.m3u8?s=3611
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="Notícias",SBT News (720p)
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png" group-title="TV Aberta",SBT Nova Mutum (818p)
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 group-title="TV Aberta",SBT PE HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sbt-pe-hd.m3u8?s=3616
+#EXTINF:-1 group-title="TV Aberta",SBT PR HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sbt-pr-hd.m3u8?s=3619
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png" group-title="TV Aberta",SBT Rondonopolis (720p)
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+#EXTINF:-1 group-title="TV Aberta",SBT RS HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sbt-rs-hd.m3u8?s=3623
+#EXTINF:-1 group-title="TV Aberta",SBT TAMBAU PB HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sbt-tambau-pb-hd.m3u8?s=3628
+#EXTINF:-1 group-title="TV Aberta",SBT TV Jornal PE HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sbt-tv-jornal-pe-hd.m3u8?s=3632
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntct/NTCTV.png" group-title="TV Aberta",TV APARECIDA
+https://ntcstudios.com.br/ntctv/play/live/ntctv-aparecida.m3u8?s=3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="TV Aberta",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 group-title="TV Aberta",TV Gazeta Sul ES HD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-tv-gazeta-sul-es-hd.m3u8?s=3379
 #EXTINF:-1 group-title="TV Aberta",TV Gazeta Vitória ES HD
 https://ntcstudios.com.br/ntctv/play/live/ntctv-tv-gazeta-vitoria-es-hd.m3u8?s=3377
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Filmes e Séries",TV Universal (480p)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" group-title="Filmes e Séries",+MaisUm (720p)
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 group-title="Fornecedores IPTV",24H-UM MALUCO NO PEDA S06
 https://ntcstudios.com.br/ntctv/play/live/ntctv-24h-um-maluco-no-peda-s06.m3u8?s=4091
 #EXTINF:-1 group-title="Fornecedores IPTV",24H-WEBBULLYING NA TV
@@ -97,40 +277,6 @@ https://ntcstudios.com.br/ntctv/play/live/ntctv-24h-zorra-total-1999.m3u8?s=4095
 https://ntcstudios.com.br/ntctv/play/live/ntctv-24h-zorra-total-2013.m3u8?s=4100
 #EXTINF:-1 group-title="Fornecedores IPTV",24H-ZORRA TOTAL 2014
 https://ntcstudios.com.br/ntctv/play/live/ntctv-24h-zorra-total-2014.m3u8?s=4101
-#EXTINF:-1 tvg-logo="https://logos.tonaonda.uk/logos/agrocanal.png" group-title="TV Aberta",CANAL AGRO
-https://ntcstudios.com.br/ntctv/play/live/ntctv-canal-agro.m3u8?s=3871
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntct/NTCTV.png" group-title="Esportes",Comedy Central WebTV
-https://ntcstudios.com.br/ntctv/play/live/ntctv-comedy-central-webtv.m3u8?s=95
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntct/NTCTV.png" group-title="Infantil",MI TV | Ministério Infantil TV
-https://ntcstudios.com.br/ntctv/play/live/ntctv-mi-tv-ministerio-infantil-tv.m3u8?s=97
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntct/NTCTV.png" group-title="Infantil",NTC TV
-https://ntcstudios.com.br/ntctv/play/live/ntctv-tv.m3u8?s=20
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS NEWS
-https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-news.m3u8?s=31
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS SPORTS
-https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-sports.m3u8?s=25
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS SPORTS 2
-https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-sports-2.m3u8?s=26
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS SPORTS 3
-https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-sports-3.m3u8?s=27
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS SPORTS 4
-https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-sports-4.m3u8?s=28
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS SPORTS 5
-https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-sports-5.m3u8?s=29
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntct/NTCTV.png" group-title="Infantil",The JetSons 24 HORAS
-https://ntcstudios.com.br/ntctv/play/live/ntctv-jetsons.m3u8?s=4
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntct/NTCTV.png" group-title="Esportes",TV Latinasat
-https://ntcstudios.com.br/ntctv/play/live/ntctv-tv-latinasat.m3u8?s=94
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Notícias",TV Life América
-https://ntcstudios.com.br/ntctv/play/live/ntctv-tv-life-america.m3u8?s=16
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Notícias",TV Rabelo
-https://ntcstudios.com.br/ntctv/play/live/ntctv-tv-rabelo.m3u8?s=129
-#EXTINF:-1 group-title="TV Aberta",TV Tem Bauru FHD
-https://ntcstudios.com.br/ntctv/play/live/ntctv-tv-tem-bauru-fhd.m3u8?s=3375
-#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Fornecedores IPTV",Xtreme TV
-https://ntcstudios.com.br/ntctv/play/live/ntctv-xtreme-tv.m3u8?s=23
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" group-title="Filmes e Séries",+MaisUm (720p)
-https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Fornecedores IPTV",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Filmes e Séries",Adrenalina Pura TV Brazil
@@ -161,6 +307,8 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="Notícias",Canal 38 (720p)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logos.tonaonda.uk/logos/agrocanal.png" group-title="TV Aberta",CANAL AGRO
+https://ntcstudios.com.br/ntctv/play/live/ntctv-canal-agro.m3u8?s=3871
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7SE4CkE.png" group-title="Documentários",Canal FDR (1080p)
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0x4xqa.png" group-title="Notícias",Canal Metropolitano de Noticias
@@ -187,6 +335,8 @@ https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png" group-title="Infantil",Comedy Central South Park
 https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntct/NTCTV.png" group-title="Esportes",Comedy Central WebTV
+https://ntcstudios.com.br/ntctv/play/live/ntctv-comedy-central-webtv.m3u8?s=95
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHwTWlz.png" group-title="Fornecedores IPTV",Conecta Mais TV (720p)
 https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="Fornecedores IPTV",ConecTV Brasil (720p)
@@ -215,6 +365,8 @@ https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="Fornecedores IPTV",Fonte TV
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
+#EXTINF:-1 tvg-logo="https://logos.tonaonda.uk/logos/futura.png" group-title="TV Aberta",FUTURA FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-futura-fhd.m3u8?s=3863
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Filmes e Séries",Gospel Movie TV (360p)
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Infantil",iCarly (United States)
@@ -241,6 +393,8 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="Filmes e Séries",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntct/NTCTV.png" group-title="Infantil",MI TV | Ministério Infantil TV
+https://ntcstudios.com.br/ntctv/play/live/ntctv-mi-tv-ministerio-infantil-tv.m3u8?s=97
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Filmes e Séries",MyTime Movie Network (Brazil) (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Infantil",Naruto Brazil
@@ -249,6 +403,10 @@ https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 #EXTINF:-1 tvg-logo="https://x1colegal.com/logo.png" group-title="Infantil",NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Esportes",Nsports FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-nsports-fhd-1.m3u8?s=3716
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntct/NTCTV.png" group-title="Infantil",NTC TV
+https://ntcstudios.com.br/ntctv/play/live/ntctv-tv.m3u8?s=20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n79nkVC.png" group-title="Fornecedores IPTV",NTV (Brazil) (720p)
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png" group-title="Filmes e Séries",Numbers (United States)
@@ -385,6 +543,18 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Unjs1wi.png" group-title="Fornecedores IPTV",RIT TV (1080p)
 https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS NEWS
+https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-news.m3u8?s=31
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS SPORTS
+https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-sports.m3u8?s=25
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS SPORTS 2
+https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-sports-2.m3u8?s=26
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS SPORTS 3
+https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-sports-3.m3u8?s=27
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS SPORTS 4
+https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-sports-4.m3u8?s=28
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Esportes",RS SPORTS 5
+https://ntcstudios.com.br/ntctv/play/live/ntctv-rs-sports-5.m3u8?s=29
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Documentários",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" group-title="Fornecedores IPTV",SOU TV
@@ -397,6 +567,10 @@ https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
 https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="Infantil",South Park: Colecao Stan
 https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="Esportes",SportyNet 01
+https://ntcstudios.com.br/ntctv/play/live/ntctv-sportynet-01.m3u8?s=3696
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="Esportes",SportyNet 05
+https://ntcstudios.com.br/ntctv/play/live/ntctv-sportynet-05.m3u8?s=3700
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Filmes e Séries",Star Trek
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Notícias",STZ TV (1080p)
@@ -405,6 +579,8 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="Notícias",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntct/NTCTV.png" group-title="Infantil",The JetSons 24 HORAS
+https://ntcstudios.com.br/ntctv/play/live/ntctv-jetsons.m3u8?s=4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Infantil",The Pet Collective Brazil (720p)
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg" group-title="Música",TikTok Radio Brasil (1080p)
@@ -453,6 +629,10 @@ https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eDNzwK0.png" group-title="Fornecedores IPTV",TV Guarapari (720p)
 https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntct/NTCTV.png" group-title="Esportes",TV Latinasat
+https://ntcstudios.com.br/ntctv/play/live/ntctv-tv-latinasat.m3u8?s=94
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Notícias",TV Life América
+https://ntcstudios.com.br/ntctv/play/live/ntctv-tv-life-america.m3u8?s=16
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZI0ilU.png" group-title="Documentários",TV Life America (720p)
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg" group-title="Fornecedores IPTV",TV Litoral RN (720p)
@@ -473,12 +653,16 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png" group-title="Fornecedores IPTV",TV Petropolis (720p)
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Notícias",TV Rabelo
+https://ntcstudios.com.br/ntctv/play/live/ntctv-tv-rabelo.m3u8?s=129
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f34CQIG.png" group-title="Fornecedores IPTV",TV Sao Raimundo (268p)
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Filmes e Séries",TV Series (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Notícias",TV Sim Cachoeiro (720p)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 group-title="TV Aberta",TV Tem Bauru FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-tv-tem-bauru-fhd.m3u8?s=3375
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="Fornecedores IPTV",TV Terceiro Anjo (360p)
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" group-title="Documentários",TV UFOP (1080p)
@@ -499,9 +683,45 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="Fornecedores IPTV",TVNBN (720p)
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 group-title="Fornecedores IPTV",UFCPASS 03 - 24H
+https://ntcstudios.com.br/ntctv/play/live/ntctv-ufcpass-03-24h.m3u8?s=3813
+#EXTINF:-1 group-title="Fornecedores IPTV",UFCPASS 04 - 24H
+https://ntcstudios.com.br/ntctv/play/live/ntctv-ufcpass-04-24h.m3u8?s=3814
+#EXTINF:-1 group-title="Fornecedores IPTV",UFCPASS 05 - 24H
+https://ntcstudios.com.br/ntctv/play/live/ntctv-ufcpass-05-24h.m3u8?s=3815
+#EXTINF:-1 group-title="Fornecedores IPTV",UFCPASS 07 - 24H
+https://ntcstudios.com.br/ntctv/play/live/ntctv-ufcpass-07-24h.m3u8?s=3816
+#EXTINF:-1 group-title="Fornecedores IPTV",UFCPASS 10 - 24H
+https://ntcstudios.com.br/ntctv/play/live/ntctv-ufcpass-10-24h.m3u8?s=3817
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0RVb79.png" group-title="Fornecedores IPTV",UMA TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Documentários",Unisul TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0pxHo4.png" group-title="Notícias",VEJA+ TV (1080p)
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-logo="https://7svoficial.com/canais/xsports.png" group-title="Esportes",X SPORTS FHD
+https://ntcstudios.com.br/ntctv/play/live/ntctv-x-sports-fhd.m3u8?s=3683
+#EXTINF:-1 tvg-logo="https://ntcstudios.com.br/ntctv/NTCTV.png" group-title="Fornecedores IPTV",Xtreme TV
+https://ntcstudios.com.br/ntctv/play/live/ntctv-xtreme-tv.m3u8?s=23
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Canais Estrangeiros",Asharq Discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Canais Estrangeiros",Cartoon Network Intl (720p)
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Canais Estrangeiros",ESPN 2 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Canais Estrangeiros",ESPN 4 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Canais Estrangeiros",ESPN Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png" group-title="Canais Estrangeiros",Pluto TV Action Movies (Intl)
+https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" group-title="Canais Estrangeiros",Pluto TV Anime LatAm
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" group-title="Canais Estrangeiros",Pluto TV K-Drama (Intl)
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
+#EXTINF:-1 tvg-logo="https://tvs-de-portugal.fly.dev/rtp/logos/rtp1.png" group-title="Canais Estrangeiros",RTP 1 (Portugal)
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvs-de-portugal.fly.dev/rtp/logos/rtp3.png" group-title="Canais Estrangeiros",RTP Not?cias (Portugal)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvs-de-portugal.fly.dev/sic/logos/sicreplay.png" group-title="Canais Estrangeiros",SIC Replay (Portugal)
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
