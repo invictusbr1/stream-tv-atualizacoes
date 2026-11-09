@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-08T13:30:04.987Z",
+ "atualizadoEm": "2026-11-09T02:50:09.838Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -128,6 +128,160 @@
    "url": "https://iptv-org.github.io/iptv/index.m3u",
    "nota": 8.4,
    "medidoEm": "2026-10-10T20:34:22.627Z"
+  },
+  {
+   "id": "brasil",
+   "nome": "Canais do Brasil (TV Aberta e variedades)",
+   "url": "https://iptv-org.github.io/iptv/countries/br.m3u",
+   "nota": 8.5,
+   "medidoEm": "2026-11-09T02:48:59.961Z",
+   "setor": "tv-aberta",
+   "canais": 300,
+   "qualidade": "720p",
+   "taxaSucesso": 50
+  },
+  {
+   "id": "portugues",
+   "nome": "Canais em Português",
+   "url": "https://iptv-org.github.io/iptv/languages/por.m3u",
+   "nota": 9,
+   "medidoEm": "2026-11-09T02:49:03.113Z",
+   "setor": "tv-aberta",
+   "canais": 356,
+   "qualidade": "1080p",
+   "taxaSucesso": 50
+  },
+  {
+   "id": "esportes",
+   "nome": "Esportes ao vivo",
+   "url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+   "nota": 9.7,
+   "medidoEm": "2026-11-09T02:49:06.166Z",
+   "setor": "esportes",
+   "canais": 278,
+   "qualidade": "1080p",
+   "taxaSucesso": 83
+  },
+  {
+   "id": "filmes",
+   "nome": "Filmes (TV ao vivo)",
+   "url": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+   "nota": 8.7,
+   "medidoEm": "2026-11-09T02:49:07.546Z",
+   "setor": "filmes",
+   "canais": 516,
+   "qualidade": "HLS",
+   "taxaSucesso": 83
+  },
+  {
+   "id": "series",
+   "nome": "Séries (TV ao vivo)",
+   "url": "https://iptv-org.github.io/iptv/categories/series.m3u",
+   "nota": 9,
+   "medidoEm": "2026-11-09T02:49:09.812Z",
+   "setor": "filmes",
+   "canais": 455,
+   "qualidade": "HLS",
+   "taxaSucesso": 100
+  },
+  {
+   "id": "noticias",
+   "nome": "Notícias 24h",
+   "url": "https://iptv-org.github.io/iptv/categories/news.m3u",
+   "nota": 9.7,
+   "medidoEm": "2026-11-09T02:49:11.249Z",
+   "setor": "noticias",
+   "canais": 911,
+   "qualidade": "1080p",
+   "taxaSucesso": 83
+  },
+  {
+   "id": "infantil",
+   "nome": "Infantil e Desenhos",
+   "url": "https://iptv-org.github.io/iptv/categories/kids.m3u",
+   "nota": 9.2,
+   "medidoEm": "2026-11-09T02:49:13.148Z",
+   "setor": "infantil",
+   "canais": 285,
+   "qualidade": "720p",
+   "taxaSucesso": 83
+  },
+  {
+   "id": "animacao",
+   "nome": "Animação 24h",
+   "url": "https://iptv-org.github.io/iptv/categories/animation.m3u",
+   "nota": 8.5,
+   "medidoEm": "2026-11-09T02:49:16.017Z",
+   "setor": "infantil",
+   "canais": 142,
+   "qualidade": "720p",
+   "taxaSucesso": 83
+  },
+  {
+   "id": "documentarios",
+   "nome": "Documentários e História",
+   "url": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+   "nota": 9.7,
+   "medidoEm": "2026-11-09T02:49:17.307Z",
+   "setor": "documentarios",
+   "canais": 176,
+   "qualidade": "1080p",
+   "taxaSucesso": 83
+  },
+  {
+   "id": "cultura",
+   "nome": "Cultura e Ciência",
+   "url": "https://iptv-org.github.io/iptv/categories/culture.m3u",
+   "nota": 9.6,
+   "medidoEm": "2026-11-09T02:49:18.638Z",
+   "setor": "documentarios",
+   "canais": 160,
+   "qualidade": "1080p",
+   "taxaSucesso": 80
+  },
+  {
+   "id": "musica",
+   "nome": "Música e Shows",
+   "url": "https://iptv-org.github.io/iptv/categories/music.m3u",
+   "nota": 9.3,
+   "medidoEm": "2026-11-09T02:49:20.888Z",
+   "setor": "musica",
+   "canais": 658,
+   "qualidade": "1080p",
+   "taxaSucesso": 67
+  },
+  {
+   "id": "free-tv-brasil",
+   "nome": "Free-TV Brasil (aberta)",
+   "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_brazil.m3u8",
+   "nota": 7,
+   "medidoEm": "2026-11-09T02:49:22.342Z",
+   "setor": "tv-aberta",
+   "canais": 8,
+   "qualidade": "1080p",
+   "taxaSucesso": 50
+  },
+  {
+   "id": "iptv-brazil",
+   "nome": "iptv (brazil.m3u)",
+   "url": "https://github.com/iptv-com/iptv/raw/refs/heads/main/lists/brazil.m3u",
+   "nota": 7.4,
+   "medidoEm": "2026-11-09T02:50:06.897Z",
+   "setor": "fornecedores",
+   "canais": 18,
+   "qualidade": "1080p",
+   "taxaSucesso": 40
+  },
+  {
+   "id": "cacador-verificados",
+   "nome": "Verificados pelo caçador",
+   "url": "https://raw.githubusercontent.com/invictusbr1/stream-tv-atualizacoes/main/tv-cacador-verificados.m3u",
+   "nota": 9.5,
+   "medidoEm": "2026-11-09T02:50:08.351Z",
+   "setor": "fornecedores",
+   "canais": 55,
+   "qualidade": "HD",
+   "reproducaoConfirmada": true
   }
  ],
  "placar": [
