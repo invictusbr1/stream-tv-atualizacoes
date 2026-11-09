@@ -1,16 +1,16 @@
 {
-    "versionCode":  486,
-    "versionName":  "2.13.157",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.157/Conecta-TV-Android-2.13.157.apk",
-    "sha256":  "a47b614ce7e890c869bf18342b2d2b77ed6787d31ca0fba0ae3c460f1d909f59",
-    "bytes":  597173,
-    "notes":  "Qualidade: o celular espera a TorBox (4K/Full HD) em vez de cair em 534p; arquivo que trava e trocado por outro da TorBox.",
+    "versionCode":  487,
+    "versionName":  "2.14.0",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.0/Conecta-TV-Android-2.14.0.apk",
+    "sha256":  "7160036c3ffe0f0988dbaabde93757b82aa3d5b2c5d97c101e99c28c6fc6d267",
+    "bytes":  758403,
+    "notes":  "Nova marca: Grupo Conecta! Icone novo, cores azul e ciano e logo no app. Tambem: 4K escolhido primeiro quando existe.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.157/Conecta-TV-TV-2.13.157.apk",
-    "apkTvSha256":  "9d6c2dad8a7126529840e9ef698050afc7d0688c3fb3ee62ae4dadecc9516f73",
-    "apkTvBytes":  596858,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.0/Conecta-TV-TV-2.14.0.apk",
+    "apkTvSha256":  "5d40d5a6c7a920fa1bba3e89d15db658857b1dc784da449234fd89fedfb8d476",
+    "apkTvBytes":  758098,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
