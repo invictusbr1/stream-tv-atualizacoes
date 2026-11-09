@@ -1,16 +1,16 @@
 {
-    "versionCode":  487,
-    "versionName":  "2.14.0",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.0/Conecta-TV-Android-2.14.0.apk",
-    "sha256":  "7160036c3ffe0f0988dbaabde93757b82aa3d5b2c5d97c101e99c28c6fc6d267",
-    "bytes":  758403,
-    "notes":  "Nova marca: Grupo Conecta! Icone novo, cores azul e ciano e logo no app. Tambem: 4K escolhido primeiro quando existe.",
+    "versionCode":  488,
+    "versionName":  "2.14.1",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.1/Conecta-TV-Android-2.14.1.apk",
+    "sha256":  "da695048dec57d3cfbd0dd5d71678d04f0ede09cf2e4156a589cec1ca5fc10f7",
+    "bytes":  758601,
+    "notes":  "Nova marca: Grupo Conecta! Icone novo, cores azul e ciano. Menos travamentos: video comeca com mais folga e, se cair depois de pular para frente, volta no ponto certo.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.0/Conecta-TV-TV-2.14.0.apk",
-    "apkTvSha256":  "5d40d5a6c7a920fa1bba3e89d15db658857b1dc784da449234fd89fedfb8d476",
-    "apkTvBytes":  758098,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.1/Conecta-TV-TV-2.14.1.apk",
+    "apkTvSha256":  "5027db74dcd1994d3b2e13230e9065a9d032a325ed2a8cbafbf562b2df100c0c",
+    "apkTvBytes":  758284,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
