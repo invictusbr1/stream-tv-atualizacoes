@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-09T03:03:07.525Z",
+ "atualizadoEm": "2026-11-09T03:10:49.263Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -267,7 +267,7 @@
    "url": "https://github.com/iptv-com/iptv/raw/refs/heads/main/lists/brazil.m3u",
    "nota": 7.4,
    "medidoEm": "2026-11-09T03:01:44.744Z",
-   "setor": "fornecedores",
+   "setor": "tv-aberta",
    "canais": 18,
    "qualidade": "1080p",
    "taxaSucesso": 40
@@ -279,7 +279,7 @@
    "nota": 9.5,
    "medidoEm": "2026-11-09T03:03:05.698Z",
    "setor": "fornecedores",
-   "canais": 93,
+   "canais": 81,
    "qualidade": "HD",
    "reproducaoConfirmada": true
   }
