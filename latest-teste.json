@@ -2,15 +2,15 @@
     "versionCode":  493,
     "versionName":  "2.14.6",
     "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.6/Conecta-TV-Android-2.14.6.apk",
-    "sha256":  "ad2b0e975c8b5d399609fe2974876c9d92bae334a30378aa7072725859735604",
-    "bytes":  782348,
+    "sha256":  "aa855b8b48d833dbab32ee3cf9667481736031a9fb97499f6008527bffa95921",
+    "bytes":  873898,
     "notes":  "Correcao do travamento de 14 minutos em filmes convertidos, preservacao da duracao total de 3h, badges espelhados dos streamings e indicacoes da familia.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
     "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.6/Conecta-TV-TV-2.14.6.apk",
-    "apkTvSha256":  "f115222c5c1bff7943f50e7764866ee1192c5a2f03960dbf270e1b431aba2e26",
-    "apkTvBytes":  781966,
+    "apkTvSha256":  "305c789d704af3b5507c74fcdf00e9971ec994f45269e442e6fdf6e4a7c2bf9a",
+    "apkTvBytes":  873516,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
