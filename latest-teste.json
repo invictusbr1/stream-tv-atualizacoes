@@ -1,16 +1,16 @@
 {
-    "versionCode":  493,
-    "versionName":  "2.14.6",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.6/Conecta-TV-Android-2.14.6.apk",
-    "sha256":  "aa855b8b48d833dbab32ee3cf9667481736031a9fb97499f6008527bffa95921",
-    "bytes":  873898,
-    "notes":  "Correcao do travamento de 14 minutos em filmes convertidos, preservacao da duracao total de 3h, badges espelhados dos streamings e indicacoes da familia.",
+    "versionCode":  494,
+    "versionName":  "2.14.7",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.7/Conecta-TV-Android-2.14.7.apk",
+    "sha256":  "7fc87c7b4c1fab4f72ab2eafb4b4de49ce4363a77982bcb78dd174729d378b96",
+    "bytes":  782099,
+    "notes":  "Anime legendado liga a legenda em portugues sozinho; no navegador (PC e iPhone) os videos abrem em H.264, que funciona em todos; relatorio de falhas mais detalhado.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.6/Conecta-TV-TV-2.14.6.apk",
-    "apkTvSha256":  "305c789d704af3b5507c74fcdf00e9971ec994f45269e442e6fdf6e4a7c2bf9a",
-    "apkTvBytes":  873516,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.7/Conecta-TV-TV-2.14.7.apk",
+    "apkTvSha256":  "264c3ffa14bd5483b93fa0ad50a27f811ca5eb66d9238e88f7878f5670983d06",
+    "apkTvBytes":  781729,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
