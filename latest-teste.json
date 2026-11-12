@@ -1,16 +1,16 @@
 {
-    "versionCode":  494,
-    "versionName":  "2.14.7",
-    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.7/Conecta-TV-Android-2.14.7.apk",
-    "sha256":  "7fc87c7b4c1fab4f72ab2eafb4b4de49ce4363a77982bcb78dd174729d378b96",
-    "bytes":  782099,
-    "notes":  "Anime legendado liga a legenda em portugues sozinho; no navegador (PC e iPhone) os videos abrem em H.264, que funciona em todos; relatorio de falhas mais detalhado.",
+    "versionCode":  495,
+    "versionName":  "2.14.8",
+    "apkUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.8/Conecta-TV-Android-2.14.8.apk",
+    "sha256":  "5ecd4668c203668288470826c2fe925ba609c93b06b2b4dfbd84fb9d69c78d9c",
+    "bytes":  785153,
+    "notes":  "Nova aba Familia: top 10 filmes e top 10 series avaliados pela familia, mais comentados, avaliacoes recentes e o que cada um disse.",
     "exeUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.13.117/Conecta.TV.exe",
     "exeSha256":  "9f1cbee5931e53e469dd488a7b3bfbfca9dd8077681a87ded02bad70ab657f7d",
     "exeBytes":  120134995,
-    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.7/Conecta-TV-TV-2.14.7.apk",
-    "apkTvSha256":  "264c3ffa14bd5483b93fa0ad50a27f811ca5eb66d9238e88f7878f5670983d06",
-    "apkTvBytes":  781729,
+    "apkTvUrl":  "https://github.com/invictusbr1/stream-tv-atualizacoes/releases/download/v2.14.8/Conecta-TV-TV-2.14.8.apk",
+    "apkTvSha256":  "f42c187ceaa3ee1053ce189e8a326051df3abaea5022b3b9cbbdc690dd14bad8",
+    "apkTvBytes":  784773,
     "aparelhos":  [
                       "du3q4sqeegf8w"
                   ]
