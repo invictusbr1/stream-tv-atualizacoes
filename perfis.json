@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-09T23:09:56.546Z",
+ "atualizadoEm": "2026-11-12T01:28:48.617Z",
  "perfis": [
   {
    "id": "fenixflix-fenixhub",
@@ -121,6 +121,64 @@
    "adicionadaEm": "2026-11-09T23:03:26.958Z",
    "falhasDeValidacao": 0,
    "urlMovie": "https://brazuca-play.onrender.com/stream/movie/{imdb}.json"
+  },
+  {
+   "id": "veyra",
+   "nome": "Veyra",
+   "nota": 8,
+   "dublado": true,
+   "qualidade": "1080p",
+   "tipos": [
+    "movie",
+    "tv"
+   ],
+   "urlMovie": "https://veyra.shardweb.app/stream/movie/{imdb}.json",
+   "urlTv": "https://veyra.shardweb.app/stream/series/{imdb}:{temporada}:{episodio}.json",
+   "referer": "https://veyra.shardweb.app/",
+   "origem": "caçada por título (catálogo de addons)",
+   "stremio": true,
+   "ativo": true,
+   "medidoEm": "2026-11-12T01:21:01.775Z",
+   "passos": [
+    {
+     "tipo": "json",
+     "caminho": "streams[0].url"
+    }
+   ],
+   "evidencia": "Quem Ama Cuida · T1 E141: faixa de áudio em português (padrão do arquivo) · 1080p | A Nobreza do Amor 1x190: faixa de áudio em português (padrão do arquivo) · 1080p | Três Graças 1x176: faixa de áudio em português (padrão do arquivo) · 1080",
+   "provas": [
+    {
+     "amostra": "Quem Ama Cuida · T1 E141",
+     "ok": true,
+     "url": "https://veyra.shardweb.app/series/aHR0cDovL2JyYmxhY2s5OS5zaXRlOjgwL3Nlcmllcy83NjM3YWJ3aGIvNzQ5OWZmZ3phLzE2NDUwNjEubXA0",
+     "altura": 1080,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "faixa de áudio em português (padrão do arquivo)",
+     "motivo": ""
+    },
+    {
+     "amostra": "A Nobreza do Amor 1x190",
+     "ok": true,
+     "url": "https://veyra.shardweb.app/series/aHR0cDovL2xpbmVvdXQuc2l0ZTo4MC9zZXJpZXMvNDQ0NmR4YXVnLzI0Njd5Z3N4dC81MjEzMDg4Lm1wNA",
+     "altura": 1080,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "faixa de áudio em português (padrão do arquivo)",
+     "motivo": ""
+    },
+    {
+     "amostra": "Três Graças 1x176",
+     "ok": true,
+     "url": "https://veyra.shardweb.app/series/aHR0cDovL2Rib25saW5lLnRlY2gtY2RuLnRvcC9zZXJpZXMva2UtdmluLTA5MjgzOTIwODMvUFpqRjZYQVRUWi8yNTUxMDYubXA0",
+     "altura": 1080,
+     "dublado": true,
+     "atendePadrao": true,
+     "evidencia": "faixa de áudio em português (padrão do arquivo)",
+     "motivo": ""
+    }
+   ],
+   "cacadaPor": "Quem Ama Cuida · T1 E141"
   }
  ],
  "listasTv": [
@@ -381,17 +439,17 @@
    "base": "https://mico-leao-dublado-apiv-2.vercel.app",
    "nome": "🦁 Mico Leão Dublado V2",
    "ativo": true,
-   "motivo": "dublado novo pronto na TorBox: A Origem +1, Oppenheimer +1, Moana 2 +1, Breaking Bad T1E1 +13",
-   "novos": 16,
-   "aprovadaEm": "2026-11-08T00:21:36.043Z"
+   "motivo": "anime novo pronto na TorBox: Frieren T1E5 +1, Jujutsu Kaisen T1E3 +1 (1 dub), Demon Slayer T1E1 +5 (5 dub)",
+   "novos": 6,
+   "aprovadaEm": "2026-11-12T01:27:32.694Z"
   },
   {
    "base": "https://addon.peerflix.mov",
    "nome": "Peerflix",
    "ativo": true,
-   "motivo": "dublado novo pronto na TorBox: A Origem +1, Divertida Mente 2 +2, Oppenheimer +2, Moana 2 +7, Deadpool & Wolverine +1",
-   "novos": 13,
-   "aprovadaEm": "2026-11-08T00:22:23.242Z"
+   "motivo": "anime novo pronto na TorBox: Dandadan T1E2 +2 (1 dub), Solo Leveling T1E4 +1, Spy x Family T1E2 +1",
+   "novos": 1,
+   "aprovadaEm": "2026-11-12T01:27:49.423Z"
   },
   {
    "base": "https://torrentio.strem.fun/providers=nyaasi,tokyotosho,anidex,horriblesubs",
@@ -424,6 +482,14 @@
    "motivo": "anime novo pronto na TorBox: Solo Leveling T1E4 +2, Spy x Family T1E2 +1 (1 dub)",
    "novos": 1,
    "aprovadaEm": "2026-11-08T13:29:34.511Z"
+  },
+  {
+   "base": "https://comet.feels.legal",
+   "nome": "Comet",
+   "ativo": true,
+   "motivo": "anime novo pronto na TorBox: Frieren T1E5 +1, Solo Leveling T1E4 +27 (1 dub), Spy x Family T1E2 +23 (4 dub)",
+   "novos": 5,
+   "aprovadaEm": "2026-11-12T01:25:54.746Z"
   }
  ],
  "listasAnime": [
@@ -506,6 +572,56 @@
    "legendado": 44,
    "dublado": 6,
    "aprovadaEm": "2026-11-08T13:30:04.347Z"
+  },
+  {
+   "base": "https://comet.feels.legal",
+   "nome": "Comet",
+   "ativo": true,
+   "motivo": "anime novo pronto na TorBox: Frieren T1E5 +1, Solo Leveling T1E4 +27 (1 dub), Spy x Family T1E2 +23 (4 dub)",
+   "novos": 51,
+   "legendado": 46,
+   "dublado": 5,
+   "aprovadaEm": "2026-11-12T01:25:54.740Z"
+  },
+  {
+   "base": "https://icv.stremio-italia.eu",
+   "nome": "IlCorsaroViola",
+   "ativo": true,
+   "motivo": "anime novo pronto na TorBox: Dandadan T1E2 +1, Solo Leveling T1E4 +1, Spy x Family T1E2 +4",
+   "novos": 6,
+   "legendado": 6,
+   "dublado": 0,
+   "aprovadaEm": "2026-11-12T01:26:14.614Z"
+  },
+  {
+   "base": "https://mediafusionfortheweebs.midnightignite.me",
+   "nome": "MediaFusion | Midnight",
+   "ativo": true,
+   "motivo": "anime novo pronto na TorBox: Solo Leveling T1E4 +2, Spy x Family T1E2 +2",
+   "novos": 4,
+   "legendado": 4,
+   "dublado": 0,
+   "aprovadaEm": "2026-11-12T01:26:28.835Z"
+  },
+  {
+   "base": "https://mico-leao-dublado-apiv-2.vercel.app",
+   "nome": "🦁 Mico Leão Dublado V2",
+   "ativo": true,
+   "motivo": "anime novo pronto na TorBox: Frieren T1E5 +1, Jujutsu Kaisen T1E3 +1 (1 dub), Demon Slayer T1E1 +5 (5 dub)",
+   "novos": 7,
+   "legendado": 1,
+   "dublado": 6,
+   "aprovadaEm": "2026-11-12T01:27:32.688Z"
+  },
+  {
+   "base": "https://addon.peerflix.mov",
+   "nome": "Peerflix",
+   "ativo": true,
+   "motivo": "anime novo pronto na TorBox: Dandadan T1E2 +2 (1 dub), Solo Leveling T1E4 +1, Spy x Family T1E2 +1",
+   "novos": 4,
+   "legendado": 3,
+   "dublado": 1,
+   "aprovadaEm": "2026-11-12T01:27:49.417Z"
   }
  ]
 }
